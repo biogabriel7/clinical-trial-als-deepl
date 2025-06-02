@@ -1,0 +1,21 @@
+name: clinical-trial
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pycox
+  - torchtuples
+  - tqdm
+  - jupyter
+  - ipykernel 

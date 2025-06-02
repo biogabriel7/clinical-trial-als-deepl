@@ -1,0 +1,963 @@
+reached_phase_3_plus,Actual Accrual (% of Target),Enrollment Close Date,Start Date,Actual Accrual (No. of patients),Primary Endpoints Reported Date,Target Accrual,Treatment Duration (Mos.),Treatment Duration Type,Enrollment Duration Type,Trial.ID,Pts/Site/Mo,Primary Completion Date Type,Enrollment Close Date Type,Primary Endpoints Reported Date Type,Pts/Site/Mo Type,Start Date Type,Trial Phase,Primary Completion Date,Enrollment Duration (Mos.),Protocol/Trial ID,Last Full Review,Last Modified Date
+1,,,8/9/23,,,3.0,,,,488577,,Anticipated,,,,Actual,Iv,12/31/24,,jRCTs051230064 TrialTroveID-488577,4/22/24,4/23/24
+0,,,8/31/22,,,24.0,,,,479138,,Anticipated,,,,Actual,I,12/31/22,,DA350102 jRCT2071220047 TrialTroveID-479138,2/12/24,2/12/24
+0,,,9/15/21,,,10.0,,,,415776,,Anticipated,,,,Actual,Ii,10/31/23,,DERR1-10.2196/42032 EPIC-ALS jRCT2061210031 TrialTroveID-415776,4/29/24,4/29/24
+0,,,7/3/18,,,68.0,,,,412705,,Actual,,,,Actual,I,3/31/19,,DA301006 jRCT2071210022 TrialTroveID-412705,8/31/21,2/24/22
+0,,5/1/23,5/1/21,,,40.0,6.0,Anticipated,Anticipated,324988,0.42,Anticipated,Anticipated,,Anticipated,Actual,I,10/31/23,24.0,DA350101 jRCT2071210023 TrialTroveID-324988,1/21/24,1/21/24
+0,95.0,8/25/17,1/14/16,19.0,9/24/18,20.0,6.0,Actual,Actual,258694,0.33,Actual,Actual,Actual,Actual,Actual,Ii,2/23/18,19.35,EPI589-15-001 NCT02460679 TrialTroveID-258694,7/25/18,12/6/23
+0,,11/13/24,1/6/21,,,56.0,1.58,Anticipated,Anticipated,331609,1.21,Anticipated,Anticipated,,Anticipated,Actual,I,12/31/24,46.25,EFBORAZ20141120 NCT03651349 TrialTroveID-331609,11/14/23,11/14/23
+0,,,9/1/21,4.0,,,,,,396721,,Actual,,,,Actual,I,3/30/23,,IRB00263068 NCT04749433,,7/10/23
+0,,,1/8/21,,,40.0,,,,386127,,Anticipated,,,,Actual,I,9/1/24,,AAAS4926 NCT04575727,,10/26/23
+0,,,11/1/15,,,,,,,265102,,Actual,,,,Actual,(N/A),6/28/19,,2015P000140 NCT02559869 TRACK-ALS,,5/19/20
+0,,,8/1/23,,,30.0,,,,471497,,Anticipated,,,,Anticipated,I,9/1/26,,18F-RoSMALS NCT05880563,,5/30/23
+0,,,3/1/15,,,,,,,254890,,Anticipated,,,,Anticipated,(N/A),9/1/16,,MARIA NCT02405403 PHAO-13-PC/MARIA,,5/29/17
+0,,,6/28/16,,,,,,,345363,,Actual,,,,Actual,I,2/7/18,,[18F]PBR06 NCT03876002,,3/22/19
+0,,,6/4/18,,,,,,,323339,,Actual,,,,Actual,(N/A),7/31/19,,NCT03510572 PI-18001,,12/11/20
+0,,,11/2/21,,,102.0,,,,432602,,Anticipated,,,,Actual,Iii,11/2/24,,13180640 NCT05374278,,9/18/23
+0,,,2/1/14,,,,,,,232400,,Actual,,,,Actual,I,8/1/16,,MNI-777 NCT02103894,,12/15/16
+0,,,9/1/94,,,,,,,223534,,,,,,Actual,(N/A),,,94-N-0205 940205 NCT00001972,,3/3/08
+0,,,3/1/10,,,,,,,228826,,Actual,,,,Actual,I,1/1/15,,09-008772 NCT01623284,,12/21/15
+0,,,9/1/09,,,,,,,230737,,Actual,,,,Actual,Ii,12/1/12,,18F-AV-45-010 NCT01890343,,9/16/14
+1,,,4/1/08,,,8000.0,,,,241625,,Anticipated,,,,Actual,Iv,6/1/24,,08-005553 NCT00950430 R01AG011378 U01AG006786,,6/6/23
+0,,,2/2/23,,,65.0,,,,433210,,Anticipated,,,,Actual,Iii,6/30/24,,NCT05395624 OP-801-001,,2/5/24
+0,100.0,7/29/22,11/25/21,16.0,10/11/23,16.0,1.48,Actual,Actual,387398,1.98,Actual,Actual,Actual,Actual,Actual,Ii,9/12/22,8.09,ACTRN12621000864820 NCT05039268 TrialTroveID-387398 ZZ-3K3A-202,9/29/22,11/21/23
+0,,,11/23/23,,,12.0,,,,480013,,Anticipated,,,,Actual,I,5/31/24,,2024-5148 NCT05974579,,11/29/23
+0,110.0,10/2/18,7/31/17,33.0,,30.0,25.0,Anticipated,Anticipated,302891,0.78,Anticipated,Anticipated,,Anticipated,Actual,I,11/1/20,14.06,AC-TP-001 AIDA EudraCT Number: 2017-000643-41 NCT03174886 TrialTroveID-302891,1/28/22,1/28/22
+0,33.0,12/31/17,4/14/15,2.0,,6.0,0.0,Actual,Actual,219951,0.06,Actual,Actual,,Actual,Actual,Iii,12/31/17,32.59,JMU-AAV-AADC-PD NCT02418598 TrialTroveID-219951 UMIN000017377,8/19/19,8/23/19
+1,,12/2/23,2/24/22,,,390.0,24.0,Anticipated,Anticipated,364543,0.84,Anticipated,Anticipated,,Anticipated,Actual,Iii,12/1/25,21.22,EudraCT Number: 2020-005069-15 ISRCTN88446415 Lighthouse 2 LIGHTHOUSE 2 Lighthouse II LIGHTHOUSE II LIGHTHOUSEII NCT05193994 NL77109.041.21 TrialTroveID-364543,4/17/23,4/28/24
+0,108.0,12/1/16,10/1/16,43.0,,40.0,12.0,Actual,Actual,284540,5.38,Actual,Actual,,Actual,Actual,Ii,12/1/17,2.0,CUR-101 Lighthouse NCT02868580 TrialTroveID-284540,9/26/18,2/18/22
+0,,,,,3/7/24,,,,,513380,,,,Actual,,,I,,,TrialTroveID-513380,4/20/24,4/26/24
+0,,,3/14/24,,,72.0,,,,508060,,Anticipated,,,,Actual,I,6/1/24,,M24-852 NCT06310876 TrialTroveID-508060,4/1/24,4/1/24
+0,100.0,,12/19/23,18.0,,18.0,,,,493451,,Actual,,,,Actual,I,1/30/24,,M24-851 NCT06145607 TrialTroveID-493451,3/11/24,3/11/24
+0,100.0,4/28/23,3/24/23,12.0,,12.0,0.33,Actual,Actual,461774,10.43,Actual,Actual,,Actual,Actual,I,5/8/23,1.15,M24-192 NCT05763459 TrialTroveID-461774,6/27/23,6/27/23
+1,,3/2/24,3/23/23,,,300.0,6.0,Anticipated,Anticipated,459902,26.46,Anticipated,Anticipated,,Anticipated,Actual,Ii/Iii,9/1/24,11.34,2019P003518F HEALEY ALS Platform – Regimen F NCT05740813 TrialTroveID-459902,10/5/23,11/30/23
+0,,,,125.0,3/2/23,,,,,396430,,,,Actual,,,I,,,TrialTroveID-396430,4/18/23,4/18/24
+0,103.0,12/15/22,7/14/21,31.0,,30.0,0.92,Actual,Actual,396402,0.13,Actual,Actual,,Actual,Actual,I,1/12/23,17.06,CCR-21-30 M20-405 NCT04948645 TrialTroveID-396402,1/28/23,2/8/23
+1,,,,34.0,4/21/15,,3.0,Actual,,255054,,,,Actual,,,Iv,,,TrialTroveID-255054,4/8/15,3/7/24
+0,,,12/1/20,,12/1/21,,,,,345889,,,,Anticipated,,Anticipated,Ii,,,TrialTroveID-345889,8/31/23,2/24/24
+0,,,,,,,,,,252392,,,,,,,Ii,,,TrialTroveID-252392,11/17/16,11/17/20
+0,,,,,,,,,,188598,,,,,,,I,,,TrialTroveID-188598,5/9/16,11/17/20
+1,,5/1/25,6/1/24,,,246.0,11.0,Anticipated,Anticipated,492004,2.04,Anticipated,Anticipated,,Anticipated,Anticipated,Ii/Iii,4/1/26,10.98,ALCALS NCT06126315 TrialTroveID-492004,11/14/23,4/28/24
+0,,5/1/21,9/1/20,25.0,11/17/21,,6.0,Actual,Actual,423254,3.14,Actual,Actual,Actual,Actual,Actual,Ii,10/30/21,7.95,TrialTroveID-423254,1/21/22,2/8/22
+0,,2/9/10,3/1/07,82.0,4/25/12,,11.0,Actual,Actual,166423,0.14,Actual,Actual,Actual,Actual,Actual,Ii,1/9/11,35.4,TrialTroveID-166423,2/22/13,2/22/22
+0,,,,,,,,,,147362,,,,,,,I,,,TrialTroveID-147362,10/10/13,11/17/20
+0,102.0,2/10/10,3/1/07,82.0,11/6/12,80.0,12.0,Actual,Actual,109501,0.14,Actual,Actual,Actual,Actual,Actual,Ii,2/10/11,35.38,3303 EudraCT Number: 2004-004158-23 FARM5LRKR9 TrialTroveID-109501,9/9/11,2/18/19
+0,,,3/1/22,,,,,,,415000,,,,,,Anticipated,Iii,,,TrialTroveID-415000,5/29/23,5/29/23
+0,67.0,7/5/18,3/30/18,8.0,5/28/20,12.0,0.49,Actual,Actual,322747,2.51,Actual,Actual,Actual,Actual,Actual,I,7/20/18,3.19,NCT03500627 OP-101-002 TrialTroveID-322747,9/18/18,10/13/22
+1,113.0,12/8/22,6/30/22,60.0,6/29/23,53.0,6.11,Actual,Actual,421082,0.71,Actual,Actual,Actual,Actual,Actual,Iii,6/12/23,5.29,BASEC2022-00638 EudraCT Number: 2021-005356-10 IB1001-301 NCT05163288 NL79787.018.21 SNCTP000005101 TrialTroveID-421082,7/4/23,4/25/24
+0,87.0,2/5/20,9/4/19,34.0,9/30/20,39.0,1.5,Actual,Actual,337946,0.75,Actual,Actual,Actual,Actual,Actual,Ii,3/22/20,5.06,EudraCT Number: 2018-004331-71 IB1001-201 NCT03759639 TrialTroveID-337946,5/22/23,3/30/24
+0,52.0,6/2/23,10/1/18,29.0,,56.0,0.01,Actual,Actual,363683,0.26,Actual,Actual,,Actual,Actual,Ii,6/2/23,56.05,AIH in ALS NCT03645031 OCR18018 TrialTroveID-363683,6/12/23,6/12/23
+0,,,3/1/15,,,100.0,,,,255731,,Anticipated,,,,Actual,Ii,12/31/18,,02-(AdeVask)-2014 TrialTroveID-255731,12/26/19,12/26/19
+0,,8/1/20,10/13/15,,,30.0,3.0,Anticipated,Anticipated,310121,0.52,Anticipated,Anticipated,,Anticipated,Actual,I,10/31/20,57.63,ADIPOSTEM DPO/014/33/09/2015 NCT03296501 TrialTroveID-310121,4/16/20,2/22/22
+0,100.0,,9/30/08,1.0,,1.0,,,,98220,,,,,,Actual,I,,,TrialTroveID-098220,10/1/08,1/3/24
+0,100.0,,9/28/05,18.0,3/27/07,18.0,,,,78903,,Actual,,Actual,,Actual,I,10/1/06,,Study 102 TrialTroveID-078903,11/28/07,5/28/12
+0,,,10/1/04,25.0,9/7/05,,,,,78887,,,,Actual,,Actual,I,,,Study 101 TrialTroveID-078887,11/28/07,5/28/12
+1,,,3/1/22,,,231.0,,,,403861,,,,,,Anticipated,Iii,,,TrialTroveID-403861,7/25/23,7/25/23
+0,,,,21.0,3/21/13,,12.0,Actual,,109688,,,,Actual,,,Ii,,,TrialTroveID-109688,3/22/13,2/15/22
+0,,,,,,,,,,483042,,,,,,,I,,,TrialTroveID-483042,8/27/23,8/28/23
+0,100.0,12/8/15,9/1/15,36.0,3/3/17,36.0,0.26,Actual,Actual,202570,11.18,Actual,Actual,Actual,Actual,Actual,Ii,12/16/15,3.22,EudraCT number: 2014-001327-71 IMODALS LOCAL/2014/WC-01 NCT02059759 TrialTroveID-202570,3/21/17,2/9/23
+0,,10/29/25,5/6/24,,,10.0,6.0,Anticipated,Anticipated,515031,0.56,Anticipated,Anticipated,,Anticipated,Anticipated,I,4/30/26,17.78,NCT06395038 PRO00037661 TrialTroveID-515031,,5/2/24
+0,,10/18/22,10/28/21,5.0,,,24.0,Anticipated,Anticipated,507665,0.43,Anticipated,Anticipated,,Anticipated,Actual,I,10/17/24,11.67,NCT06307301 PRO00031998 TrialTroveID-507665,3/13/24,4/28/24
+0,,,,3.0,3/3/17,,,,,297957,,,,Actual,,,I,,,TrialTroveID-297957,3/23/17,1/24/18
+0,75.0,2/28/20,8/7/19,9.0,8/29/22,12.0,15.06,Actual,Actual,355351,0.67,Actual,Actual,Actual,Actual,Actual,Ii,5/31/21,6.74,NCT04055623 Pro00022167 Tregs in ALS TrialTroveID-355351,9/8/22,3/2/23
+0,75.0,,1/1/16,3.0,5/18/18,4.0,,,,306643,,Actual,,Actual,,Actual,I,2/28/18,,NCT03241784 TrialTroveID-306643,8/10/17,12/19/23
+0,141.0,10/22/19,6/19/17,304.0,12/8/22,216.0,21.0,Actual,Actual,294523,0.64,Actual,Actual,Actual,Actual,Actual,Ii,7/22/21,28.09,EudraCT Number: 2015-005347-14 H2020/PHRC-N/2014/GB-01 MIROCALS NCT03039673 TrialTroveID-294523,2/4/22,1/22/24
+1,,,,,,,,,,415777,,,,,,,Ii/Iii,,,TrialTroveID-415777,10/24/23,10/24/23
+0,,7/2/24,12/15/23,,,24.0,3.94,Anticipated,Anticipated,497466,3.65,Anticipated,Anticipated,,Anticipated,Anticipated,I,10/30/24,6.57,KY2023-252-01 NCT06181526 SPECIALS TrialTroveID-497466,1/5/24,1/9/24
+1,,,12/31/17,,,,,,,294333,,,,,,Anticipated,Iii,,,TrialTroveID-294333,1/5/22,1/5/22
+0,100.0,,,1.0,1/8/15,1.0,,,,250098,,,,Actual,,,I,,,GALS-C TrialTroveID-250098,1/9/15,1/12/15
+0,100.0,1/1/14,5/29/13,12.0,4/28/14,12.0,3.0,Actual,Actual,186232,0.84,Actual,Actual,Actual,Actual,Actual,Ii,4/2/14,7.13,GALS GALS 001 NCT01854294 TrialTroveID-186232,4/29/14,2/2/22
+0,238.0,6/1/15,12/1/13,19.0,12/29/21,8.0,20.99,Actual,Actual,261007,1.06,Actual,Actual,Actual,Actual,Actual,I,3/1/17,17.97,IRCT20080728001031N26 NCT02492516 Royan-Nerve-008 TrialTroveID-261007,5/2/17,2/22/22
+0,,9/1/21,8/13/21,,,20.0,48.0,Anticipated,Anticipated,411366,32.26,Anticipated,Anticipated,,Anticipated,Actual,I,9/1/25,0.62,NCT05003921 SC-7-ATG-7-01 TrialTroveID-411366,10/14/22,10/14/22
+0,143.0,9/30/16,11/1/15,43.0,2/1/19,30.0,18.0,Actual,Anticipated,285498,3.92,Anticipated,Anticipated,Actual,Anticipated,Actual,I,4/1/18,10.97,NCT02881476 TrialTroveID-285498 UWM/ALS-MSC.2015/001 UwmWjmscAls,11/26/19,2/22/22
+0,,,3/1/12,,,30.0,24.0,Actual,,158813,,Anticipated,,,,Actual,Ii,1/1/13,,20111207ALS NCT01494480 TrialTroveID-158813,10/4/19,2/18/22
+0,100.0,12/31/15,8/1/14,10.0,,10.0,6.0,Actual,Actual,216528,0.59,Actual,Actual,,Actual,Actual,Ii,7/1/16,16.99,NCT02236065 TrialTroveID-216528 UCBnG-CSF,2/27/24,2/27/24
+0,,,6/28/24,,,42.0,,,,511787,,Anticipated,,,,Anticipated,I,4/28/29,,2023-510344-20-00 ALN-SOD-ALS-2351 NCT06351592 TrialTroveID-511787,4/10/24,4/12/24
+0,,,12/1/16,30.0,,,,,,454913,,Actual,,,,Actual,Other,3/1/18,,2 ALSParadigm NCT03073239,,7/23/18
+1,,,,,,,,,,78982,,,,,,,Iii,,,TrialTroveID-078982,7/9/10,2/15/22
+0,100.0,,5/14/07,6.0,8/11/10,6.0,1.75,Actual,,78979,,,,Actual,,Actual,I,,,TrialTroveID-078979,7/9/10,11/15/12
+1,,,,104.0,11/9/04,,6.0,Actual,,78978,,,,Actual,,,Iii,,,NEALS TrialTroveID-078978,11/5/07,4/13/23
+0,,,,21.0,,,,,,78975,,,,,,,Ii,,,TrialTroveID-078975,11/5/07,2/18/22
+1,69.0,7/1/04,6/1/03,107.0,5/9/06,156.0,9.0,Actual,Actual,78693,1.03,Actual,Actual,Actual,Actual,Actual,Iii,4/1/05,13.0,AGI-ALS-III-01 NCT00069186 Orphan Drug:01-1527 TrialTroveID-078693,10/19/10,2/7/22
+0,,,,,,,,,,122392,,,,,,,Ii,,,TrialTroveID-122392,10/30/10,8/15/17
+1,,,,,,,,,,80471,,,,,,,Iii,,,TrialTroveID-080471,7/9/10,7/9/10
+0,,,1/1/07,,,,,,,78980,,,,,,Actual,Ii,,,TrialTroveID-078980,7/9/10,4/29/16
+0,72.0,10/18/06,7/6/06,86.0,12/3/07,120.0,6.0,Actual,Actual,78743,1.29,Actual,Actual,Actual,Actual,Actual,Ii,4/18/07,3.5,6302 AAAB6334 ALSA ID#920 IRB00002357 NCT00355576 TrialTroveID-078743,1/30/10,2/15/22
+0,85.0,1/31/21,5/18/20,46.0,,54.0,1.97,Actual,Actual,405701,5.42,Actual,Actual,,Actual,Actual,I,4/1/21,8.48,ACTRN12619001639112 PMX-205-001 TrialTroveID-405701 U1111-1243-2230,6/4/21,10/23/23
+1,,,9/1/05,,,,,,,234390,,Actual,,,,Actual,Iv,7/26/07,,04033101 NCT00127114,,8/10/17
+0,,12/1/23,7/25/23,,,50.0,6.0,Anticipated,Anticipated,478911,2.36,Anticipated,Anticipated,,Anticipated,Actual,Ii,6/1/24,4.24,AMBALS FLO-AMB-01 NCT05959850 TrialTroveID-478911,7/30/23,11/20/23
+0,,,8/24/22,,,36.0,,,,442442,,Anticipated,,,,Actual,Iii,9/1/23,,AMDX-2011P NCT05542576 PROBE,,2/2/23
+0,,,,25.0,1/25/06,,,,,78769,,,,Actual,,,Ii,,,TrialTroveID-078769,11/28/07,2/15/22
+0,100.0,,,5.0,2/26/14,5.0,12.0,Actual,,313628,,,,Actual,,,Ii,,,AOBS-NEU-RPF-2011 EudraCT Number: 2011-004571-37 ReProIn-FTD TrialTroveID-313628,12/1/17,5/4/21
+1,,,,10.0,12/8/05,,,,,80217,,,,Actual,,,Iii,,,TrialTroveID-080217,12/10/07,10/21/10
+0,,12/20/17,4/24/17,,,30.0,10.0,Anticipated,Anticipated,298816,3.8,Anticipated,Anticipated,,Anticipated,Actual,Ii,10/20/18,7.89,NCT03103815 TrialTroveID-298816 WJ2017001,8/25/20,2/22/22
+0,,,2/1/24,,,42.0,,,,489925,,Anticipated,,,,Anticipated,Iii,6/30/26,,AMT-162-001 NCT06100276 TrialTroveID-489925,10/26/23,2/11/24
+0,,,12/1/24,,,,,,,493738,,,,,,Anticipated,I,,,TrialTroveID-493738,4/17/24,4/17/24
+0,100.0,6/1/11,2/1/11,20.0,12/7/13,20.0,12.03,Actual,Actual,140927,5.08,Actual,Actual,Actual,Actual,Actual,Ii,6/1/12,3.94,ANA-ALS01 EudraCT Number: 2010-019218-26 NCT01277315 TrialTroveID-140927,12/4/13,2/20/24
+0,,12/4/20,12/19/19,,,24.0,0.92,Anticipated,Anticipated,363866,2.08,Anticipated,Anticipated,,Anticipated,Actual,I,1/1/21,11.53,NCT04204889 TOALS TrialTroveID-363866,4/21/22,4/21/22
+0,,,,276.0,3/10/10,,12.0,Actual,,14876,,,,Actual,,,Ii,,,TrialTroveID-014876,3/16/10,7/22/20
+0,,,,6.0,10/3/21,,,,,418152,,,,Actual,,,Ii,,,TrialTroveID-418152,11/15/21,5/9/23
+0,,,3/23/17,,,6.0,,,,312311,,,,,,Actual,I,,,jRCTb050190128 PB5160011 TrialTroveID-312311 UMIN000024132,12/18/19,2/2/22
+0,,,,27.0,10/16/16,,,,,294141,,,,Actual,,,I,,,TrialTroveID-294141,1/13/17,12/13/23
+0,130.0,9/1/21,7/1/14,52.0,,40.0,6.0,Actual,Actual,191427,0.15,Actual,Actual,,Actual,Actual,Iii,3/2/22,86.05,CeTMad/ELA/2011 EudraCT Number: 2011-006254-85 NCT02290886 REec-2013-0095 TrialTroveID-191427,6/18/22,7/14/22
+0,,7/2/23,1/15/21,,12/1/23,25.0,2.99,Anticipated,Anticipated,385677,0.08,Anticipated,Anticipated,Anticipated,Anticipated,Actual,Ii,10/1/23,29.52,ANX005-ALS-01 ANX005-IF-01 CCR-20-127 EudraCT Number: 2021-000325-26 NCT04569435 TrialTroveID-385677,9/6/23,1/21/24
+0,42.0,4/19/18,12/1/16,27.0,,64.0,1.41,Actual,Actual,293551,1.63,Actual,Actual,,Actual,Actual,I,6/1/18,16.56,ANX005-CP01 NCT02937753 NCT03010046 TrialTroveID-293551,8/30/18,10/26/22
+0,,7/7/23,9/2/21,,,63.0,11.75,Anticipated,Anticipated,413450,0.22,Anticipated,Anticipated,,Anticipated,Actual,Ii,6/28/24,22.12,250403 AP-101-02 AP101-02 EudraCT Number: 2020-005971-11 NCT05039099 TrialTroveID-413450,4/17/24,4/29/24
+0,,8/10/20,10/10/19,,,18.0,2.76,Anticipated,Anticipated,351306,0.6,Anticipated,Anticipated,,Anticipated,Actual,I,11/2/20,10.02,AP101-01 NCT03981536 TrialTroveID-351306,3/25/24,3/25/24
+1,,,,1.0,,,,,,438542,,,,,,,Iv,,,LAM-002A-FTD-EAP NCT05483322 TrialTroveID-438542,8/5/22,8/7/22
+0,125.0,6/12/22,12/27/21,15.0,,12.0,7.0,Actual,Actual,421066,0.91,Actual,Actual,,Actual,Actual,Ii,1/11/23,5.49,LAM-002A-ALS-CLN01 NCT05163886 TrialTroveID-421066,4/10/23,9/25/23
+0,,,,,,,,,,400873,,,,,,,I,,,TrialTroveID-400873,6/24/23,6/24/23
+0,,,,,,,,,,370535,,,,,,,Other,,,NCT04316637 OR-ARI-EAP-NPC TrialTroveID-370535,5/10/23,12/4/23
+1,106.0,6/19/19,7/31/18,245.0,5/7/21,231.0,18.0,Actual,Actual,317692,0.8,Actual,Actual,Actual,Actual,Actual,Iii,12/18/20,10.61,20180389 EudraCT Number: 2018-000137-13 NCT03491462 NL65582.041.18 ORARIALS-01 SNCTP000003805 TrialTroveID-317692,5/12/21,3/13/24
+0,,,,,,,,,,80120,,,,,,,Ii,,,TrialTroveID-080120,6/8/11,6/8/11
+0,180.0,6/1/06,2/13/06,72.0,6/27/07,40.0,8.0,Actual,Actual,78851,,Actual,Actual,Actual,,Actual,Ii,2/1/07,3.6,AALS-001-Extension AALS-001-OL TrialTroveID-078851,2/5/10,11/23/10
+0,105.0,4/4/06,9/22/05,84.0,9/26/06,80.0,3.0,Actual,Actual,78846,1.31,Actual,Actual,Actual,Actual,Actual,Ii,7/4/06,6.4,AALS-001 NCT00244244 TrialTroveID-078846,3/4/09,4/13/23
+1,52.0,1/12/21,9/19/19,120.0,,231.0,5.62,Actual,Actual,342818,0.33,Actual,Actual,,Actual,Actual,Iii,7/2/21,15.8,EudraCT Number: 2019-000374-39 NCT03836716 NL69675.041.19 ORARIALS-02 SNCTP000003764 TrialTroveID-342818,8/25/23,4/27/24
+1,48.0,6/1/14,2/23/09,38.0,12/9/16,80.0,6.01,Actual,Actual,93162,0.3,Actual,Actual,Actual,Actual,Actual,Ii/Iii,12/1/14,63.21,20100758 20101021 Arimoclomol in SOD1 fALS NCT00706147 TrialTroveID-093162,8/17/17,2/7/22
+0,100.0,,2/26/07,40.0,6/25/07,40.0,1.25,Actual,,80193,,,,Actual,,Actual,I,,,TrialTroveID-080193,12/4/07,2/23/22
+0,,,,16.0,11/26/07,,,,,80092,,,,Actual,,,I,,,TrialTroveID-080092,11/27/07,2/23/22
+0,,8/1/09,12/1/07,,,390.0,10.0,Actual,Anticipated,79897,0.56,Anticipated,Anticipated,,Anticipated,Actual,Ii,6/1/10,20.0,AALS-003 NCT00561366 TrialTroveID-079897,1/20/10,2/7/22
+0,0.0,9/14/24,1/1/24,0.0,,32.0,5.52,Anticipated,Anticipated,478079,,Anticipated,Anticipated,,,Anticipated,I,3/1/25,8.45,AROSOD1-1001 EudraCT Number: 2023-509032-26 NCT05949294 TrialTroveID-478079,4/18/24,4/18/24
+0,,,12/1/22,,,,,,,499424,,,,,,Anticipated,Iii,,,TrialTroveID-499424,1/11/24,2/8/24
+0,,,12/1/23,,,,,,,459727,,,,,,Anticipated,Ii,,,TrialTroveID-459727,12/4/23,12/4/23
+0,76.0,7/24/19,4/12/18,16.0,10/3/21,21.0,11.0,Actual,Actual,263255,1.04,Actual,Actual,Actual,Actual,Actual,Iii,6/22/20,15.38,ASTRO-001-IL NCT03482050 TrialTroveID-263255,1/19/21,2/6/24
+0,,,6/1/24,,,,,,,490059,,,,,,Anticipated,I,,,TrialTroveID-490059,11/21/23,2/13/24
+0,,4/1/21,1/1/21,,,480.0,6.0,Anticipated,Anticipated,374610,162.16,Anticipated,Anticipated,,Anticipated,Anticipated,Ii,9/30/21,2.96,ALS04 NCT04390386 TrialTroveID-374610,6/19/20,11/21/23
+0,,,,,,6.0,,,,369817,,,,,,,I,,,ALS-03 NCT04309604 TrialTroveID-369817,3/18/20,2/21/23
+0,,2/13/21,8/15/19,,,50.0,3.0,Anticipated,Anticipated,323146,2.78,Anticipated,Anticipated,,Anticipated,Anticipated,Ii,5/15/21,18.0,ALS03 NCT03508453 TrialTroveID-323146,5/18/20,3/18/22
+0,,3/18/18,10/1/17,10.0,11/8/19,,1.02,Actual,Actual,321826,1.81,Actual,Actual,Actual,Actual,Actual,I,4/18/18,5.52,ALS01 NCT03487263 TrialTroveID-321826,5/11/18,2/18/22
+0,,3/12/20,9/1/18,,,20.0,1.0,Actual,Anticipated,320908,1.09,Anticipated,Anticipated,,Anticipated,Anticipated,Ii,4/12/20,18.33,ALS02 NCT03474263 TrialTroveID-320908,3/15/19,6/25/20
+0,,,1/1/06,,,50.0,12.0,Actual,,79879,,,,,,Actual,Ii,,,TrialTroveID-079879,4/13/12,2/18/22
+0,,4/1/23,11/1/20,,,30.0,6.0,Anticipated,Anticipated,374769,1.04,Anticipated,Anticipated,,Anticipated,Anticipated,Ii,9/30/23,28.95,lj11128 NCT04391361 TrialTroveID-374769,10/14/20,5/19/23
+0,100.0,10/21/20,8/12/20,1.0,,1.0,12.0,Anticipated,Actual,382158,0.43,Anticipated,Actual,,Actual,Actual,I,10/21/21,2.3,HBALS01 NCT04514952 TrialTroveID-382158,1/28/22,9/29/22
+0,,,5/1/21,,,100.0,48.0,Anticipated,,361959,,,,,,Anticipated,Ii,,,EudraCT Number: 2019-002302-46 IMIB-TCIM/ELAII-2019-01 NCT04849065 TCIM-ELAII TrialTroveID-361959,11/11/21,7/11/23
+0,87.0,,1/1/12,26.0,9/15/16,30.0,12.0,Actual,,165435,,Anticipated,,Actual,,Actual,Iii,12/1/16,,AMSC in ALS AMSC-ALS-001 EudraCT number: 2011-000362-35 NCT03828123 TrialTroveID-165435,4/21/17,2/22/22
+0,125.0,6/1/23,10/10/17,75.0,,60.0,20.09,Anticipated,Actual,308228,0.37,Anticipated,Actual,,Actual,Actual,Ii,2/1/25,67.72,15-008008 NCT03268603 TrialTroveID-308228,9/24/23,4/2/24
+1,98.0,10/11/19,8/28/17,196.0,11/17/20,200.0,11.64,Actual,Actual,293113,1.28,Actual,Actual,Actual,Actual,Actual,Iii,9/29/20,25.43,BCT-002-US CIRM CLIN2-0989 NCT03280056 TrialTroveID-293113,12/1/20,5/2/24
+0,,,,,,24.0,,,,271339,,,,,,,Ii,,,TrialTroveID-271339,5/14/19,5/14/19
+0,100.0,6/10/13,12/1/12,14.0,1/5/15,14.0,9.0,Actual,Actual,181174,2.23,Actual,Actual,Actual,Actual,Actual,Ii,3/10/14,6.28,MSC-NTF-002-HMO-CTIL NCT01777646 TrialTroveID-181174,4/1/15,2/18/22
+0,100.0,8/12/15,6/6/14,48.0,7/18/16,48.0,6.0,Actual,Actual,122551,1.13,Actual,Actual,Actual,Actual,Actual,Ii,2/10/16,14.19,BCT-001-US NCT02017912 TrialTroveID-122551,7/21/16,3/11/20
+0,50.0,6/1/12,6/6/11,12.0,7/23/12,24.0,6.0,Actual,Anticipated,121611,1.01,Anticipated,Anticipated,Actual,Anticipated,Actual,Iii,12/1/12,11.9,MSC-NTF 28/12/09 MSC-NTF-001-HMO-CTIL NCT01051882 TrialTroveID-121611,2/6/13,2/8/22
+0,100.0,11/30/12,12/1/11,18.0,11/8/16,18.0,36.0,Actual,Actual,171191,1.5,Actual,Actual,Actual,Actual,Actual,I,12/1/15,11.99,EudraCT Number: 2009-014484-39 hNSCALS NCT01640067 TrialTroveID-171191,12/31/15,2/15/22
+0,,12/30/12,6/1/11,,,10.0,6.0,Actual,Actual,151759,0.53,,Actual,,Actual,Actual,Ii,,19.0,IRCT201107221696N3 TrialTroveID-151759,6/18/15,2/18/22
+0,,9/26/20,2/24/20,,,10.0,3.0,Anticipated,Anticipated,404742,1.42,Anticipated,Anticipated,,Anticipated,Actual,Ii,12/26/20,7.06,IRCT20200828048551N1 TrialTroveID-404742,5/22/21,11/22/21
+0,,12/30/18,1/1/16,20.0,,,18.0,Actual,Actual,400308,0.56,Actual,Actual,,Actual,Actual,Iii,6/30/20,35.94,0208-16-HMO NCT04821479 TrialTroveID-400308,3/31/21,2/22/22
+0,,,,90.0,11/5/20,,,,,393178,,Actual,,Actual,,,Ii,4/1/20,,TrialTroveID-393178,12/31/20,5/9/23
+0,,,5/1/20,,,40.0,,,,376371,,Anticipated,,,,Actual,Ii,7/14/24,,jRCT2013190010 TrialTroveID-376371,4/8/21,2/14/22
+0,,7/3/18,9/1/16,,,40.0,6.0,Anticipated,Anticipated,296758,,Anticipated,Anticipated,,,Actual,Iii,1/1/19,22.01,NCT03067857 SCA-MND1 TrialTroveID-296758,8/26/19,2/25/22
+0,75.0,3/31/16,4/28/15,3.0,,4.0,12.0,Actual,Anticipated,292145,0.06,Actual,Anticipated,,Anticipated,Actual,I,3/1/16,26.94,NCT02987413 TrialTroveID-292145,8/22/17,11/17/20
+0,100.0,1/1/18,8/1/16,28.0,11/8/19,28.0,13.01,Anticipated,Actual,287450,1.65,Anticipated,Actual,Actual,Actual,Actual,Iii,2/1/19,17.02,401922/2014-6 NCT02917681 TrialTroveID-287450,12/31/19,12/31/19
+0,,10/30/16,11/1/15,,,30.0,17.0,Actual,Anticipated,285529,,Anticipated,Anticipated,,,Actual,I,4/1/18,11.98,NCT02881489 TrialTroveID-285529 UWM/ALS-MSC.2015/002 UwmBmmscALS,5/10/23,5/16/23
+0,100.0,,6/1/10,1.0,,1.0,,,,225119,,Actual,,,,Actual,I,4/1/11,,09-001995 NCT01142856 TrialTroveID-225119,9/7/18,2/18/22
+0,20.0,2/28/13,12/1/08,40.0,,200.0,24.0,Actual,Actual,217041,0.79,Actual,Actual,,Actual,Actual,I,3/1/15,50.93,NCT02242071 NGBSI-10 TrialTroveID-217041,9/27/16,5/19/23
+0,110.0,11/22/15,11/1/14,22.0,3/24/20,20.0,24.0,Actual,Actual,213436,1.74,Actual,Actual,Actual,Actual,Actual,I,11/21/17,12.68,EudraCT Number: 2011-004801-25 NCT02286011 TCIM ELA TCIM-ELA TCIM/ELA TrialTroveID-213436,8/21/19,2/2/22
+0,,7/1/16,1/1/10,,,50.0,12.0,Actual,Anticipated,213322,0.64,Anticipated,Anticipated,,Anticipated,Actual,I,7/1/17,78.0,ALS-BMSC #01 NCT02193893 NeuStem-ALS TrialTroveID-213322 ZPO 02,10/24/19,2/22/22
+0,,,5/1/14,,,5.0,24.0,Actual,,207245,,Anticipated,,,,Anticipated,Iii,5/1/16,,NCT02116634 TrialTroveID-207245,1/18/16,2/2/22
+1,100.0,12/31/12,9/1/12,14.0,,14.0,12.0,Actual,Actual,193196,3.52,Actual,Actual,,Actual,Actual,Ii/Iii,1/1/14,3.98,NCT01933321 TrialTroveID-193196,11/28/15,11/28/15
+0,80.0,9/27/14,8/1/12,8.0,,10.0,0.12,Actual,Actual,180658,0.31,Actual,Actual,,Actual,Actual,I,10/1/14,25.86,NCT01771640 Royan-Nerve-006 TrialTroveID-180658,5/7/15,2/22/22
+0,60.0,12/29/13,1/1/13,6.0,,10.0,0.07,Actual,Actual,180040,0.5,Actual,Actual,,Actual,Actual,I,1/1/14,11.89,NCT01759797 Royan-Nerve-005 TrialTroveID-180040,8/29/13,8/31/18
+0,,4/1/15,8/1/14,,,10.0,6.0,Actual,Anticipated,179958,1.25,Anticipated,Anticipated,,Anticipated,Anticipated,I,10/1/15,8.0,NCT01759784 Royan-Nerve-004 TrialTroveID-179958,1/5/16,1/5/16
+0,,9/1/10,9/1/09,10.0,7/2/12,,12.0,Actual,Actual,177338,0.83,Actual,Actual,Actual,Actual,Actual,Ii,8/31/11,12.0,TrialTroveID-177338,11/20/12,2/15/22
+0,,,,46.0,10/9/12,,48.0,Actual,,175665,,,,Actual,,,Ii,,,TrialTroveID-175665,6/1/16,2/15/22
+0,108.0,1/31/17,5/1/12,27.0,,25.0,24.0,Actual,Actual,168986,0.47,Actual,Actual,,Actual,Actual,I,1/31/19,57.04,11-008415 NCT01609283 TrialTroveID-168986,9/4/19,11/12/19
+0,100.0,8/20/15,10/1/10,63.0,,63.0,3.0,Actual,Actual,139000,1.07,Actual,Actual,,Actual,Actual,Iii,11/20/15,58.61,EC07/90762 EudraCT Number: 2006-003096-12 Extension CMN/ELA NCT01254539 TrialTroveID-139000,3/31/17,2/8/22
+0,,,,36.0,11/6/10,,3.0,Actual,,137610,,,,Actual,,,Ii,,,TrialTroveID-137610,11/15/10,5/19/23
+0,,,,10.0,3/11/09,,,,,128341,,,,Actual,,,I,,,TrialTroveID-128341,4/14/16,4/21/16
+0,,3/1/06,1/1/06,13.0,2/1/09,,3.0,Actual,Actual,128299,,Actual,Actual,Actual,,Actual,Ii,5/31/06,2.0,TrialTroveID-128299,11/1/10,11/24/10
+0,,,,18.0,4/14/10,,20.0,Actual,,125440,,,,Actual,,,Ii,,,TrialTroveID-125440,5/31/16,2/8/22
+0,100.0,10/1/08,2/1/07,11.0,12/8/11,11.0,12.0,Actual,Actual,105299,0.28,Actual,Actual,Actual,Actual,Actual,Iii,10/1/09,20.0,CMN/ELA EudraCT number: 2006-003096-12 ISCIII: EC07/90762 NCT00855400 TrialTroveID-105299,12/3/10,2/8/22
+0,,,,35.0,4/14/10,,,,,99163,,,,Actual,,,Iii,,,TrialTroveID-099163,6/3/11,7/16/21
+0,,,,9.0,7/1/06,,36.0,Actual,,79164,,,,Actual,,,I,,,TrialTroveID-079164,4/14/16,4/14/16
+0,,9/1/10,3/1/10,,,6.0,12.0,Actual,Anticipated,121274,1.0,Anticipated,Anticipated,,Anticipated,Actual,I,9/1/11,6.0,2008-ALS-I NCT01082653 TrialTroveID-121274,5/18/12,2/8/22
+0,,,9/21/18,,,220.0,,,,369824,,Anticipated,,,,Actual,Ii,5/18/24,,201800984A0 NCT04309253,,5/1/23
+0,,9/15/25,8/30/23,,,9.0,6.51,Anticipated,Anticipated,487580,0.03,Anticipated,Anticipated,,Anticipated,Actual,Iii,4/1/26,24.56,ASPIRE-FTD AVB-PGRN-001 EudraCT Number:2022-002568-62 FTD-GRN NCT06064890 NL82614.000.22 TrialTroveID-487580,10/4/23,4/30/24
+0,,,12/1/21,,,,,,,319862,,,,,,Anticipated,I,,,TrialTroveID-319862,5/7/21,5/7/21
+0,,,1/1/07,6.0,12/8/09,,,,,121202,,,,Actual,,Actual,Ii,,,TrialTroveID-121202,6/1/16,1/18/24
+0,100.0,11/1/23,10/30/23,44.0,,44.0,0.16,Actual,Actual,495473,628.57,Actual,Actual,,Actual,Actual,I,11/6/23,0.07,BT-BLF-O-BE-01 CTR20233503 TrialTroveID-495473,12/10/23,12/13/23
+0,100.0,,10/8/22,60.0,,60.0,,,,447098,,Actual,,,,Actual,I,11/3/22,,CTR20222440 FH-BE-BLF TrialTroveID-447098,12/21/22,2/28/23
+0,,8/1/24,10/14/22,,,20.0,4.01,Anticipated,Anticipated,422687,0.46,Anticipated,Anticipated,,Anticipated,Actual,Iii,12/1/24,21.6,NADALS NCT05189106 TrialTroveID-422687,5/15/23,4/7/24
+0,100.0,,9/28/17,10.0,,10.0,,,,328541,,Actual,,,,Actual,Ii,12/31/21,,JapicCTI-173709 jRCTs031180058 TrialTroveID-328541,1/28/22,2/18/22
+0,90.0,,9/1/17,9.0,,10.0,,,,328535,,Actual,,,,Actual,Ii,2/29/20,,JapicCTI-173708 jRCTs031180059 TrialTroveID-328535,11/11/21,2/18/22
+0,,,10/20/15,,,,,,,328269,,Actual,,,,Actual,Ii,3/31/17,,JapicCTI-153050 TrialTroveID-328269,7/20/18,2/18/22
+0,102.0,5/24/21,5/30/19,49.0,,48.0,0.92,Actual,Actual,342190,0.23,Actual,Actual,,Actual,Actual,I,6/21/21,23.82,261AS101 NCT03945279 TrialTroveID-342190,7/1/21,4/19/23
+0,,,,,,,,,,294783,,,,,,,I,,,TrialTroveID-294783,2/1/19,2/25/22
+0,,,12/1/13,,,,,,,283026,,Actual,,,,Actual,(N/A),6/1/16,,38RC13.200 NCT02841358 NPCPsy,,1/12/17
+0,40.0,11/9/20,1/29/18,12.0,,30.0,6.0,Actual,Actual,318345,0.36,Actual,Actual,,Actual,Actual,Ii,5/10/21,33.35,BIO-2017-0270 NCT03427086 TrialTroveID-318345,9/6/21,2/22/22
+0,100.0,4/25/23,2/20/23,32.0,9/1/23,32.0,0.79,Actual,Actual,455406,15.24,Actual,Actual,Anticipated,Actual,Actual,I,5/19/23,2.1,BASEC2022-02098 BL-001-1001 NCT05818306 SNCTP000005554 TrialTroveID-455406,6/28/23,12/1/23
+0,,,4/30/21,1000.0,,,,,,435206,,Actual,,,,Actual,Other,3/31/22,,GENIALS NCT04819555 RIPH3-RNI20-GENIALS,,11/30/23
+0,,,2/1/24,,,60.0,,,,502002,,Anticipated,,,,Anticipated,Other,8/1/25,,DIAGALS DR230136 NCT06230562,,1/30/24
+0,,,9/6/22,,,102.0,,,,427868,,Anticipated,,,,Actual,Other,10/1/26,,2020_26 2021-A00879-32 BIOWATCH NCT05288842,,11/1/22
+0,,,,,,,,,,197280,,,,,,,I,,,TrialTroveID-197280,6/18/15,2/25/22
+0,100.0,9/22/20,6/21/20,15.0,8/16/21,15.0,3.0,Anticipated,Anticipated,402477,4.9,Anticipated,Anticipated,Actual,Anticipated,Actual,Ii,12/22/20,3.06,IRCT20160809029275N2 TrialTroveID-402477,12/19/21,2/24/22
+0,,10/1/23,4/3/22,,,25.0,6.0,Anticipated,Anticipated,432754,0.2,Anticipated,Anticipated,,Anticipated,Actual,Iii,3/31/24,17.94,jRCT2051220002 TrialTroveID-432754,3/14/23,4/10/23
+0,,,3/31/19,,,49.0,,,,406623,,Anticipated,,,,Actual,Iii,3/31/24,,jRCTs051180229 TrialTroveID-406623,3/29/23,5/1/23
+0,,9/30/23,3/19/19,,,49.0,6.0,Anticipated,Anticipated,348435,0.13,Anticipated,Anticipated,,Anticipated,Actual,Iii,3/31/24,54.44,iDReAM JMA-IIA00419 jRCT1090220419 jRCT2051190001 NCT04744532 TrialTroveID-348435 UMIN000036295 WI240618,7/10/23,12/27/23
+0,,12/31/22,9/1/16,,,150.0,12.0,Anticipated,Anticipated,287785,1.97,Anticipated,Anticipated,,Anticipated,Actual,I,12/31/23,75.96,062016 NCT02921477 TrialTroveID-287785,4/19/24,4/19/24
+1,,,7/1/22,,,15.0,,,,437586,,Anticipated,,,,Anticipated,Iv,12/31/22,,ChiCTR2200061794 TrialTroveID-437586,7/25/22,7/26/22
+1,,,,20.0,6/1/05,,9.0,Actual,,79389,,,,Actual,,,Ii/Iii,,,TrialTroveID-079389,10/20/10,11/19/10
+0,19.0,2/19/23,4/13/22,9.0,10/3/23,48.0,,,Anticipated,429802,0.88,Actual,Anticipated,Anticipated,Anticipated,Actual,I,8/19/22,10.26,CLMI070A02104 EudraCT Number: 2021-000298-10 ISRCTN77772103 NCT05330286 QSC205070 TrialTroveID-429802,7/17/23,7/17/23
+0,,,,12.0,12/6/13,,12.0,Actual,,198310,,,,Actual,,,Other,,,TrialTroveID-198310,12/4/13,12/6/13
+0,96.0,3/31/12,1/1/09,48.0,2/24/16,50.0,24.4,Actual,Actual,171734,0.41,Actual,Actual,Actual,Actual,Actual,Ii,4/12/14,38.93,08R-103 JPRN-UMIN000008527 TrialTroveID-171734 UMIN000008527,1/9/17,1/9/17
+1,,2/19/21,12/21/20,,,25.0,,,Anticipated,404984,12.69,,Anticipated,,Anticipated,Actual,Ii/Iii,,1.97,IRCT20201020049089N1 TrialTroveID-404984,5/26/21,5/26/21
+0,,,,,,,,,,429124,,,,,,,I,,,TrialTroveID-429124,4/30/24,4/30/24
+0,,,11/1/12,,,,,,,229561,,Actual,,,,Actual,I,3/1/15,,12-007139 NCT01723553,,12/18/15
+0,,,11/1/20,,,500.0,,,,392523,,Anticipated,,,,Actual,Other,11/1/50,,19-009999 AND1 NCT04680130,,5/6/23
+1,,6/1/24,8/9/21,,12/1/26,171.0,24.0,Anticipated,Anticipated,482552,0.34,Anticipated,Anticipated,Anticipated,Anticipated,Actual,Iii,6/1/26,33.76,CPMS 53777 EudraCT Number: 2020-000579-19 ISRCTN15671139 MAGNET NCT06008249 NL76763.041.21 TrialTroveID-482552,8/24/23,4/9/24
+0,28.0,8/21/22,1/27/17,17.0,,60.0,3.0,Actual,Actual,284202,0.25,Actual,Actual,,Actual,Actual,Ii,11/20/22,66.8,NCT02862210 NYSPI 7310 TrialTroveID-284202,12/20/22,11/23/23
+0,,,,20.0,7/15/12,,6.0,Actual,,172823,,,,Actual,,,Other,,,TrialTroveID-172823,8/16/12,2/18/15
+1,28.0,11/30/22,5/17/21,7.0,,25.0,6.0,Anticipated,Anticipated,410990,0.38,Anticipated,Anticipated,,Anticipated,Actual,Iv,6/1/23,18.47,EMERALD-OLE GCMR0001-OLE NCT04997954 TrialTroveID-410990,12/30/23,12/30/23
+1,57.0,6/30/23,1/9/19,17.0,,30.0,6.02,Anticipated,Anticipated,327987,0.32,Anticipated,Anticipated,,Anticipated,Actual,Iii,12/30/23,53.68,GCMR0001 NCT03690791 TrialTroveID-327987,11/22/23,11/22/23
+0,,,,,,34.0,3.0,Actual,,294518,,,,,,,Ii,,,TrialTroveID-294518,1/20/17,1/20/17
+1,,12/31/20,12/1/18,,,200000.0,60.0,Anticipated,Anticipated,349174,470.59,Anticipated,Anticipated,,Anticipated,Actual,Iv,12/31/25,25.0,NCT03944447 OMNI-Can Pro00033337 TrialTroveID-349174,8/21/20,6/4/22
+0,,,5/31/17,109.0,,,,,,290564,,Actual,,,,Actual,Other,2/16/23,,IRB201602098-N NCT02962050 R01NS100859,,2/23/23
+0,100.0,8/31/17,4/1/16,50.0,,50.0,3.0,Actual,Actual,274911,2.94,Actual,Actual,,Actual,Actual,I,11/30/17,16.99,NCT02710110 TrialTroveID-274911,11/20/19,2/22/22
+0,,,4/1/16,,,,,,,274908,,Actual,,,,Actual,(N/A),12/19/17,,IRB201600163 NCT02710162,,12/19/17
+0,100.0,5/23/22,4/26/19,15.0,,15.0,1.5,Actual,Actual,348375,0.41,Actual,Actual,,Actual,Actual,I,7/8/22,36.92,NCT03929068 Sinemet-001 TrialTroveID-348375,7/13/22,7/13/22
+1,,,,,,100.0,,,,109547,,,,,,,Iv,,,EudraCT Number: 2007-002379-16 TrialTroveID-109547,5/17/13,2/19/14
+0,,1/20/18,4/7/17,,4/14/20,21.0,0.33,Actual,Actual,295588,2.22,Actual,Actual,Actual,Actual,Actual,I,1/30/18,9.46,CC100B NCT03049046 TrialTroveID-295588,11/14/19,5/7/20
+0,100.0,6/30/14,11/1/13,18.0,2/18/15,18.0,0.12,Actual,Actual,201835,2.28,Actual,Actual,Actual,Actual,Actual,I,7/1/14,7.9,CC100A NCT02050334 TrialTroveID-201835,2/20/15,2/24/22
+0,,,,,,,,,,78192,,,,,,,Ii,,,TrialTroveID-078192,3/4/10,11/18/10
+0,127.0,,,38.0,6/21/08,30.0,12.0,Actual,,109374,,,,Actual,,,Ii,,,2289/2007 EudraCT Number: 2007-004165-17 TrialTroveID-109374,1/20/10,2/15/22
+0,20.0,,6/1/07,1.0,,5.0,,,,94243,,Actual,,,,Actual,I,10/1/15,,Internal-16964 NCT00718393 TrialTroveID-094243,1/21/09,3/15/17
+1,100.0,6/1/03,12/1/01,300.0,2/9/06,300.0,12.02,Actual,Actual,78869,0.62,Actual,Actual,Actual,Actual,Actual,Iii,6/1/04,17.97,TrialTroveID-078869,11/27/07,4/13/23
+0,20.0,12/27/18,8/21/17,6.0,,30.0,0.46,Actual,Actual,334799,0.37,Actual,Actual,,Actual,Actual,I,1/10/19,16.2,17-0159-F6A NCT03707795 TRANSLATE TrialTroveID-334799,2/12/20,2/18/22
+0,91.0,7/8/17,1/1/17,78.0,3/16/18,86.0,0.46,Actual,Actual,272113,12.62,Actual,Actual,Actual,Actual,Actual,I,7/23/17,6.18,NCT02666963 RTA 901-C-1503 TrialTroveID-272113,11/30/17,4/16/23
+0,105.0,3/7/23,10/1/21,42.0,,40.0,5.85,Anticipated,Actual,410706,0.13,Anticipated,Actual,,Actual,Actual,Ii,9/1/23,17.16,153073 CCR-21-69 EudraCT Number: 2021-002251-11 NCT04993755 TPN-101-C9-201 TrialTroveID-410706,12/5/23,4/29/24
+0,,,,32.0,3/14/09,,,,,105840,,,,Actual,,,Ii,,,TrialTroveID-105840,5/31/16,2/15/22
+0,,,,,,,,,,496749,,,,,,,Ii,,,TrialTroveID-496749,12/20/23,12/22/23
+1,,,12/1/24,,,,,,,458257,,,,,,Anticipated,Iii,,,TrialTroveID-458257,12/19/23,12/19/23
+0,95.0,,7/26/22,19.0,,20.0,,,,435753,,Actual,,,,Actual,I,8/19/22,,NCT05436678 NST-PK-003 TrialTroveID-435753,10/27/22,4/16/23
+0,100.0,,4/11/22,12.0,,12.0,,,,424645,,Actual,,,,Actual,I,4/21/22,,NCT05232461 NST-PK-001 TrialTroveID-424645,6/9/22,4/16/23
+0,100.0,5/15/23,6/6/22,69.0,12/5/23,69.0,6.0,Actual,Actual,384235,2.04,Actual,Actual,Actual,Actual,Actual,Ii,11/2/23,11.28,EudraCT Number: 2022-002185-32 MOH_2022-04-27_010760 NCT05357950 NST003 PARADIGM TrialTroveID-384235,11/10/23,4/2/24
+0,107.0,,11/25/19,16.0,11/17/21,15.0,,,,361518,,Actual,,Actual,,Actual,Ii,1/19/21,,NCT04165850 NST002 TrialTroveID-361518,3/4/21,4/16/23
+0,33.0,6/28/20,12/9/19,10.0,,30.0,15.0,Actual,Actual,357284,1.51,Actual,Actual,,Actual,Actual,Iii,9/27/21,6.64,NCT04090684 NST001 TrialTroveID-357284,2/3/22,4/16/23
+1,,,9/1/06,,,,,,,236790,,Actual,,,,Actual,Iv,7/1/09,,07-48 218-2006 NCT00376051,,5/2/17
+0,,,1/1/09,7.0,,,4.5,Actual,,121291,,,,,,Actual,Ii,,,TrialTroveID-121291,6/1/16,6/1/16
+0,,,,10.0,12/8/09,,6.0,Actual,,120980,,,,Actual,,,Ii,,,TrialTroveID-120980,6/1/16,6/1/16
+0,,10/30/25,4/3/23,,,66.0,6.0,Anticipated,Anticipated,443188,0.71,Anticipated,Anticipated,,Anticipated,Actual,I,5/1/26,30.93,CK0803-101-1 NCT05695521 REGALS TrialTroveID-443188,2/21/24,3/3/24
+0,,,,,,,,,,407238,,,,,,,I,,,TrialTroveID-407238,1/30/24,1/30/24
+0,100.0,,2/16/21,5.0,,5.0,,,,398906,,Actual,,,,Actual,Ii,12/31/22,,jRCT2063200047 TrialTroveID-398906,10/2/23,10/2/23
+0,100.0,9/9/20,2/10/20,25.0,9/6/22,25.0,6.0,Actual,Actual,366483,3.59,Actual,Actual,Actual,Actual,Actual,Ii,3/10/21,6.97,NCT04245709 TrialTroveID-366483,3/24/21,7/21/23
+0,,,,14.0,12/8/09,,1.0,Actual,,121197,,,,Actual,,,Ii,,,TrialTroveID-121197,6/1/16,6/1/16
+0,,,6/1/24,,,,,,,505607,,,,,,Anticipated,Ii,,,TrialTroveID-505607,2/27/24,2/27/24
+1,,,1/1/24,,,300.0,,,,475642,,,,,,Anticipated,Iii,,,RESTORE-ALS TrialTroveID-475642,1/4/24,3/27/24
+0,,,11/13/21,,,40.0,,,,428461,,Anticipated,,,,Actual,Ii,11/1/23,,CNMAu8.205 OLE NCT05299658 TrialTroveID-428461,10/8/23,10/8/23
+0,,,9/23/21,,,300.0,,,,414605,,,,,,Actual,Ii,,,CNMAu8.EAP02 EAP02 NCT05281484 TrialTroveID-414605,2/27/24,4/25/24
+1,100.0,10/13/21,7/30/20,161.0,9/29/22,161.0,6.0,Actual,Actual,376187,0.21,Actual,Actual,Actual,Actual,Actual,Ii/Iii,4/13/22,14.46,2019P003518C HEALEY ALS Platform Trial - Regimen C NCT04414345 SFD20018-C TrialTroveID-376187,6/18/22,12/26/23
+0,107.0,9/8/20,12/19/19,45.0,11/2/21,42.0,10.12,Actual,Actual,357443,2.6,Actual,Actual,Actual,Actual,Actual,Ii,7/13/21,8.67,CNMAu8.205 NCT04098406 RESCUE-ALS TrialTroveID-357443,9/17/21,9/1/23
+0,,,9/9/19,,,20.0,,,,356802,,,,,,Actual,Ii,,,CNMAu8.EAP01 EAP01 NCT04081714 TrialTroveID-356802,1/12/24,2/27/24
+0,,12/31/21,4/30/21,,,24.0,3.0,Anticipated,Anticipated,343595,2.98,Anticipated,Anticipated,,Anticipated,Anticipated,Ii,4/1/22,8.05,CNMAu8.203 NCT03843710 REPAIR-ALS TrialTroveID-343595,2/18/22,2/22/22
+0,,9/1/24,5/8/22,,,16.0,12.0,Anticipated,Anticipated,428784,0.57,Anticipated,Anticipated,,Anticipated,Actual,I,9/1/25,27.84,NCT05306457 STUDY00000278 TrialTroveID-428784,4/12/22,3/22/24
+0,100.0,10/10/18,4/1/17,18.0,,18.0,12.25,Actual,Actual,289249,0.98,Actual,Actual,,Actual,Actual,Iii,10/18/19,18.3,NCT02943850 Pro00042350 TrialTroveID-289249,7/16/20,2/18/22
+1,,6/1/23,9/28/15,,,100.0,12.0,Anticipated,Anticipated,313732,1.09,Anticipated,Anticipated,,Anticipated,Actual,Iii,5/31/24,92.09,jRCTs061180062 TrialTroveID-313732 UMIN000019587,4/23/24,4/25/24
+0,103.0,,,31.0,12/3/04,30.0,9.0,Actual,,79174,,,,Actual,,,Ii,,,TrialTroveID-079174,10/22/10,2/18/22
+0,100.0,5/31/07,4/1/05,185.0,11/3/08,185.0,9.0,Actual,Actual,78993,0.37,Actual,Actual,Actual,Actual,Actual,Ii,3/1/08,26.0,AAAA1536 NCT00243932 QALS study TrialTroveID-078993,12/10/14,12/10/14
+0,,,8/8/23,,,350.0,,,,431922,,Anticipated,,,,Actual,Other,8/8/28,,69HCL22_0275 CTRL COH NCT05370079,,1/26/24
+0,100.0,12/1/10,10/1/10,10.0,11/30/11,10.0,3.0,Actual,Actual,139279,5.0,Actual,Actual,Actual,Actual,Actual,Iii,3/1/11,2.0,NCT01259050 TrialTroveID-139279 Zinc-ALS,3/14/12,2/8/22
+0,108.0,9/1/14,7/1/13,43.0,11/8/16,40.0,2.0,Actual,Actual,185472,0.18,Actual,Actual,Actual,Actual,Actual,Ii,11/1/14,14.03,NCT01906658 QSC01-ALS-01 TrialTroveID-185472,1/9/17,1/16/21
+1,67.0,7/16/19,6/22/17,143.0,9/1/20,213.0,0.0,Actual,Actual,291420,0.08,Actual,Actual,Actual,Actual,Actual,Ii/Iii,7/16/19,24.77,MNK14042068 NCT03068754 PENNANT PER-007-18 TrialTroveID-291420,7/23/19,3/23/23
+0,,,12/1/24,,,,,,,414519,,,,,,Anticipated,Ii,,,TrialTroveID-414519,4/2/24,4/2/24
+0,,,12/1/24,,,,,,,506618,,,,,,Anticipated,Ii,,,TrialTroveID-506618,3/5/24,4/8/24
+0,,,,4.0,3/21/23,,,,,463414,,,,Actual,,,I,,,TrialTroveID-463414,3/27/23,5/2/24
+0,,,,,,,,,,463412,,,,,,,Iii,,,TrialTroveID-463412,12/12/23,2/22/24
+0,,8/1/00,6/1/00,175.0,9/25/02,,16.0,Actual,Actual,79570,,Actual,Actual,Actual,,Actual,Ii,12/1/01,2.0,TrialTroveID-079570,10/21/10,11/27/10
+0,,,5/1/00,,,114.0,6.0,Actual,,79012,,,,,,Actual,Ii,,,M01RR00036 NCRR-M01RR00036-0745 NCT00005674 TrialTroveID-079012,12/27/07,2/18/22
+0,,8/1/05,12/1/02,,,110.0,9.0,Actual,Actual,78732,0.57,Actual,Actual,,Actual,Actual,Ii,5/1/06,32.0,NCT00070993 R01 AT000967-01 R01 AT000967-03 R01-AT000967 R01-AT000967-02 TrialTroveID-078732,10/19/10,2/7/22
+0,,,,,,,,,,224420,,,,,,,Ii,,,M01RR00109 NCRR-M01RR00109-0750 NCT00005766,,6/23/05
+0,,,,,,,,,,177421,,,,,,,I,,,TrialTroveID-177421,8/12/21,8/12/21
+0,,,4/1/10,32.0,1/1/11,,,,,133804,,,,Actual,,Actual,I,,,TrialTroveID-133804,11/15/12,2/24/22
+0,,,,,,,,,,359391,,,,,,,Iii,,,TrialTroveID-359391,6/1/23,6/1/23
+0,15.0,7/2/21,9/8/20,12.0,,80.0,3.0,Actual,Actual,376925,0.06,Actual,Actual,,Actual,Actual,Ii,10/1/21,9.76,AZT-006 NCT04428775 TrialTroveID-376925,11/10/21,2/22/22
+0,79.0,5/20/21,3/18/20,55.0,,70.0,6.0,Actual,Actual,370043,3.91,Actual,Actual,,Actual,Actual,Ii,11/18/21,14.06,CMD-2020-001 NCT04313166 TrialTroveID-370043,2/21/22,2/22/22
+1,,7/1/20,9/30/19,,,80.0,6.0,Anticipated,Anticipated,356775,2.21,Anticipated,Anticipated,,Anticipated,Actual,Ii/Iii,12/30/20,9.04,CMD-2019-001 NCT04082832 TrialTroveID-356775,10/1/22,10/1/22
+0,56.0,12/31/20,1/18/18,28.0,,50.0,24.0,Anticipated,Anticipated,300572,0.79,Anticipated,Anticipated,,Anticipated,Actual,Iii,12/31/22,35.42,CMD-2017-001 NCT03136809 TrialTroveID-300572,11/9/23,11/9/23
+0,,10/30/17,11/16/16,,,50.0,24.0,Actual,Actual,284623,2.19,Actual,Actual,,Actual,Actual,I,10/30/19,11.43,CMD-2016-001 NCT02870634 TrialTroveID-284623,11/15/19,2/22/22
+1,,,,42.0,11/8/16,,,,,294514,,,,Actual,,,Iv,,,TrialTroveID-294514,1/20/17,8/11/21
+0,68.0,2/28/22,8/28/20,68.0,9/28/23,100.0,6.0,Actual,Actual,381128,3.77,Actual,Actual,Actual,Actual,Actual,Ii,8/30/22,18.05,NCT04499963 pro00103700 TrialTroveID-381128,10/2/23,10/3/23
+0,,,,,,,,,,182580,,,,,,,I,,,TrialTroveID-182580,4/19/16,11/17/20
+0,,,9/19/23,,6/1/24,64.0,,,,486783,,,,Anticipated,,Actual,I,,,TrialTroveID-486783,9/25/23,4/24/24
+0,40.0,,3/1/08,18.0,7/12/11,45.0,,,,207950,,,,Actual,,Actual,Ii,,,0801M25201 0801M25202 MT2008-02 NCT00668564 TrialTroveID-207950,5/2/14,3/29/24
+1,180.0,6/2/07,1/1/95,135.0,5/17/11,75.0,36.0,Actual,Actual,207956,0.91,Actual,Actual,Actual,Actual,Actual,Ii/Iii,6/1/10,149.1,MT1995-01 NCT00176904 TrialTroveID-207956,5/2/14,2/2/24
+0,,8/30/25,3/1/24,,,30.0,6.0,Anticipated,Anticipated,503396,1.67,Anticipated,Anticipated,,Anticipated,Anticipated,Ii,3/1/26,17.98,ALS-DARI-1 NCT06249867 TrialTroveID-503396,2/12/24,5/2/24
+0,61.0,11/17/21,4/1/19,122.0,1/9/24,200.0,12.0,Actual,Actual,257041,3.86,Actual,Actual,Actual,Actual,Actual,I,11/17/22,31.59,15-N-0126 150126 NCT02437110 TrialTroveID-257041,2/27/24,2/27/24
+0,,1/31/24,7/1/23,,,8.0,13.97,Anticipated,Anticipated,482403,1.14,Anticipated,Anticipated,,Anticipated,Anticipated,Ii,3/31/25,7.03,ChiCTR2300074923 TrialTroveID-482403,4/18/24,4/18/24
+0,100.0,8/31/12,1/1/10,12.0,,12.0,3.0,Actual,Actual,242433,0.38,Actual,Actual,,Actual,Actual,I,12/1/12,31.97,AL-108 NAP Pilot NCT01056965 TrialTroveID-242433,3/28/18,8/9/22
+0,109.0,4/1/24,10/11/22,249.0,,228.0,6.0,Anticipated,Anticipated,434057,0.4,Anticipated,Anticipated,,Anticipated,Actual,Ii,10/1/24,17.69,CORT113176-652 DAZALS EudraCT Number: 2021-005611-31 NCT05407324 NL80995.041.22 TrialTroveID-434057,5/1/24,5/2/24
+0,219.0,5/17/22,3/17/22,35.0,4/26/23,16.0,0.13,Actual,Actual,431662,17.41,Actual,Actual,Anticipated,Actual,Actual,I,5/21/22,2.01,CORT113176-654 EudraCT Number: 2022-000181-18 IRAS 1005009 ISRCTN52169163 QSC207407 TrialTroveID-431662,6/7/23,7/21/23
+0,67.0,9/2/21,7/13/21,16.0,,24.0,0.92,Actual,Actual,410677,9.52,Actual,Actual,,Actual,Actual,I,9/30/21,1.68,CORT113176-653 EudraCT Number: 2021-002456-36 NCT04994743 TrialTroveID-410677,10/12/21,2/24/22
+0,100.0,8/23/21,8/18/21,6.0,,6.0,0.92,Actual,Actual,410425,37.5,Actual,Actual,,Actual,Actual,I,9/20/21,0.16,CORT113176-651 EudraCT Number: 2021-002544-78 NCT04990310 TrialTroveID-410425,11/29/21,2/24/22
+0,90.0,8/25/20,1/27/20,110.0,,122.0,1.68,Actual,Actual,366565,15.87,Actual,Actual,,Actual,Actual,I,10/15/20,6.93,271965 CORT113176-650 EudraCT Number: 2019-004258-27 NCT04249323 TrialTroveID-366565,10/14/20,10/28/22
+1,,,12/1/24,,,,,,,493193,,,,,,Anticipated,Iii,,,Study BCT-006-US TrialTroveID-493193,4/29/24,4/30/24
+1,,,12/14/20,,,,,,,391780,,,,,,Actual,Iii,,,BCT-003-US NCT04681118 TrialTroveID-391780,5/1/23,10/3/23
+0,128.0,,9/1/13,23.0,11/7/17,18.0,,,,211006,,Actual,,Actual,,Actual,Ii,12/1/16,,2012_69 EudraCT Number: 2013-001228-21 FAIR-ALS NCT02164253 SAFE-FAIR-ALS SAFEFAIRALS TrialTroveID-211006,3/10/17,2/22/22
+1,155.0,11/4/22,1/1/19,372.0,,240.0,11.9,Anticipated,Actual,309968,0.54,Anticipated,Actual,,Actual,Actual,Ii/Iii,11/1/23,46.12,2016_76 EudraCT Number: 2017-003763-35 FAIR-ALS II NCT03293069 TrialTroveID-309968,11/9/22,11/30/22
+0,,,2/1/11,,,,,,,285271,,Actual,,,,Actual,(N/A),10/1/19,,2010_29 2010-A01216-33 LymphoEnergy NCT02880033,,3/25/20
+0,108.0,4/21/21,3/10/21,43.0,9/15/22,40.0,16.31,Actual,Actual,396647,7.79,Actual,Actual,Actual,Actual,Actual,Ii,8/30/22,1.38,EudraCT Number: 2020-003962-38 NCT04762589 NL75564.041.20 RT001-014 TrialTroveID-396647,9/19/22,1/4/24
+0,,,9/17/18,,,,,,,333164,,,,,,Actual,I,,,TrialTroveID-333164,7/27/23,7/27/23
+0,8.0,10/3/17,12/1/15,1.0,10/26/20,12.0,3.5,Actual,Actual,263745,0.02,Actual,Actual,Actual,Actual,Actual,Ii,10/3/17,22.08,15-AVP-786-203 NCT02534038 TrialTroveID-263745,1/24/18,8/1/22
+0,62.0,8/24/14,5/1/14,62.0,,100.0,0.26,Actual,Actual,250379,16.4,Actual,Actual,,Actual,Actual,I,9/1/14,3.78,14-AVP-786-102 NCT02336347 TrialTroveID-250379,6/24/15,2/25/22
+0,100.0,2/8/14,1/1/14,56.0,6/24/15,56.0,0.66,Actual,Actual,211881,44.8,Actual,Actual,Actual,Actual,Actual,I,3/1/14,1.25,14-AVP-786-101 NCT02174822 TrialTroveID-211881,6/30/14,10/26/22
+0,100.0,10/24/13,9/1/13,56.0,,56.0,0.25,Actual,Anticipated,211878,32.94,Anticipated,Anticipated,,Anticipated,Actual,I,11/1/13,1.7,13-AVR-134 NCT02174835 TrialTroveID-211878,1/9/15,2/24/22
+0,120.0,1/24/13,11/27/12,48.0,,40.0,0.25,Actual,Actual,178131,25.26,Actual,Actual,,Actual,Actual,I,2/1/13,1.9,12-AVR-132 NCT01787747 TrialTroveID-178131,6/26/13,2/24/22
+1,,,,,,20.0,,,,324339,,,,,,,Iv,,,EudraCT Number: 2018-000142-18 TrialTroveID-324339,9/28/20,9/28/20
+0,7.0,4/1/22,2/8/22,5.0,8/25/23,75.0,0.0,Actual,Actual,427128,0.97,Actual,Actual,Actual,Actual,Actual,Ii,4/1/22,1.71,BXCL501-203 NCT05276830 TrialTroveID-427128,9/20/22,8/29/23
+0,,,,16.0,12/6/12,,0.12,Actual,,179548,,,,Actual,,,I,,,TrialTroveID-179548,12/24/12,2/24/22
+1,72.0,11/1/12,6/6/12,616.0,3/26/13,850.0,2.1,Anticipated,Anticipated,169730,1.54,Actual,Anticipated,Actual,Anticipated,Actual,Iii,1/4/13,5.0,223AS304 DeNDRoN 058ext ENVISION EudraCT Number: 2011-006119-70 MREC N° 12/NW/0413 NA_00071274 NCT01622088 NL40561.041.12 TrialTroveID-169730 UKCRN ID: 12687,4/24/13,5/15/22
+0,100.0,6/29/12,6/1/12,24.0,,24.0,0.12,Actual,Actual,168549,26.67,Actual,Actual,,Actual,Actual,I,7/1/12,0.9,223HV106 NCT01607034 TrialTroveID-168549,8/20/12,2/24/22
+0,100.0,6/15/12,5/1/12,15.0,,15.0,0.5,Actual,Actual,167533,10.0,Actual,Actual,,Actual,Actual,I,7/1/12,1.5,223HV105 NCT01597310 TrialTroveID-167533,7/21/12,2/24/22
+0,100.0,3/29/12,3/1/12,14.0,,14.0,0.12,Actual,Actual,162708,15.56,Actual,Actual,,Actual,Actual,I,4/1/12,0.9,223HV104 NCT01536249 TrialTroveID-162708,5/14/12,2/24/22
+0,100.0,4/23/12,1/1/12,68.0,,68.0,0.25,Actual,Actual,160501,18.38,Actual,Actual,,Actual,Actual,I,5/1/12,3.7,223HV102 NCT01511029 TrialTroveID-160501,5/26/12,2/24/22
+0,100.0,12/20/11,11/1/11,63.0,,63.0,0.5,Actual,Actual,154751,39.38,Actual,Actual,,Actual,Actual,I,1/1/12,1.6,223HV103 NCT01449578 TrialTroveID-154751,2/1/12,4/26/23
+0,100.0,12/24/11,7/1/11,36.0,12/6/12,36.0,0.25,Actual,Actual,151922,3.1,Actual,Actual,Actual,Actual,Actual,I,1/1/12,5.8,223RI101 NCT01424176 TrialTroveID-151922,2/1/12,2/24/22
+0,102.0,1/17/12,8/1/11,57.0,,56.0,0.52,Actual,Actual,151907,10.27,Actual,Actual,,Actual,Actual,I,2/1/12,5.55,223HV101 NCT01424163 TrialTroveID-151907,6/4/13,2/24/22
+0,82.0,12/31/09,6/1/09,74.0,8/16/21,90.0,42.0,Actual,Actual,111411,0.56,Actual,Actual,Actual,Actual,Actual,Ii,7/1/13,7.0,CL211 KNOPP CL211 KNS-760704-CL211 NCT00931944 TrialTroveID-111411,5/29/14,11/7/23
+1,117.0,9/30/11,3/28/11,942.0,1/3/13,804.0,12.0,Actual,Actual,105607,1.91,Actual,Actual,Actual,Actual,Actual,Iii,9/28/12,6.1,223AS302 DeNDRoN 058 EMPOWER EudraCT Number: 2010-022818-19 KNS-760704-CL301 NCT01281189 NL35564.041.11 TrialTroveID-105607 UKCRN ID: 9001,12/11/13,5/9/22
+0,242.0,1/26/09,4/9/08,194.0,12/9/09,80.0,6.11,Actual,,78900,,Actual,Actual,Actual,,Actual,Ii,7/31/09,,CL201 KNS 760704-CL201 KNS-760704-CL201 NCT00647296 TrialTroveID-078900,11/10/09,2/15/22
+0,,,1/1/07,24.0,9/14/08,,0.5,Actual,,78890,,,,Actual,,Actual,I,,,KNS 760704-CL002 TrialTroveID-078890,10/22/10,2/23/22
+0,125.0,10/1/07,9/24/07,30.0,12/2/07,24.0,1.0,Actual,Anticipated,78888,120.0,Anticipated,Anticipated,Actual,Anticipated,Actual,I,11/1/07,0.25,KNS 760704-CL001 TrialTroveID-078888,1/30/10,2/23/22
+0,70.0,8/14/21,7/25/19,28.0,3/8/23,40.0,0.99,Actual,Actual,345808,0.57,Actual,Actual,Actual,Actual,Actual,Iii,9/13/21,24.67,NCT03883581 OCR20392 TrialTroveID-345808,11/18/21,9/26/23
+0,,1/26/18,11/28/17,,,18.0,0.12,Actual,Actual,315238,9.28,Actual,Actual,,Actual,Actual,I,1/30/18,1.94,17-AVR-135 NCT03381664 TrialTroveID-315238,2/26/18,2/25/22
+1,4.0,7/2/17,9/1/15,5.0,4/18/17,125.0,5.91,Actual,Actual,261362,0.11,Actual,Actual,Actual,Actual,Actual,Iv,7/2/17,22.01,15-AVR-404 NCT02496039 TrialTroveID-261362,5/12/16,8/4/20
+1,,,1/1/01,,,,,,,224640,,Actual,,,,Actual,Iii,4/1/02,,99-AVR-102 AVP-923 NCT00021697,,7/13/16
+0,100.0,11/18/14,4/1/13,60.0,3/4/16,60.0,2.3,Actual,Actual,182930,0.44,Actual,Actual,Actual,Actual,Actual,Ii,1/27/15,19.58,2012P001274 NCT01806857 NUE-2012 TrialTroveID-182930,3/28/17,2/2/22
+1,,,,18.0,10/8/12,,9.0,Actual,,175656,,,,Actual,,,Iv,,,TrialTroveID-175656,10/10/12,11/5/12
+1,89.0,7/6/09,,253.0,11/10/09,283.0,3.0,Actual,,114507,,,Actual,Actual,,,Iii,,,STAR-Ext TrialTroveID-114507,11/11/09,4/3/17
+0,,,,50.0,4/1/09,,,,,106736,,,,Actual,,,I,,,ACSS TrialTroveID-106736,4/2/09,2/24/22
+1,,,,,,,1.0,Actual,,80397,,,,,,,Iii,,,TrialTroveID-080397,11/8/13,11/24/15
+1,109.0,3/16/09,12/10/07,326.0,8/11/09,300.0,3.0,Actual,Actual,77401,0.35,Actual,Actual,Actual,Actual,Actual,Iii,6/15/09,15.2,07-AVR-123 HUM00016766 NA_00014202 NCT00573443 STAR TrialTroveID-077401,12/10/14,2/1/22
+1,92.0,6/1/06,3/1/03,553.0,5/17/11,600.0,12.0,Actual,Actual,5588,0.32,Actual,Actual,Actual,Actual,Actual,Iii,6/1/07,39.1,02-AVR-107 NCT00056524 TrialTroveID-005588,7/30/14,11/21/23
+0,,4/8/15,3/1/15,,,24.0,2.75,Actual,Actual,254771,19.2,Actual,Actual,,Actual,Actual,I,7/1/15,1.25,15-AVP-786-103 NCT02402595 TrialTroveID-254771,7/15/16,2/25/22
+0,,,,27.0,5/24/10,,0.75,Actual,,129210,,,,Actual,,,I,,,06-AVR-121 TrialTroveID-129210,6/17/10,2/24/22
+0,93.0,12/10/18,10/1/17,109.0,9/3/21,117.0,9.5,Actual,Actual,323292,1.27,Actual,Actual,Actual,Actual,Actual,Ii,9/25/19,14.29,ACTRN12618000534280 SPIRIT Compliant TEALS Study TrialTroveID-323292 U1111-1211-7805,11/11/21,5/2/22
+0,,,1/11/17,,,30.0,,,,285693,,Anticipated,,,,Anticipated,I,3/31/17,,EudraCT Number: 2016-003859-30 NL59310.056.16 TrialTroveID-285693,7/3/18,2/25/22
+0,,4/3/24,3/1/24,,,7.0,0.92,Anticipated,Anticipated,505876,6.48,Anticipated,Anticipated,,Anticipated,Actual,I,5/1/24,1.08,DNLI-F-0009 NCT06281158 TrialTroveID-505876,3/4/24,3/4/24
+1,,12/30/24,5/24/23,,,240.0,6.0,Anticipated,Anticipated,449641,12.46,Anticipated,Anticipated,,Anticipated,Actual,Ii/Iii,7/1/25,19.26,2019P003518G HEALEY ALS Platform – Regimen G NCT05842941 TrialTroveID-449641,6/1/23,4/24/24
+0,97.0,11/17/22,8/11/21,29.0,11/15/23,30.0,0.92,Anticipated,Anticipated,393846,0.27,Anticipated,Anticipated,Actual,Anticipated,Actual,I,12/15/22,15.22,DNLI-F-0003 EudraCT Number: 2021-001766-37 NCT05006352 NL77969.056.21 TrialTroveID-393846,1/23/24,2/23/24
+0,129.0,,12/23/20,31.0,,24.0,,,,386637,,Actual,,,,Actual,I,6/4/21,,DNLI-F-0002 NCT04581772 TrialTroveID-386637,6/14/21,2/24/22
+0,109.0,7/14/21,2/20/20,96.0,10/6/21,88.0,0.66,Actual,Actual,355585,5.73,Actual,Actual,Actual,Actual,Actual,I,8/3/21,16.76,DNLI-F-0001 EudraCT Number: 2019-004027-21 NCT04268784 NL72239.056.19 TrialTroveID-355585,10/8/21,2/16/24
+0,,5/2/24,2/1/22,,,106.0,18.0,Anticipated,Anticipated,422947,0.15,Anticipated,Anticipated,,Anticipated,Actual,Iii,11/1/25,26.97,DNLI-H-0001 EudraCT Number: 2021-005733-16 FTD-GRN NCT05262023 NL81299.056.22 TrialTroveID-422947,1/10/24,4/24/24
+0,94.0,12/6/19,12/14/18,15.0,,16.0,6.41,Anticipated,Anticipated,337679,0.43,Actual,Anticipated,,Anticipated,Actual,I,6/18/20,11.73,DNLI-D-0003 EudraCT Number: 2018-003623-11 NCT03757351 NL67676.056.18 TDR16536 TrialTroveID-337679,7/13/20,2/22/22
+0,,10/1/18,3/1/18,56.0,11/19/18,,,,Actual,327301,7.97,,Actual,Actual,Actual,Actual,I,,7.03,TrialTroveID-327301,11/23/18,3/2/23
+0,,,12/1/19,,,,,,,322502,,,,,,Anticipated,I,,,TrialTroveID-322502,9/21/20,7/16/21
+0,,,7/28/21,18.0,,,,,,464738,,Actual,,,,Actual,I,9/6/21,,BDR16957 NCT05797701 TrialTroveID-464738 U1111-1256-9220,4/6/23,4/7/23
+0,,6/29/21,11/30/20,84.0,1/10/23,,0.69,Actual,Actual,458128,12.1,Actual,Actual,Actual,Actual,Actual,I,7/20/21,6.94,NCT05795907 TDU16519-TDR16520 TrialTroveID-458128 U1111-1254-0034,4/5/23,3/15/24
+0,117.0,3/8/23,3/29/22,305.0,6/1/24,261.0,12.0,Actual,Actual,415581,0.43,Actual,Actual,Anticipated,Actual,Actual,Ii,3/7/24,11.31,ACT16970 CCR-21-72 CTR20221567 EUCT number: 2023-509442-36-00 EudraCT Number: 2021-004156-42 HIMALAYA jRCT2031220078 NCT05237284 NL79644.041.21 TrialtroveID-415581 U1111-1263-5766,4/12/24,4/30/24
+0,88.0,,8/5/21,14.0,12/1/21,16.0,,,,377375,,Actual,,Anticipated,,Actual,I,10/11/21,,EudraCT Number: 2021-001076-42 NCT04982991 PKM17247 TrialTroveID-377375 U1111-1264-3008,11/2/21,5/24/22
+0,44.0,12/29/21,11/14/21,8.0,,18.0,11.99,Actual,Actual,422050,2.7,Actual,Actual,,Actual,Actual,Ii,12/29/22,1.48,NCT05176093 REViVALS-1B TrialTroveID-422050 VMALS-002-2b,2/14/23,2/14/23
+0,100.0,1/12/22,2/9/21,18.0,9/2/22,18.0,5.92,Actual,Actual,279969,0.32,Actual,Actual,Actual,Actual,Actual,Ii,7/11/22,11.08,NCT04632225 REViVALS-1A TrialTroveID-279969 VMALS-002-2,9/12/22,2/3/23
+0,100.0,10/31/14,3/1/14,18.0,2/6/17,18.0,9.01,Actual,Actual,200898,2.24,Actual,Actual,Actual,Actual,Actual,Iii,8/1/15,8.02,NCT02039401 TrialTroveID-200898 VMALS-001 / B,8/22/17,9/23/23
+1,,10/2/21,1/1/20,,,40.0,2.96,Anticipated,Anticipated,356001,1.9,Anticipated,Anticipated,,Anticipated,Anticipated,Iv,12/31/21,21.03,CTRI/2019/08/020596 TrialTroveID-356001,8/27/19,5/4/21
+1,,,8/1/14,,,60.0,,,,213653,,Anticipated,,,,Actual,Iv,8/1/17,,ChiCTR-TRC-14004981 TrialTroveID-213653,12/28/16,11/17/20
+1,,,,,,,7.5,Actual,,105587,,,,,,,Iv,,,TrialTroveID-105587,5/15/18,3/7/24
+1,,12/31/25,1/1/22,,,1176.0,12.0,Anticipated,Anticipated,493918,2.45,Anticipated,Anticipated,,Anticipated,Actual,Iv,12/31/26,47.99,ChiCTR2300078043 TrialTroveID-493918,11/29/23,11/30/23
+1,,,,12.0,11/20/18,,,,,338865,,,,Actual,,,Iv,,,TrialTroveID-338865,12/14/18,12/14/18
+1,,,,9.0,5/18/12,,0.5,Actual,,167932,,,,Actual,,,Iv,,,TrialTroveID-167932,5/21/12,2/23/23
+1,113.0,3/17/08,7/15/04,27.0,11/4/08,24.0,0.5,Actual,Actual,103048,,Actual,Actual,Actual,,Actual,Iv,4/1/08,44.1,NCT00812851 THC SG TrialTroveID-103048,1/14/09,8/12/11
+0,,,2/1/15,,,,,,,255308,,Actual,,,,Actual,Ii,9/19/16,,IND 123119 Protocol B NCT02414230 T807ALS,,9/17/20
+1,,,,,,,,,,511751,,,,,,,Iii,,,TrialTroveID-511751,4/8/24,4/22/24
+1,50.0,,10/26/22,15.0,,30.0,,,,444366,,Actual,,,,Actual,Iii,6/27/23,,jRCT2041220069 MT-1186-A-301 NCT05568615 TrialTroveID-444366,10/30/23,1/2/24
+0,,,6/10/19,16.0,1/5/24,,,,,430360,,Actual,,Actual,,Actual,I,7/24/19,,Food Effect Study MT-1186-J06 NCT05342597 TrialTroveID-430360,4/28/22,1/11/24
+0,,,,6.0,,,,,,423335,,,,,,,I,,,PMC 3208-6 Study J05 TrialTroveID-423335,1/22/22,2/19/24
+1,101.0,3/23/23,11/13/20,384.0,12/1/24,380.0,4.31,Actual,Actual,385686,0.14,Actual,Actual,Anticipated,Actual,Actual,Iii,8/1/23,28.27,20-2340 BASEC2020-02985 CCR-20-158 EudraCT Number: 2019-004256-11 jRCT2031200301 MT-1186-A02 NCT04569084 SNCTP000004361 TrialTroveID-385686,8/3/23,5/2/24
+0,,,10/17/18,84.0,,,,,,380057,,Actual,,,,Actual,I,12/20/18,,MT-1186-J02 NCT04481789 TrialTroveID-380057,7/23/20,2/24/22
+1,,,7/1/16,16.0,4/14/20,,,,,373066,,,,Actual,,Actual,Iv,,,TrialTroveID-373066,4/27/20,4/27/20
+1,,11/10/20,11/11/19,,,60.0,12.0,Anticipated,Anticipated,360982,5.0,Anticipated,Anticipated,,Anticipated,Anticipated,Iv,11/10/21,11.99,CTRI/2019/11/021838 ESEALS TrialTroveID-360982,4/26/22,4/26/22
+1,,2/2/24,10/21/19,,,300.0,0.92,Anticipated,Anticipated,360137,0.18,Anticipated,Anticipated,,Anticipated,Actual,Iv,3/1/24,51.45,NCT04259255 REFINE-ALS TrialTroveID-360137,8/25/23,4/26/24
+1,,3/2/24,10/8/19,,,160.0,6.02,Anticipated,Anticipated,357767,3.03,Anticipated,Anticipated,,Anticipated,Actual,Iv,9/1/24,52.83,NCT04097158 TrialTroveID-357767,1/21/22,12/23/23
+1,,5/1/18,5/1/17,331.0,6/17/20,,12.0,Actual,Actual,378613,0.71,Actual,Actual,Actual,Actual,Actual,Iv,5/1/19,11.99,TrialTroveID-378613,7/8/20,2/22/22
+1,,,8/1/17,37.0,11/8/19,,,,,364529,,Actual,,Actual,,Actual,Iv,5/1/19,,TrialTroveID-364529,12/31/19,12/31/19
+0,,,9/18/18,27.0,11/8/19,,,,,353853,,Actual,,Actual,,Actual,I,10/20/18,,3208-4 MCI-186-J25 NCT04029090 TrialTroveID-353853,7/24/19,2/24/22
+0,100.0,3/21/19,11/6/18,12.0,4/7/20,12.0,0.1,Actual,Actual,332552,0.9,Actual,Actual,Actual,Actual,Actual,I,3/25/19,4.44,3208-3 EudraCT Number: 2018-001163-23 MCI-186-E05 MCI-186-E05 HP NCT03664544 TrialTroveID-332552,4/17/19,2/1/24
+1,,10/1/21,,,10/1/22,,6.0,Anticipated,,330298,,Anticipated,Anticipated,Anticipated,,,Iv,4/1/22,,3208-5 TrialTroveID-330298,6/7/21,2/19/24
+1,,,,,,,,,,325114,,,,,,,Iii,,,TrialTroveID-325114,12/30/20,12/30/20
+1,114.0,10/12/17,10/13/15,800.0,,700.0,60.0,Anticipated,Actual,317338,,Anticipated,Actual,,,Actual,Iv,10/12/22,23.98,SUNRISE Japan TrialTroveID-317338 UMIN000023978,2/17/23,2/17/23
+0,,,,28.0,10/15/17,,3.0,Actual,,315808,,,,Actual,,,Ii,,,TrialTroveID-315808,1/4/18,2/2/22
+0,111.0,4/14/18,10/27/16,30.0,3/2/20,27.0,0.07,Actual,Actual,309684,1.71,Actual,Actual,Actual,Actual,Actual,I,4/16/18,17.54,MCI-186-J22 NCT03289208 TrialTroveID-309684,6/29/18,4/12/23
+0,92.0,7/18/18,11/16/16,22.0,2/28/20,24.0,0.07,Actual,Actual,309683,0.55,Actual,Actual,Actual,Actual,Actual,I,7/20/18,20.01,MCI-186-J23 NCT03289234 TrialTroveID-309683,11/29/18,4/12/23
+1,,,11/16/16,,,20.0,,,,306199,,,,,,Actual,Iii,,,TrialTroveID-306199 UMIN000024854,3/6/20,3/6/20
+0,,,9/1/15,50.0,11/8/16,,,,,294466,,,,Actual,,Actual,Ii,,,TrialTroveID-294466,1/23/17,11/3/21
+0,,,2/1/15,,,10.0,,,,252252,,Actual,,,,Actual,Iii,8/3/16,,TrialTroveID-252252 UMIN000016352,11/17/16,2/22/22
+1,107.0,3/3/14,11/28/11,137.0,4/20/16,128.0,6.0,Actual,Actual,157748,5.05,Actual,Actual,Actual,Actual,Actual,Iii,9/1/14,27.14,J19 MCI186-19 NCT01492686 Study 19 TrialTroveID-157748,6/22/15,4/10/24
+0,100.0,,9/1/11,5.0,12/7/13,5.0,,,,152786,,,,Actual,,Anticipated,Ii,,,TrialTroveID-152786 UMIN000006103,12/3/13,6/6/19
+1,,,,49.0,12/1/07,,,,,121739,,,,Actual,,,Iii,,,TrialTroveID-121739,10/30/10,6/6/19
+1,129.0,10/30/08,1/1/07,181.0,3/4/16,140.0,6.0,Actual,Actual,79058,8.25,Actual,Actual,Actual,Actual,Actual,Iii,5/1/09,21.95,MCI186-17 NCT00424463 TrialTroveID-79058,3/7/11,11/9/22
+1,135.0,12/31/07,12/1/06,27.0,3/4/16,20.0,6.0,Actual,Actual,78952,1.04,Actual,Actual,Actual,Actual,Actual,Iii,7/1/08,12.98,MCI186-18 NCT00415519 TrialTroveID-078952,11/19/08,6/6/19
+1,103.0,3/2/08,5/1/06,206.0,12/12/13,200.0,6.0,Actual,Actual,78836,0.32,Actual,Actual,Actual,Actual,Actual,Iii,9/1/08,22.1,JapicCTI-060256 MCI186-16 NCT00330681 Study 16 TrialTroveID-078836,11/19/08,10/31/23
+0,,,,20.0,11/30/06,,6.0,Actual,,78784,,,,Actual,,,Ii,,,TrialTroveID-078784,10/28/10,2/7/22
+0,,,,,,,,,,350974,,,,,,,I,,,MT-1186-G01 TrialTroveID-350974,5/8/20,2/24/22
+0,,,,9.0,11/17/21,,,,,423334,,,,Actual,,,I,,,Study J04 TrialTroveID-423334,1/22/22,3/14/22
+0,,,3/22/19,42.0,5/6/21,,,,,423333,,Actual,,Actual,,Actual,I,4/21/19,,MT-1186-J03 NCT04493281 Study J03 TrialTroveID-423333,1/22/22,1/22/24
+1,67.0,8/1/23,1/11/22,202.0,,300.0,0.0,Actual,Actual,420326,0.29,Actual,Actual,,Actual,Actual,Iii,8/1/23,18.64,BASEC2022-00492 EudraCT Number: 2021-003900-42 jRCT2071210117 MT-1186-A04 NCT05151471 SNCTP000005181 TrialTroveID-420326,8/3/23,3/29/24
+0,100.0,3/19/21,2/26/21,36.0,1/8/24,36.0,0.43,Actual,Actual,397963,52.17,Actual,Actual,Actual,Actual,Actual,I,4/1/21,0.69,jRCT2031200361 MT-1186-Z-101 NCT04776135 TrialTroveID-397963,5/18/21,1/10/24
+1,89.0,10/8/21,10/29/20,124.0,,140.0,22.0,Actual,Actual,386225,0.23,Actual,Actual,,Actual,Actual,Iii,8/8/23,11.31,19-2377 EudraCT Number: 2020-000376-38 jRCT2041200084 MT-1186-A03 NCT04577404 TrialTroveID-386225,10/31/23,1/12/24
+1,,,,,,400.0,11.0,Anticipated,,373996,,,,,,,Iii,,,MT-1186-G03 TrialTroveID-373996,3/29/23,3/29/23
+0,67.0,4/14/20,1/24/20,6.0,1/24/24,9.0,0.07,Actual,Actual,366825,2.26,Actual,Actual,Actual,Actual,Actual,I,4/16/20,2.66,JapicCTI-205129 jRCT2080225036 MT-1186-J05 NCT04254913 TrialTroveID-366825,10/5/20,3/18/24
+0,100.0,9/2/19,4/17/19,9.0,5/12/23,9.0,0.07,Actual,Actual,361981,1.99,Actual,Actual,Actual,Actual,Actual,I,9/4/19,4.53,JapicCTI-195050 jRCT2080224962 MT-1186-J04 NCT04176224 TrialTroveID-361981,11/26/19,3/18/24
+0,,,,,,,,,,350976,,,,,,,Ii,,,TrialTroveID-350976,6/30/21,6/30/21
+1,123.0,10/11/20,11/18/19,185.0,6/1/22,150.0,11.86,Actual,Actual,350975,0.34,Actual,Actual,Actual,Actual,Actual,Iii,10/7/21,10.78,EudraCT Number: 2019-002108-41 JapicCTI-195070 jRCT2080224982 MT-1186-A01 NCT04165824 TrialTroveID-350975,11/10/21,3/7/24
+0,,7/14/18,3/20/18,74.0,11/20/18,,0.66,Actual,Actual,350519,19.42,Actual,Actual,Actual,Actual,Actual,I,8/3/18,3.81,MT-1186-J01 NCT04481750 TrialTroveID-350519,6/5/19,2/24/22
+0,,8/9/19,6/5/19,40.0,,,0.23,Actual,Actual,364988,18.69,Actual,Actual,,Actual,Actual,I,8/16/19,2.14,NCT04219865 NJYK-CPEDRV-I TrialTroveID-364988,1/14/20,2/24/22
+1,,9/20/24,5/1/24,,,30.0,3.35,Anticipated,Anticipated,513626,6.42,Anticipated,Anticipated,,Anticipated,Anticipated,Iv,12/31/24,4.67,ChiCTR2400082879 TrialTroveID-513626,4/21/24,4/22/24
+0,97.0,,11/7/23,29.0,,30.0,,,,490509,,Actual,,,,Actual,I,12/14/23,,NCT06107205 TrialTroveID-490509 TTYP01-02-2022,3/26/24,3/26/24
+0,120.0,,4/24/20,72.0,,60.0,,,,373533,,Actual,,,,Actual,I,12/17/20,,Auzone-01 NCT04370431 TrialTroveID-373533,4/7/21,2/24/22
+0,,,,,,42.0,,,,389173,,,,,,,I,,,CTR20202055 TrialTroveID-389173 XWY-3-LC-04,11/26/22,11/26/22
+1,92.0,1/10/24,3/6/23,206.0,,225.0,0.0,Actual,Actual,457360,0.55,Actual,Actual,,Actual,Actual,Iii,1/10/24,10.19,ADOREXT EudraCT Number:2022-003050-32 FAB122-CT-2201 NCT05866926 NL83050.100.22 TrialTroveID-457360,1/16/24,4/22/24
+1,,7/22/23,10/18/21,,1/10/24,300.0,,,Anticipated,411401,0.37,,Anticipated,Actual,Anticipated,Actual,Iii,,21.09,21/YH/0144 ADORE EudraCT Number: 2020-003376-40 FAB122-CT-2001 NCT05178810 NL74715.041.21 NL79225.041.21 TrialTroveID-411401,1/16/24,3/29/24
+0,,,,18.0,5/29/18,,,,,325435,,,,Actual,,,I,,,TrialTroveID-325435,6/2/18,2/24/22
+0,,,,,12/10/15,,,,,269589,,,,Actual,,,I,,,TrialTroveID-269589,12/11/15,2/25/22
+0,,7/1/15,5/1/15,,12/10/15,8.0,0.5,Actual,Anticipated,269586,4.0,Anticipated,Anticipated,Actual,Anticipated,Anticipated,I,7/17/15,2.0,EudraCT number: 2015-000685-64 NL52559.041.15 TrialTroveID-269586,12/11/15,1/4/18
+1,,,12/1/16,,12/1/18,,,,,212552,,,,Anticipated,,Anticipated,Ii/Iii,,,ADORE TrialTroveID-212552,9/28/20,9/29/20
+1,,12/31/24,10/7/21,,,300.0,12.0,Anticipated,Anticipated,417379,0.45,Anticipated,Anticipated,,Anticipated,Actual,Iv,12/31/25,38.82,266376 NCT05095571 TrialTroveID-417379,11/9/23,3/17/24
+1,,8/31/24,10/7/20,,,380.0,12.0,Anticipated,Anticipated,385546,0.9,Anticipated,Anticipated,,Anticipated,Actual,Iv,8/31/25,46.81,98955 NCT04562831 NO-ALS TrialTroveID-385546,3/3/21,9/28/23
+0,,,12/1/18,,,150.0,,,,321723,,,,,,Anticipated,Ii,,,TrialTroveID-321723,10/21/20,10/21/20
+0,,,1/1/17,32.0,1/22/19,,6.0,Actual,,321722,,Actual,,Actual,,Actual,Ii,6/1/17,,H1479983999044 NCT03489200 TrialTroveID-321722,4/4/18,12/14/23
+0,100.0,,4/3/23,15.0,,15.0,,,,459434,,Actual,,,,Actual,I,4/28/23,,CTR20230343 FB-1071-01-102 TrialTroveID-459434,5/22/23,5/22/23
+0,,,3/9/23,,,40.0,0.46,Anticipated,,451496,,,,,,Actual,I,,,CTR20230290 FB-1071-01-101 TrialTroveID-451496,10/9/23,10/9/23
+0,22.0,10/16/23,3/26/21,8.0,,36.0,0.99,Actual,Actual,393104,0.26,Actual,Actual,,Actual,Actual,Iii,11/15/23,30.7,NCT04840823 REALS-1 TrialTroveID-393104,2/1/24,2/1/24
+0,,11/29/09,10/1/09,11.0,7/28/10,,3.0,Actual,Actual,159636,5.79,Actual,Actual,Actual,Actual,Actual,Ii,3/1/10,1.9,TrialTroveID-159636,6/1/16,6/1/16
+0,,,8/2/10,,6/18/19,60.0,,,,133532,,,,Actual,,Actual,Ii,,,21404132 EudraCT Number: 2010-020257-13 EudraCT Number: 2010-020257-14 TrialTroveID-133532,8/23/21,8/24/21
+0,,,,,,,,,,510355,,,,,,,I,,,CTR20240554 TrialTroveID-510355 WBYY23117,4/4/24,4/8/24
+0,,,1/19/24,,,84.0,,,,499248,,,,,,Actual,I,,,2023-YPLS-BE-062 CTR20234216 TrialTroveID-499248,3/29/24,3/29/24
+0,,9/1/19,6/20/16,,,64.0,15.0,Actual,Anticipated,342634,1.67,Anticipated,Anticipated,,Anticipated,Actual,Iii,12/1/20,38.37,HYNR-EPO NCT03835507 TrialTroveID-342634,2/11/19,2/11/19
+0,,,8/1/05,,,20.0,,,,109558,,,,,,Actual,Ii,,,EPO200501 EudraCT Number: 2005-005873-31 TrialTroveID-109558,1/20/11,5/20/14
+0,,,,,,60.0,4.0,Actual,,203402,,,,,,,Ii,,,EPOSS2010 EudraCT Number: 2011-001329-26 TrialTroveID-203402,10/28/20,10/28/20
+1,100.0,1/1/10,7/1/09,15.0,5/24/10,15.0,2.0,Actual,Actual,95453,2.5,Actual,Actual,Actual,Actual,Actual,Iii,3/1/10,6.0,LXP-113 NCT00965497 Pro00003013 TrialTroveID-095453,11/7/14,5/8/19
+0,,,,,,,,,,449050,,,,,,,I,,,TrialTroveID-449050,1/29/24,1/29/24
+0,,1/1/23,7/6/22,,,12.0,60.0,Anticipated,Anticipated,429197,2.04,Anticipated,Anticipated,,Anticipated,Actual,I,12/31/27,5.88,2022-02-089 FTD_ET-STEM KCT0007072 NCT05315661 TrialTroveID-429197,2/22/24,2/26/24
+0,34.0,10/1/17,6/1/15,65.0,8/26/19,192.0,3.02,Actual,Actual,255732,0.19,Actual,Actual,Actual,Actual,Actual,Ii,1/1/18,28.03,2014D002776 NCT02450552 TrialTroveID-255732,5/10/18,11/14/23
+0,,,9/30/17,0.0,,,,,,274750,,Actual,,,,Anticipated,Ii,9/30/20,,IND 123119 Protocol C NCT02707978,,3/13/24
+0,,,1/2/18,,,,,,,330235,,Actual,,,,Actual,(N/A),8/3/18,,201700982A0 NCT03625128,,10/17/19
+0,,,7/1/16,,,200.0,,,,276655,,Anticipated,,,,Actual,Other,6/1/30,,16-001703 NCT02736695 SLD3,,3/12/24
+0,,2/14/21,3/1/16,,,35.0,10.45,Anticipated,Actual,284541,0.2,,Actual,,Actual,Actual,I,,59.5,2016-247 NCT02868567 OCR16600 TrialTroveID-284541,10/3/22,8/14/23
+0,100.0,8/30/14,9/1/13,10.0,1/11/16,10.0,6.0,Actual,Anticipated,193283,0.84,Anticipated,Anticipated,Actual,Anticipated,Actual,Ii,3/1/15,11.9,NCT01935518 PUTH-2013121 TrialTroveID-193283,2/13/17,2/15/22
+0,150.0,12/23/22,12/22/21,30.0,,20.0,6.25,Anticipated,Anticipated,424018,0.21,Anticipated,Anticipated,,Anticipated,Actual,Ii,7/1/23,12.03,NCT05218668 REAL TrialTroveID-424018 WP-0512-003,10/26/23,10/27/23
+1,100.0,2/19/24,1/18/23,64.0,,64.0,43.36,Anticipated,Actual,475526,4.9,Anticipated,Actual,,Actual,Actual,Iv,9/30/27,13.05,FB1006 M2022300 NCT05923905 TrialTroveID-475526,2/23/24,2/26/24
+0,,8/18/24,12/1/23,,,64.0,0.46,Anticipated,Anticipated,481538,7.46,Anticipated,Anticipated,,Anticipated,Anticipated,I,9/1/24,8.58,FB418_P101 NCT05995782 TrialTroveID-481538,4/3/24,4/3/24
+0,,4/28/24,2/20/24,,,24.0,0.16,Anticipated,Anticipated,480369,10.71,Anticipated,Anticipated,,Anticipated,Actual,I,5/3/24,2.24,FC-US-001 NCT05978908 TrialTroveID-480369,2/22/24,2/26/24
+0,,10/10/23,7/7/22,,,40.0,1.02,Anticipated,Anticipated,445398,2.65,Anticipated,Anticipated,,Anticipated,Actual,I,11/10/23,15.12,ChiCTR2200064504 TrialTroveID-445398,10/18/22,10/19/22
+1,,,4/30/21,,,70.0,,,,403111,,Anticipated,,,,Actual,Iv,6/30/23,,ChiCTR2100046015 TrialTroveID-403111,12/28/21,2/24/22
+1,100.0,1/30/23,7/1/20,42.0,,42.0,6.0,Anticipated,Anticipated,338338,0.27,Anticipated,Anticipated,,Anticipated,Actual,Iv,8/1/23,31.0,FeTr-ALS NCT03766321 TrialTroveID-338338,3/3/23,3/3/23
+0,,,6/1/10,,5/1/17,50.0,,,,313650,,Actual,,Actual,,Actual,Ii,4/30/13,,EFATD TrialTroveID-313650 UMIN000003683,11/30/17,12/1/17
+0,,,,,,,,,,367862,,,,,,,I,,,TrialTroveID-367862,11/30/23,11/30/23
+0,,,,,,,,,,502974,,,,,,,I,,,TrialTroveID-502974,2/6/24,2/6/24
+0,,5/1/10,6/1/05,67.0,1/11/11,,1.0,Actual,Actual,163081,0.57,Actual,Actual,Actual,Actual,Actual,Ii,6/1/10,59.0,TrialTroveID-163081,6/1/16,5/1/22
+0,100.0,9/1/14,8/1/13,30.0,4/23/15,30.0,0.99,Actual,Actual,162194,0.58,Actual,Actual,Actual,Actual,Actual,Ii,10/1/14,13.01,2013P000313 NCT01786174 TDI-132/Gilenya TrialTroveID-162194,1/4/16,2/22/22
+0,,,3/3/08,,,100.0,10.0,Actual,,95021,,,,,,Actual,Ii,,,ACTRN12608000338369 FANS TrialTroveID-095021,12/18/14,2/7/22
+0,,,8/23/18,,,,,,,394884,,Actual,,,,Actual,(N/A),1/21/21,,NCT04720001 STU00206530,,2/21/22
+0,,,3/15/12,,,,,,,395277,,Actual,,,,Actual,(N/A),9/2/15,,NCT04726527 PPA STU00044931,,2/19/21
+0,,,4/11/17,,,,,,,295259,,Actual,,,,Actual,I,10/24/18,,18F-AV-1451-A19 NCT03040713,,9/3/20
+0,,,2/1/16,,,70.0,,,,309207,,Anticipated,,,,Actual,I,3/30/24,,NCT03283449 R01AG056258 STU00200893,,3/20/24
+0,,,4/1/16,,,,,,,272750,,Actual,,,,Actual,Ii,11/25/18,,AAAP4551 NCT02676843 R01NS076837,,11/18/19
+1,,,7/1/18,,,50.0,,,,230224,,Anticipated,,,,Actual,Iv,6/1/28,,"12-008988, 17-010087 NCT01818661 R01DC012519-09",,11/3/23
+0,,7/28/18,1/1/17,,,15.0,0.12,Actual,Anticipated,312279,0.8,Anticipated,Anticipated,,Anticipated,Anticipated,Iii,8/1/18,18.83,FLX-787-106 NCT03338114 TrialTroveID-312279,2/2/18,2/2/22
+0,,8/23/18,4/5/18,,,15.0,0.25,Actual,Actual,312126,3.26,Actual,Actual,,Actual,Actual,Iii,8/23/18,4.6,FLX-787-107 NCT03334786 TrialTroveID-312126,9/3/18,9/18/23
+0,45.0,6/13/18,7/28/17,54.0,3/1/19,120.0,0.0,Actual,Actual,294782,0.15,Actual,Actual,Anticipated,Actual,Actual,Ii,6/13/18,10.51,COMMEND FLX-787-203 NCT03196375 TrialTroveID-294782,1/14/19,11/30/21
+0,26.0,6/30/17,9/16/16,13.0,,50.0,1.15,Actual,Actual,279746,0.46,Actual,Actual,,Actual,Actual,I,7/12/17,9.43,ACTRN12616001060437 Flex-202 TrialTroveID-279746,12/13/18,2/2/22
+0,,,,50.0,3/4/16,,,,,275419,,,,Actual,,,I,,,TrialTroveID-275419,3/24/16,2/25/22
+0,20.0,7/25/17,9/13/16,12.0,11/6/17,60.0,,,Actual,269677,,Actual,Actual,Actual,,Actual,Ii,7/25/17,10.35,TrialTroveID-269677,7/26/17,4/9/18
+0,,,,20.0,6/20/05,,14.0,Actual,,80425,,,,Actual,,,Ii,,,TrialTroveID-080425,4/13/09,2/7/22
+0,,5/10/19,11/28/18,27.0,9/10/19,,0.16,Actual,Anticipated,330861,5.04,Anticipated,Anticipated,Actual,Anticipated,Actual,I,5/15/19,5.36,TrialTroveID-330861,9/17/19,2/24/22
+0,,,,24.0,4/26/06,,1.0,Actual,,80369,,,,Actual,,,Ii,,,TrialTroveID-080369,12/12/07,10/21/10
+0,172.0,,1/27/04,62.0,,36.0,,,,80272,,,,,,Actual,I,,,TrialTroveID-080272,12/12/07,2/23/22
+0,93.0,3/22/16,10/17/14,28.0,7/14/19,30.0,3.1,Actual,Actual,232757,0.13,Actual,Actual,Actual,Actual,Actual,Ii,6/24/16,17.15,EudraCT Number: 2014-001489-85 FRM-0334-002 NCT02149160 TrialTroveID-232757,11/15/17,4/4/23
+0,,,,13.0,12/1/07,,9.0,Actual,,121983,,,,Actual,,,Ii,,,TrialTroveID-121983,5/31/16,5/31/16
+0,,,,39.0,3/31/09,,12.0,Actual,,106555,,,,Actual,,,Ii,,,TrialTroveID-106555,10/26/10,2/8/22
+0,100.0,,12/1/06,40.0,,40.0,,,,78724,,Actual,,,,Actual,Ii,8/1/07,,NCT00397423 R01-123456-1 TrialTroveID-078724,10/19/10,10/20/10
+0,,,5/1/03,,,,,,,237177,,,,,,Actual,Ii,,,CR003106 NCT00416169,,6/6/11
+0,23.0,11/18/08,3/1/06,42.0,1/8/11,180.0,3.5,Actual,Actual,78765,1.28,Actual,Actual,Actual,Actual,Actual,Ii,3/1/09,32.7,EudraCT Number: 2005-001113-18 GCSFEPO_01 NCT00298597 TrialTroveID-078765,5/12/11,2/25/22
+0,,,,,,,,,,395961,,,,,,,I,,,TrialTroveID-395961,5/31/23,5/31/23
+0,86.0,5/6/19,2/1/19,38.0,8/31/20,44.0,0.79,Actual,Actual,341032,6.15,Actual,Actual,Actual,Actual,Actual,I,5/30/19,3.09,GP40957 NCT03807739 TrialTroveID-341032,8/7/19,3/18/24
+0,75.0,9/16/17,8/7/17,18.0,,24.0,2.92,Actual,Actual,306390,13.74,Actual,Actual,,Actual,Actual,I,12/14/17,1.31,EudraCT number: 2017-000299-27 GP39778 NCT03237741 TrialTroveID-306390,4/19/18,3/26/24
+0,66.0,8/1/16,5/31/16,54.0,1/10/22,82.0,43.47,Anticipated,Anticipated,271474,2.65,Actual,Anticipated,Actual,Anticipated,Actual,I,3/16/20,2.04,EudraCT Number: 2017-002931-41 GN29823 NCT02655614 TrialTroveID-271474,8/7/20,11/27/23
+0,,,,,,,,,,440237,,,,,,,I,,,TrialTroveID-440237,,8/26/22
+0,86.0,4/8/22,4/27/21,76.0,8/18/22,88.0,1.48,Actual,Actual,392450,6.68,Actual,Actual,Actual,Actual,Actual,I,5/23/22,11.37,GFH312X3101 NCT04676711 TrialTroveID-392450,8/26/22,3/1/24
+0,100.0,12/1/04,6/1/04,30.0,9/12/05,30.0,6.0,Actual,Actual,79350,5.0,Actual,Actual,Actual,Actual,Actual,Ii,6/1/05,6.0,TrialTroveID-079350,12/11/07,12/19/23
+0,102.0,12/1/06,6/1/06,366.0,3/13/08,360.0,12.0,Actual,Actual,79039,4.68,Actual,Actual,Actual,Actual,Actual,Ii,12/1/07,6.01,ALS-GA-201 EudraCT Number: 2006-001688-49 GA-201 GoALS NCT00326625 TrialTroveID-079039,2/24/09,2/15/22
+0,,,1/1/03,4.0,12/4/04,,7.0,Actual,,80381,,,,Actual,,Actual,Ii,,,TrialTroveID-080381,12/13/07,2/7/22
+0,69.0,12/13/19,9/5/18,22.0,11/7/20,32.0,0.0,Actual,Actual,332160,1.44,Actual,Actual,Actual,Actual,Actual,I,12/13/19,15.24,NCT03658135 TauBasket TrialTroveID-332160 UCSF-001-AET-1,12/20/19,8/25/21
+0,,,,,,,,,,205673,,,,,,,Ii,,,TrialTroveID-205673,10/6/21,10/6/21
+1,100.0,8/1/13,11/1/12,40.0,9/15/14,40.0,3.0,Actual,Actual,180430,2.23,Actual,Actual,Actual,Actual,Actual,Ii/Iii,11/1/13,8.97,91-01-54-17265 IRCT201207238509N2 NCT01825551 TrialTroveID-180430,4/23/14,2/18/22
+0,,,12/1/19,,,6.0,,,,351652,,,,,,Anticipated,Iii,,,TrialTroveID-351652,8/4/20,11/17/20
+0,,,12/1/16,,,208.0,6.0,Actual,,298075,,,,,,Actual,Ii,,,EudraCT Number: 2014-005367-32 PROMISE TrialTroveID-298075,6/17/20,11/7/23
+0,,,3/20/23,,,,,,,487208,,Anticipated,,,,Actual,Ii,12/31/25,,jRCTs031220715 TrialTroveID-487208,4/15/24,4/15/24
+1,,1/11/23,7/1/22,,,10.0,11.93,Anticipated,Anticipated,441147,1.57,Anticipated,Anticipated,,Anticipated,Anticipated,Iv,1/9/24,6.38,ChiCTR2200062823 TrialTroveID-441147,4/25/24,4/25/24
+0,,,,,,,,,,286282,,,,,,,I,,,TrialTroveID-286282,6/7/18,2/25/22
+0,,7/15/24,12/28/23,,,20.0,17.42,Anticipated,Anticipated,500356,3.04,Anticipated,Anticipated,,Anticipated,Anticipated,I,12/27/25,6.57,ChiCTR2400079885 TrialTroveID-500356,1/18/24,2/8/24
+0,100.0,9/27/10,12/1/09,76.0,,76.0,0.12,Actual,Actual,216269,,Actual,Actual,,,Actual,I,10/1/10,9.86,DC-001 EudraCT Number: 2009-016817-68 NCT02442557 NL30321.040.09 TrialTroveID-216269,9/11/14,2/25/22
+0,91.0,2/25/21,11/14/18,71.0,,78.0,0.46,Actual,Actual,339103,2.59,Actual,Actual,,Actual,Actual,I,3/11/21,27.4,HTL0014242-101 NCT03785054 TrialTroveID-339103,5/3/21,12/5/23
+0,,,12/1/22,,,,,,,372757,,,,,,Anticipated,I,,,TrialTroveID-372757,4/25/24,4/25/24
+0,120.0,9/15/18,8/29/16,12.0,3/5/21,10.0,11.0,Actual,Actual,284798,0.49,Actual,Actual,Actual,Actual,Actual,Ii,8/15/19,24.54,F16029 GBI1501 NCT02872142 TrialTroveID-284798,3/16/20,2/18/22
+0,130.0,7/5/15,11/7/14,13.0,2/15/18,10.0,11.0,Actual,Actual,209130,1.65,Actual,Actual,Actual,Actual,Actual,Ii,6/3/16,7.89,EudraCT Number: 2013-004842-40 IG1309 NCT02479802 TrialTroveID-209130,6/16/16,2/18/22
+0,,3/1/26,1/25/24,,,30.0,12.0,Anticipated,Anticipated,511096,0.3,Anticipated,Anticipated,,Anticipated,Actual,Ii,3/1/27,25.18,hNSCALSII NCT06344260 STEMALS TrialTroveID-511096,4/6/24,4/8/24
+1,,7/1/15,9/4/13,23.0,6/3/17,,12.03,Actual,Actual,231219,0.05,Actual,Actual,Actual,Actual,Actual,Iii,7/1/16,21.86,EudraCT Number: 2012-001995-12 I10E-0901 LIME NCT01951924 TrialTroveID-231219,4/24/24,4/30/24
+0,,,,,,,,,,509880,,,,,,,I,,,TrialTroveID-509880,4/2/24,4/3/24
+0,133.0,2/22/18,9/1/17,16.0,7/6/20,12.0,10.25,Actual,Actual,310325,2.8,Actual,Actual,Actual,Actual,Actual,Ii,12/31/18,5.72,EudraCT Number: 2017-001983-39 NL61931.041.17 PHALS TrialTroveID-310325,7/21/20,2/18/22
+0,,12/30/06,,24.0,12/1/07,,6.0,Actual,,122009,,Actual,Actual,Actual,,,I,7/1/07,,TrialTroveID-122009,12/30/10,5/19/23
+1,,12/1/23,7/20/21,,12/1/24,93.0,,,Anticipated,402637,0.15,,Anticipated,Anticipated,Anticipated,Actual,Iii,,28.4,CTD-TCNPC-301 EudraCT Number: 2020-003136-25 NCT04860960 TransportNPC TrialTroveID-402637,5/22/23,4/28/24
+0,67.0,,5/23/19,8.0,,12.0,,,,346391,,Anticipated,,,,Actual,I,3/1/22,,CTD-TCNPC-102 NCT03893071 TrialTroveID-346391,3/19/24,3/19/24
+0,108.0,11/11/19,10/11/17,13.0,,12.0,3.0,Actual,Actual,288905,0.26,Actual,Actual,,Actual,Actual,I,2/10/20,25.02,CTD-TCNPC-101 NCT02939547 TrialTroveID-288905,5/15/23,9/27/23
+0,100.0,,9/26/16,12.0,7/23/22,12.0,,,,287116,,Actual,,Actual,,Actual,Iii,3/3/21,,CTD-TCNP-201 CTD-TCNPC-201 EudraCT Number:2015-005761-23 MOH_2017-09-17_000540 NCT02912793 TrialTroveID-287116,5/15/23,4/28/24
+0,,,1/6/20,2.0,,,,,,346005,,Actual,,,,Actual,Iii,10/25/21,,19-CH-0028 190028 NCT03887533 TrialTroveID-346005,,5/15/23
+0,,,2/22/19,,,12.0,,,,321078,,Anticipated,,,,Actual,Iii,6/1/24,,201708114 NCT03471143 TrialTroveID-321078,11/1/23,3/14/24
+0,117.0,,1/1/13,14.0,,12.0,,,,229710,,Actual,,,,Actual,Iii,3/1/17,,130001 NCT01747135 TrialTroveID-229710,5/16/23,5/22/23
+0,100.0,3/24/18,2/1/17,6.0,,6.0,12.0,Actual,Actual,305008,0.44,Actual,Actual,,Actual,Actual,I,3/25/19,13.67,HYNR-CS-Allo-02 NCT03214146 TrialTroveID-305008,5/17/19,12/26/19
+0,100.0,10/9/16,12/1/12,6.0,,6.0,6.0,Actual,Actual,179974,0.13,Actual,Actual,,Actual,Actual,I,4/10/17,46.26,HYNR-CS-Allo-01 NCT01758510 TrialTroveID-179974,9/10/18,12/26/19
+0,100.0,,6/24/19,12.0,,12.0,,,,355238,,Actual,,,,Actual,I,7/17/19,,MN-166-HDT-002 NCT04054206 TrialTroveID-355238,8/19/19,2/24/22
+1,,12/1/24,5/28/20,,,230.0,12.0,Anticipated,Anticipated,333564,0.1,Anticipated,Anticipated,,Anticipated,Actual,Ii/Iii,12/1/25,54.17,CCR-19-137 COMBAT-ALS EudraCT Number: 2019-003549-14 MN-166-ALS-2301 NCT04057898 TrialTroveID-333564,2/16/23,4/17/24
+0,100.0,,4/11/18,28.0,,28.0,,,,324847,,Actual,,,,Actual,I,7/6/18,,MN-166-HDT-001 NCT03533387 TrialTroveID-324847,7/23/18,4/20/22
+0,100.0,,3/1/16,35.0,11/8/19,35.0,9.0,Actual,,267747,,,,Actual,,Actual,Iii,,,MN-166-ALS-1202 NCT02714036 TrialTroveID-267747,12/26/19,2/18/22
+0,59.0,1/31/17,9/1/14,71.0,12/7/17,120.0,6.0,Actual,Actual,215483,2.45,Actual,Actual,Actual,Actual,Actual,Ii,8/1/17,29.01,IBU-ALS-1201 MN-166-ALS-1201 NCT02238626 STEP-IBUDILAST-ALS-DB-OLE-1 TrialTroveID-215483,1/12/18,2/18/22
+0,,7/1/24,1/1/23,,,30.0,6.0,Anticipated,Anticipated,381048,0.08,Anticipated,Anticipated,,Anticipated,Anticipated,Ii,12/31/24,17.98,NCT04505358 PU-AD-SD-0202 TrialTroveID-381048,4/11/22,12/5/22
+0,102.0,1/30/24,12/2/22,51.0,,50.0,11.08,Anticipated,Actual,403590,0.18,Anticipated,Actual,,Actual,Actual,Ii,1/1/25,13.94,EudraCT Number: 2021-003875-32 NCT05508074 P288ALS Study TRIALS TRIALS Protocol TRIALS study TrialTroveID-403590,2/3/24,3/11/24
+0,100.0,,6/21/18,72.0,1/7/20,72.0,,,,329360,,Actual,,Actual,,Actual,I,6/21/19,,EudraCT Number: 2018-000443-29 NCT03610334 P188 TrialTroveID-329360,6/30/21,8/23/22
+0,,,4/29/08,,,1000.0,,,,513537,,Anticipated,,,,Actual,Other,12/31/30,,2008/351-31 NCT06376279,,4/19/24
+0,73.0,8/28/20,3/29/19,11.0,11/1/21,15.0,11.0,Actual,Actual,331524,0.65,Actual,Actual,Anticipated,Actual,Actual,Ii,7/28/21,17.02,EudraCT Number: 2018-000668-28 ISRCTN83738603 NCT03705390 RG_17-250 TrialTroveID-331524,10/6/21,10/6/21
+0,87.0,5/21/19,8/14/18,13.0,9/5/20,15.0,3.0,Actual,Actual,324533,1.41,Actual,Actual,Actual,Actual,Actual,Ii,8/20/19,9.2,"1.2, 2018-05-15 1.5, 2019-06-25 EudraCT Number: 2017-005065-47 NCT03613571 TM-105 TrialTroveID-324533",9/20/19,6/2/22
+1,,,6/18/19,,,30.0,,,,411490,,Anticipated,,,,Actual,Iv,3/31/25,,ALSI vig CRB4180007 jRCTs041190028 TrialTroveID-411490,12/23/23,12/23/23
+0,,,,31.0,12/7/13,,3.0,Actual,,198313,,,,Actual,,,Ii,,,TrialTroveID-198313,12/4/13,2/22/22
+0,0.0,,3/1/12,0.0,7/1/13,20.0,7.0,Actual,,262397,,,,Actual,,Actual,Ii,,,2011P-000304 2011P00304 NCT01565395 TrialTroveID-262397 Xeomin 2012,7/31/15,11/7/19
+0,,1/14/13,1/1/11,10.0,6/11/14,,1.5,Actual,Actual,214357,0.41,Actual,Actual,Actual,Actual,Actual,Ii,3/1/13,24.44,NCT02212119 NT-036 TrialTroveID-214357,8/11/14,12/18/18
+0,50.0,2/26/14,9/5/12,10.0,6/16/15,20.0,7.0,Actual,Actual,164671,0.56,Actual,Actual,Actual,Actual,Actual,Ii,9/5/14,17.71,2011P-000304 2011P00304 NCT01653132 TrialTroveID-164671 Xeomin 2012,1/29/15,8/25/22
+0,160.0,6/11/19,10/1/17,48.0,2/18/21,30.0,6.0,Actual,Actual,294453,0.79,Actual,Actual,Actual,Actual,Actual,Ii,12/10/19,20.3,NCT03168711 SURE-ALS2 TrialTroveID-294453,4/14/23,4/14/23
+0,100.0,3/1/16,1/1/15,25.0,11/8/16,25.0,3.0,Actual,Actual,220578,1.79,Actual,Actual,Actual,Actual,Actual,I,5/31/16,13.96,701 NCT02288091 TrialTroveID-220578,9/21/16,11/7/19
+0,,4/23/17,9/20/16,,,12.0,0.5,Actual,Actual,303547,,Actual,Actual,,,Actual,Ii,5/9/17,7.06,TrialTroveID-303547 UMIN000024312,6/15/17,7/16/21
+0,,1/31/21,1/1/20,,,13.0,11.0,Anticipated,Anticipated,408279,1.0,Anticipated,Anticipated,,Anticipated,Actual,Ii,12/31/21,13.01,M2020420 NCT04952155 TrialTroveID-408279,7/9/21,11/3/21
+0,,,9/1/09,,,,,,,242035,,Actual,,,,Actual,(N/A),11/1/10,,15398 NCT01002300 R-08-395,,3/17/14
+0,,4/19/23,9/28/20,,,110.0,38.9,Anticipated,Anticipated,374023,0.21,Anticipated,Anticipated,,Anticipated,Actual,Iii,7/15/26,30.67,275AS101 ALSpire EudraCT Number: 2020-000207-36 NCT04494256 NL73598.000.20 TrialTroveID-374023,2/22/24,4/26/24
+0,83.0,6/3/21,4/28/20,75.0,,90.0,9.79,Anticipated,Anticipated,368837,0.27,Actual,Anticipated,,Anticipated,Actual,I,3/28/22,13.17,245AS102 BASEC2020-00921 EudraCT Number: 2019-004798-14 NCT04288856 NL73220.000.20 SNCTP000004138 TrialTroveID-368837,4/20/22,9/4/23
+0,93.0,12/29/20,9/10/18,106.0,3/28/22,114.0,10.61,Actual,Actual,330208,0.18,Actual,Actual,Actual,Actual,Actual,Iii,11/17/21,27.63,216409 245AS101 245AS101 - AS EudraCT Number: 2017-000294-36 NCT03626012 NL69083.000.19 SNCTP000003128 TrialTroveID-330208,1/18/22,11/18/22
+0,,5/20/26,6/1/22,,,735.0,18.01,Anticipated,Anticipated,319730,0.12,Anticipated,Anticipated,,Anticipated,Actual,Ii,11/19/27,47.63,247AD201 CELIA EUCT Number: 2022-501644-15-01 EudraCT Number: 2022-501644-15 jRCT2031220635 NCT05399888 TrialTroveID-319730,11/2/23,4/19/24
+0,,,,,,,,,,313920,,,,,,,I,,,TrialTroveID-313920,3/5/18,3/5/18
+0,60.0,1/2/23,12/9/18,9.0,1/16/24,15.0,,,Anticipated,337573,0.09,,Anticipated,Actual,Anticipated,Actual,Ii,,48.82,101/3 MOH_2018-06-17_002459 NCT03755167 TrialTroveID-337573,9/20/23,4/27/24
+0,60.0,,8/1/18,9.0,1/16/24,15.0,,,,331573,,,,Actual,,Actual,Iii,,,101/ 2 NCT03652805 TrialTroveID-331573,1/22/24,4/29/24
+0,,,,,,,,,,169886,,,,,,,I,,,TrialTroveID-169886,8/25/14,11/17/20
+0,,,6/21/22,,,40.0,,,,432365,,Anticipated,,,,Actual,Iii,10/1/24,,NCT05377424 OCR41682 TrialTroveID-432365,4/4/23,12/4/23
+0,,,2/18/22,16.0,,,,,,464741,,Actual,,,,Actual,I,7/1/22,,INT17470 NCT05797753 TrialTroveID-464741 U1111-1267-9023,4/5/23,8/11/23
+0,,,,,,11.0,,,,370457,,,,,,,I,,,TrialTroveID-370457,2/28/22,2/28/22
+0,,,3/1/22,,,36.0,,,,407441,,,,,,Anticipated,Ii,,,TrialTroveID-407441,1/29/24,4/25/24
+0,,,4/11/23,,,20.0,,,,477476,,Anticipated,,,,Actual,Ii,6/30/25,,jRCTs061230001 TrialTroveID-477476,1/17/24,1/17/24
+1,86.0,2/1/22,10/24/18,43.0,,50.0,6.0,Actual,Actual,297948,1.09,Actual,Actual,,Actual,Actual,Ii/Iii,8/3/22,39.32,D18095 NCT03580616 TrialTroveID-297948,5/10/23,5/10/23
+0,100.0,6/1/16,1/1/13,20.0,5/23/16,20.0,6.0,Actual,Anticipated,184975,0.24,Anticipated,Anticipated,Actual,Anticipated,Actual,Iii,12/1/16,40.97,L-Serine2013 NCT01835782 TrialTroveID-184975,3/21/17,6/8/17
+0,23.0,3/31/20,7/13/17,7.0,11/30/20,30.0,1.0,Actual,Actual,303297,0.21,Actual,Actual,Actual,Actual,Actual,Iii,4/30/20,32.59,G29007 jRCTs031180173 NCT03186040 TrialTroveID-303297 UMIN000027476,8/14/20,5/4/22
+1,,10/14/25,12/8/23,,,35.0,21.5,Anticipated,Anticipated,490868,0.07,Anticipated,Anticipated,,Anticipated,Actual,Iii,7/30/27,22.22,2023-506805-20-00 AL001-CS-302 NCT06111014 TrialTroveID-490868,12/26/23,12/28/23
+0,11.0,10/28/22,9/2/21,5.0,,45.0,0.0,Actual,Actual,393792,0.12,Actual,Actual,,Actual,Actual,Ii,10/28/22,13.84,AL001-ALS-201 NCT05053035 TrialTroveID-393792,6/19/23,6/19/23
+1,61.0,10/27/23,7/23/20,110.0,3/1/25,180.0,,,Actual,371125,0.05,,Actual,Anticipated,Actual,Actual,Iii,,39.15,135892 AL001-3 BASEC2020-01901 EudraCT Number: 2019-004066-18 INFRONT-3 NCT04374136 NL72487.078.20 SNCTP000004097 TrialTroveID-371125,12/6/23,2/17/24
+0,,,9/9/19,,,40.0,,,,351601,,Anticipated,,,,Actual,Ii,1/28/26,,AL001-2 EudraCT Number: 2019-000138-20 INFRONT INFRONT-2 NCT03987295 NL70050.078.19 TrialTroveID-351601,2/26/24,2/26/24
+0,107.0,7/1/19,9/14/18,64.0,12/13/19,60.0,2.79,Actual,Actual,330789,0.84,Actual,Actual,Actual,Actual,Actual,I,9/24/19,9.53,AL001-1 INFRONT NCT03636204 TrialTroveID-330789,1/22/20,3/12/24
+1,,,12/11/23,,,1.0,,,,489507,,Anticipated,,,,Actual,Iv,12/11/28,,LembN01 NCT06093126 TrialTroveID-489507,2/15/24,2/15/24
+0,130.0,3/1/07,1/1/06,26.0,4/16/08,20.0,12.0,Actual,Actual,87353,0.27,Actual,Actual,Actual,Actual,Actual,Iii,2/28/08,13.9,EudraCT Number: 2005-003248-75 EudraCT-number 2005-03248-75 STEMALS STEMALS 01 TrialTroveID-087353,11/4/09,2/7/22
+1,,1/1/24,3/23/21,,,115.0,12.0,Anticipated,Anticipated,393116,0.69,Anticipated,Anticipated,,Anticipated,Actual,Iii,12/31/24,33.33,ALSummit ALSUMMIT HYUH-2018-09-025 KCT0005954 NCT04745299 NEURONATA-R_ALS301 TrialTroveID-393116,4/5/24,4/5/24
+0,,,1/1/07,22.0,4/10/09,,3.0,Actual,,147469,,,,Actual,,Actual,Ii,,,TrialTroveID-147469,6/7/11,5/19/23
+0,101.0,5/1/12,2/1/11,72.0,9/22/14,71.0,12.0,Actual,Actual,147370,4.82,Actual,Actual,Actual,Actual,Actual,Iii,5/1/13,14.95,HYNR_CS_ALS201 NCT01363401 TrialTroveID-147370,5/29/15,2/8/22
+1,,,3/1/21,,,,,,,376264,,,,,,Anticipated,Iii,,,TrialTroveID-376264,3/29/23,3/29/23
+1,122.0,2/22/15,5/9/13,220.0,9/4/16,180.0,12.0,Actual,Actual,228848,0.15,Actual,Actual,Actual,Actual,Actual,Iii,2/22/16,21.49,EudraCT Number: 2011-005529-34 NCT01626378 NL41019.078.12 TrialTroveID-228848 TRx-237-007,11/13/17,11/1/23
+1,65.0,5/19/17,8/18/14,913.0,6/2/20,1400.0,0.0,Actual,Actual,217397,0.2,Actual,Actual,Actual,Actual,Actual,Iii,5/19/17,33.02,EudraCT Number: 2014-002013-37 NCT02245568 NL52155.078.15 NMRR-14-1486-23103 REec-2015-1385 TrialTroveID-217397 TRx-237-020 TRx-237-020 23103,3/15/18,11/18/20
+0,100.0,11/1/06,5/1/06,20.0,12/1/07,20.0,9.0,Actual,Actual,78777,3.33,Actual,Actual,Actual,Actual,Actual,Ii,8/1/07,6.0,8380-06-3R0 NCT00324454 TrialTroveID-078777,10/27/08,1/22/15
+1,50.0,,6/26/19,227.0,6/13/21,450.0,,,,342659,,Actual,,Actual,,Actual,Iii,11/18/20,,3119003 EudraCT Number: 2018-004180-31 NCT03948178 REFALS-ES TrialTroveID-342659,1/28/21,3/22/24
+1,110.0,8/24/19,6/21/18,496.0,7/28/20,450.0,11.0,Actual,Actual,322838,0.34,Actual,Actual,Actual,Actual,Actual,Iii,7/23/20,14.09,134169 3119002 EudraCT Number: 2017-002754-36 NCT03505021 NL64706.041.18 REFALS TrialTroveID-322838,8/25/20,4/29/24
+0,94.0,8/10/16,7/1/15,66.0,11/7/17,70.0,9.0,Actual,Actual,261530,0.45,Actual,Actual,Actual,Actual,Actual,Ii,5/11/17,13.34,3119001 EudraCT Number: 2014-004567-21 LEVALS NCT02487407 TrialTroveID-261530 UKCRN ID: 18646,2/14/17,2/2/22
+0,,,12/24/20,,,150.0,5.91,Anticipated,,389004,,,,,,Actual,Ii,,,CTR20202126 MP-2019-004 TrialTroveID-389004,8/11/23,8/21/23
+0,,,4/19/06,,,84.0,12.0,Actual,,109559,,,,,,Actual,Ii,,,ALALS EudraCT Number: 2005-005152-40 TrialTroveID-109559,3/14/14,3/15/14
+0,,,,,,,,,,261108,,,,,,,Ii,,,TrialTroveID-261108,1/31/19,1/31/19
+1,110.0,11/30/11,1/1/11,77.0,,70.0,,,,137565,,Anticipated,Actual,,,Actual,Iv,6/1/13,,EudraCT Number: 2008-006891-31 LICALS Extension TrialTroveID-137565 UKCRN ID: 9349,5/15/18,8/16/22
+0,,,,21.0,9/22/10,,9.0,Actual,,135873,,,,Actual,,,Ii,,,TrialTroveID-135873,5/31/16,2/22/22
+0,,,,30.0,9/13/09,,6.0,Actual,,111253,,,,Actual,,,Ii,,,TrialTroveID-111253,6/1/16,6/1/16
+0,,,2/1/08,17.0,6/22/09,,7.8,Actual,,111182,,,,Actual,,Actual,Ii,,,TrialTroveID-111182,5/31/16,2/8/22
+0,,,3/6/09,,,40.0,18.0,Actual,,109390,,,,,,Actual,Ii,,,2707/2009 EudraCT Number: 2009-010060-41 TrialTroveID-109390,4/4/11,2/8/22
+1,,,,,,120.0,,,,109383,,,,,,,Iii,,,2327/2007 EudraCT Number: 2008-001879-30 TrialTroveID-109383,10/28/10,2/15/22
+1,114.0,,5/1/08,171.0,4/13/10,150.0,15.0,Actual,,108793,,Actual,,Actual,,Actual,Iii,11/2/09,,EudraCT Number: 2008-001094-15 LitALS TrialTroveID-108793,8/17/10,2/15/22
+0,,,,55.0,12/8/09,,6.0,Actual,,107925,,,,Actual,,,Ii,,,TrialTroveID-107925,6/1/16,6/1/16
+1,97.0,5/11/10,5/26/09,214.0,2/26/13,220.0,18.0,Actual,Actual,104757,1.86,Actual,Actual,Actual,Actual,Actual,Iii,11/10/11,11.5,6345 EudraCT Number: 2008-006891-31 ISRCTN83178718 LiCALS RAA/2008/013 TrialTroveID-104757 UKCRN ID 5745,3/6/13,10/4/22
+0,67.0,1/30/10,11/1/08,133.0,12/2/11,200.0,16.0,Actual,Actual,100377,2.96,Actual,Actual,Actual,Actual,Actual,Ii,6/1/11,15.0,08-192 METC UMC Utrecht LITRA NTR1448 TrialTroveID-100377,12/21/11,2/7/22
+0,,6/1/10,11/1/08,,,191.0,12.0,Actual,Actual,97749,,Actual,Actual,,,Actual,Ii,6/1/11,19.0,LTA-2-2008 LTA-2-2008 UMC Utrecht NTR1432 TrialTroveID-097749,9/7/11,2/7/22
+1,34.0,6/1/09,1/1/09,84.0,12/8/09,250.0,5.4,Actual,Actual,96325,0.45,Actual,Actual,Actual,Actual,Actual,Ii/Iii,11/12/09,5.0,3U01NS049640-04S1 CRC LALS-001 NCT00818389 TrialTroveID-096325 U01NS049640,12/10/14,10/26/23
+0,356.0,2/1/09,5/1/08,356.0,11/29/10,100.0,13.0,Actual,Actual,91425,3.96,Actual,Actual,Actual,Actual,Actual,Ii,3/1/10,9.0,28.013 NCT00790582 TrialTroveID-091425,4/13/12,2/7/22
+0,,,9/1/09,,,280.0,25.0,Actual,,121167,,,,,,Actual,Ii,,,TrialTroveID-121167,6/1/16,2/18/22
+0,12.0,12/30/09,9/1/09,23.0,,200.0,15.0,Actual,Actual,110858,5.9,Actual,Actual,,Actual,Actual,Ii,4/1/11,3.9,EudraCT Number: 2008-003707-32 LISLA NCT00925847 P080401 TrialTroveID-110858,11/3/12,2/8/22
+0,,,10/1/05,44.0,8/24/07,,15.0,Actual,,96403,,,,Actual,,Actual,Ii,,,TrialTroveID-096403,11/1/10,2/7/22
+0,108.0,8/1/17,5/1/16,43.0,8/29/22,40.0,20.0,Actual,Actual,304621,2.86,Actual,Actual,Actual,Actual,Actual,Ii,4/1/19,15.01,CONACYT234154 NCT03204500 TrialTroveID-304621,8/11/20,11/9/22
+0,,,,,,,,,,508358,,,,,,,I,,,TrialTroveID-508358,3/18/24,3/19/24
+0,100.0,9/14/16,3/28/16,50.0,12/13/18,50.0,11.96,Actual,Actual,274942,8.94,Actual,Actual,Actual,Actual,Actual,Ii,9/13/17,5.59,NCT02709330 TrialTroveID-274942,11/15/17,1/31/20
+0,,9/1/24,7/30/20,,,23.0,59.99,Anticipated,Anticipated,363569,0.06,Anticipated,Anticipated,,Anticipated,Actual,Iii,8/31/29,49.11,019511 EudraCT Number: 2019-003159-12 J4B-MC-OKAA NCT04408625 PROCLAIM PRV-FTD101 TrialTroveID-363569,6/30/23,4/29/24
+0,,,12/1/23,,,,,,,388278,,,,,,Anticipated,I,,,TrialTroveID-388278,8/31/23,9/4/23
+0,,6/9/24,6/8/23,,,15.0,2.76,Anticipated,Anticipated,458533,0.62,Anticipated,Anticipated,,Anticipated,Actual,I,9/1/24,12.06,IASO MPNS01 NCT05889572 TrialTroveID-458533,6/16/23,1/8/24
+0,,,9/1/14,,12/1/20,76.0,17.0,Anticipated,,217484,,,,Anticipated,,Actual,Ii,,,EudraCT Number: 2014-002228-28 STEMALS-II TrialTroveID-217484,11/25/20,2/18/22
+1,,1/1/23,9/1/21,,,495.0,11.0,Anticipated,Anticipated,300123,0.55,Anticipated,Anticipated,,Anticipated,Actual,Iii,12/1/23,16.0,AB14008 AB19001 CCR-20-90 EudraCT Number: 2019-001862-13 MOH_2017-07-09_000594 NCT03127267 NL71135.041.19 TrialTroveID-300123,2/8/24,2/8/24
+0,67.0,8/24/17,7/31/17,4.0,,6.0,0.26,Actual,Actual,316619,5.06,Actual,Actual,,Actual,Actual,I,9/1/17,0.79,AB17001 EudraCT Number: 2017-001948-34 NCT05200169 QCL118054 TrialTroveID-316619,1/21/22,7/3/23
+1,103.0,12/8/15,4/1/13,394.0,3/20/17,381.0,11.0,Actual,Actual,181957,0.31,Actual,Actual,Actual,Actual,Actual,Ii/Iii,11/6/16,32.23,AB10015 EudraCT Number: 2010-024423-24 MOH_2020-12-07_008659 NCT02588677 REec-2013-0211 TrialTroveID-181957,4/28/17,5/1/24
+0,94.0,3/10/20,10/11/19,15.0,,16.0,0.23,Actual,Actual,366994,1.01,Actual,Actual,,Actual,Actual,I,3/17/20,4.96,EudraCT Number: 2019-002315-26 MD1003CT201901HI NCT04252417 TrialTroveID-366994,5/14/20,2/24/22
+0,67.0,3/2/20,10/9/19,24.0,,36.0,0.49,Actual,Actual,366993,1.01,Actual,Actual,,Actual,Actual,I,3/17/20,4.76,EudraCT Number: 2019-002315-26 MD1003CT2019602RI NCT04252430 TrialTroveID-366993,5/15/20,2/24/22
+0,,1/9/20,12/10/19,,11/2/20,6.0,0.43,Actual,Actual,365234,6.06,Actual,Actual,Actual,Actual,Actual,I,1/22/20,0.99,MD1003CT2019-03MB NCT04223232 TrialTroveID-365234,11/3/20,2/24/22
+0,,2/25/20,11/11/19,,,64.0,0.3,Anticipated,Anticipated,361599,18.39,Anticipated,Anticipated,,Anticipated,Actual,I,3/5/20,3.48,Eudract Number: 2019-003121-19 MD1003CT2019-04TQT2 NCT04168723 TQT2 TrialTroveID-361599,9/28/22,9/28/22
+0,100.0,12/12/16,6/29/16,30.0,1/27/20,30.0,6.0,Actual,Actual,289178,5.5,Actual,Actual,Actual,Actual,Actual,Ii,6/12/17,5.45,EudraCT Number: 2015-005810-31 MD1003-ALS MD1003CT2015-02-ALS NCT03114215 TrialTroveID-289178,6/7/19,2/2/22
+0,,,1/10/07,110.0,12/1/11,,,,,83026,,,,Actual,,Actual,Ii,,,TrialTroveID-083026,9/13/12,11/3/21
+1,100.0,8/2/05,6/1/03,330.0,6/3/08,330.0,24.0,Actual,Actual,78710,0.63,Actual,Actual,Actual,Actual,Actual,Iii,8/1/07,26.0,IGF-1/ALS Trial NCT00035815 TrialTroveID-078710,12/10/14,2/7/22
+1,102.0,6/1/19,10/1/17,130.0,10/3/21,128.0,4.0,Actual,Actual,311980,0.26,Actual,Actual,Actual,Actual,Actual,Iii,9/30/19,19.98,763 E0302-J081-763 JET-ALS JETALS NCT03548311 TrialTroveID-311980 UMIN000029588,11/9/21,2/6/24
+1,45.0,12/19/16,2/1/08,135.0,,300.0,3.0,Actual,Actual,78774,0.03,Actual,Actual,,Actual,Actual,Ii/Iii,3/31/17,106.58,E0302-J081-762 JapicCTI-070434 NCT00445172 TrialTroveID-078774,8/28/17,2/15/22
+1,104.0,8/30/10,12/1/06,373.0,4/23/15,360.0,42.0,Actual,Actual,78715,0.16,Actual,Actual,Actual,Actual,Actual,Ii/Iii,3/1/14,44.95,E0302-J081-761 JapicCTI-070433 NCT00444613 TrialTroveID-078715,12/9/14,2/15/22
+0,100.0,6/8/19,4/13/19,24.0,,24.0,0.59,Actual,Actual,345883,13.04,Actual,Actual,,Actual,Actual,I,6/26/19,1.84,E0302-J064-003 NCT03885882 TrialTroveID-345883,8/26/19,2/24/22
+1,,12/14/19,6/13/18,,,30.0,6.0,Anticipated,Anticipated,326456,1.66,Anticipated,Anticipated,,Anticipated,Actual,Iv,6/13/20,18.04,ChiCTR1800016626 TrialTroveID-326456,12/24/20,2/2/22
+1,,,5/27/23,,,2000.0,,,,470911,,Anticipated,,,,Anticipated,Iv,12/31/24,,ChiCTR2300071719 TrialTroveID-470911,5/25/23,5/29/23
+0,,10/1/14,10/1/08,60.0,6/11/15,,6.0,Actual,Actual,315916,0.83,Actual,Actual,Actual,Actual,Actual,Ii,4/1/15,71.99,TrialTroveID-315916,1/5/18,1/9/18
+1,,,10/1/07,,,,,,,238709,,Actual,,,,Actual,Iii,6/1/12,,Baycrest.Ebixa.FTD-001 Lundbeck 11627A NCT00594737,,6/1/12
+1,58.0,5/17/12,12/12/07,81.0,1/2/13,140.0,6.5,Actual,Anticipated,238316,0.17,Actual,Anticipated,Actual,Anticipated,Actual,Iv,5/7/12,53.16,NAM-53:memantineplacebo NCT00545974 TrialTroveID-238316,11/20/17,11/2/22
+0,,,9/1/05,,,,,,,235151,,,,,,Actual,Ii,,,BRD 05/1-E NCT00200538,,5/2/13
+0,110.0,10/21/20,11/7/18,99.0,11/29/22,90.0,9.0,Actual,Actual,207406,0.32,Actual,Actual,Actual,Actual,Actual,Ii,7/22/21,23.46,NCT02118727 TAME TAME-ALS TAME-ALS FD003937-01 TrialTroveID-207406,11/5/21,11/1/23
+0,,,,,,60.0,,,,109620,,,,,,,Ii,,,EudraCT Number: 2005-004329-24 MEM-ALS/05 TrialTroveID-109620,6/1/16,2/15/22
+0,,1/1/08,6/1/05,20.0,12/8/09,,18.0,Actual,Actual,79841,0.65,Actual,Actual,Actual,Actual,Actual,Ii,7/1/09,31.0,Memantine in ALS NCT01020331 TAME TrialTroveID-079841,11/27/09,2/7/22
+0,57.0,7/1/10,3/1/07,24.0,12/2/11,42.0,5.0,Actual,Actual,78838,0.3,Actual,Actual,Actual,Actual,Actual,Ii,12/1/10,40.1,1204 EB2006ALS NCT00409721 TrialTroveID-078838,3/3/11,2/7/22
+1,105.0,6/1/07,7/1/05,63.0,12/8/09,60.0,12.0,Actual,Actual,78800,2.74,Actual,Actual,Actual,Actual,Actual,Ii/Iii,6/1/08,23.0,002-04 MEDALS NCT00353665 TrialTroveID-078800,10/19/10,2/7/22
+1,,3/2/25,2/27/20,,,800.0,18.0,Anticipated,Anticipated,360994,0.6,Anticipated,Anticipated,,Anticipated,Actual,Ii/Iii,9/1/26,60.12,AC18082 EudraCT Number: 2019-000099-41 MND-SMART NCT04302870 TrialTroveID-360994,5/23/22,1/22/24
+1,,,,17.0,4/3/16,,,,,277187,,,,Actual,,,Iv,,,TrialTroveID-277187,4/21/16,2/18/22
+0,,,10/1/18,,,40.0,,,,330370,,Anticipated,,,,Anticipated,Iii,9/30/21,,ChiCTR1800017734 TrialTroveID-330370,4/25/19,2/3/22
+0,,,,11.0,6/22/15,,2.0,Actual,,260001,,,,Actual,,,Iii,,,TrialTroveID-260001,6/20/15,6/20/15
+0,100.0,10/2/23,1/10/20,18.0,,18.0,4.9,Anticipated,Actual,364983,0.4,Anticipated,Actual,,Actual,Actual,Ii,2/28/24,44.74,NCT04220021 OCR20620 TrialTroveID-364983 UF2019-001,10/4/23,10/4/23
+0,,,,,,,,,,339228,,,,,,,Ii,,,TrialTroveID-339228,9/29/20,10/1/20
+0,,8/24/06,,,,20.0,11.0,Actual,,313456,,Actual,Actual,,,,Ii,7/24/07,,EudraCT Number: 2005-005915-13 TrialTroveID-313456 TRx-014-002,11/28/17,8/1/22
+0,33.0,7/31/18,10/1/16,20.0,12/5/19,60.0,2.0,Actual,Actual,279460,0.09,Actual,Actual,Actual,Actual,Actual,Ii,9/30/18,21.95,Mexiletine-2 MX-ALS-002 NCT02781454 TrialTroveID-279460,12/6/19,2/18/22
+0,125.0,4/1/14,7/23/13,75.0,4/23/15,60.0,4.0,Actual,Actual,186024,0.91,Actual,Actual,Actual,Actual,Actual,Ii,8/1/14,8.28,43708-A MX-ALS-001 NCT01849770 TrialTroveID-186024,10/16/15,2/2/22
+1,77.0,1/16/16,5/1/13,23.0,3/3/17,30.0,1.5,Actual,Actual,183284,0.12,Actual,Actual,Actual,Actual,Actual,Iv,3/1/16,32.53,378164 NCT01811355 TrialTroveID-183284,6/28/17,11/8/19
+0,,,10/1/11,,9/28/14,60.0,,,,154059,,,,Actual,,Actual,Ii,,,TrialTroveID-154059 UMIN000006423,9/30/14,5/19/23
+0,,8/15/06,10/17/02,,,30.0,12.0,Actual,Actual,236246,0.22,Actual,Actual,,Actual,Actual,I,8/15/07,45.96,03-EI-0011 030011 NCT00316498 TrialTroveID-236246,5/15/23,5/15/23
+1,,12/1/09,1/1/08,5.0,4/5/12,,12.0,Actual,Actual,229819,0.22,Actual,Actual,Actual,Actual,Actual,Iii,12/1/10,23.01,200802043M NCT01760564 TrialTroveID-229819,5/15/23,5/19/23
+0,,,,10.0,12/1/07,,1.5,Actual,,121809,,,,Actual,,,Other,,,TrialTroveID-121809,6/7/10,12/11/10
+1,,,9/1/07,,9/26/07,1000.0,,,,79881,,,,Actual,,Actual,Iii,,,EMINALS ISRCTN72727460 TrialTroveID-079881,9/24/08,2/15/22
+1,118.0,12/1/05,11/1/03,470.0,11/5/07,400.0,13.0,Actual,Actual,79057,0.63,Actual,Actual,Actual,Actual,Actual,Iii,12/31/06,25.0,NCT00047723 R01NS45294 TrialTroveID-079057,10/24/13,2/7/22
+0,,11/30/03,6/1/03,20.0,4/11/05,,6.0,Actual,Actual,78907,3.33,Actual,Actual,Actual,Actual,Actual,Ii,5/30/04,6.0,TrialTroveID-078907,12/7/07,2/7/22
+0,,,,,,,,,,102300,,,,,,,I,,,TrialTroveID-102300,8/14/09,2/25/22
+1,91.0,10/1/07,6/1/06,32.0,11/14/08,35.0,1.0,Actual,Actual,80449,2.0,Actual,Actual,Actual,Actual,Actual,Iv,11/1/07,16.0,IRB5178 NCT00614926 TrialTroveID-080449,3/28/10,4/25/24
+0,,,,15.0,1/1/05,,0.5,Actual,,79830,,,,Actual,,,Ii,,,TrialTroveID-079830,12/10/07,11/26/10
+0,,4/1/24,2/13/24,,,12.0,12.0,Anticipated,Anticipated,496830,3.8,Anticipated,Anticipated,,Anticipated,Actual,I,4/1/25,1.58,MON-2023-001 NCT06177431 TrialTroveID-496830,2/15/24,3/18/24
+0,100.0,10/30/23,6/28/22,12.0,,12.0,1.0,Actual,Actual,385362,0.37,Actual,Actual,,Actual,Actual,Iii,11/29/23,16.07,MON-2021-001 NCT04894240 TrialTroveID-385362,12/22/23,12/22/23
+1,,4/1/12,4/1/03,284.0,12/6/14,,,,Actual,220888,,,Actual,Actual,,Actual,Iv,,108.1,TrialTroveID-220888,11/19/14,11/24/14
+0,,,,6.0,12/18/07,,,,,128316,,,,Actual,,,Ii,,,TrialTroveID-128316,10/31/10,2/1/22
+0,81.0,11/15/19,5/4/17,81.0,4/1/21,100.0,2.5,Actual,Actual,281496,0.13,Actual,Actual,Actual,Actual,Actual,Ii,1/30/20,30.39,MP-101-01 NCT03044249 TrialTroveID-281496,2/27/20,8/12/21
+0,,8/2/24,7/1/24,,,10.0,3.0,Anticipated,Anticipated,508439,,Anticipated,Anticipated,,,Anticipated,Ii,11/1/24,1.05,MRG24ALS NCT06315608 TrialTroveID-508439,3/22/24,3/28/24
+0,80.0,11/24/20,9/23/20,12.0,4/2/22,15.0,6.0,Actual,Actual,384923,5.88,Actual,Actual,Actual,Actual,Actual,I,5/25/21,2.04,2022342 NCT04557410 TrialTroveID-384923,5/29/21,5/2/22
+0,,,,79.0,12/1/07,,3.0,Actual,,121794,,,,Actual,,,Ii,,,TrialTroveID-121794,5/31/16,5/31/16
+0,,,,,,56.0,0.3,Anticipated,,513758,,,,,,,I,,,CTR20240913 TrialTroveID-513758 YYAA1-BLZ-24008,4/23/24,4/30/24
+0,,,3/7/23,,,45.0,,,,460012,,Anticipated,,,,Actual,Ii,5/1/25,,AgiNab Nabilone-FTD NCT05742698 TrialTroveID-460012,10/16/23,10/26/23
+1,100.0,10/16/15,1/1/13,60.0,5/28/16,60.0,1.5,Actual,Actual,181182,0.45,Actual,Actual,Actual,Actual,Actual,Ii/Iii,12/1/15,33.45,CANALS EudraCT Number: 2010-022808-40 NCT01776970 TrialTroveID-181182,8/12/16,2/22/22
+1,,,1/1/11,55.0,11/8/16,,24.0,Actual,,294461,,,,Actual,,Actual,Iv,,,TrialTroveID-294461,1/23/17,1/24/17
+0,,4/30/25,4/30/24,,,180.0,20.05,Anticipated,Anticipated,502302,0.83,Anticipated,Anticipated,,Anticipated,Anticipated,Ii,12/31/26,12.0,ChiCTR2400083114 CTR20240243 SRKL-ALS-Ⅱ-2023 TrialTroveID-502302,2/5/24,4/22/24
+0,,,11/6/23,,,16.0,,,,491734,,Anticipated,,,,Actual,I,5/31/24,,ChiCTR2300077387 TrialTroveID-491734,11/9/23,11/15/23
+1,,3/15/23,10/1/22,,,360.0,31.23,Anticipated,Anticipated,460826,22.14,Anticipated,Anticipated,,Anticipated,Actual,Iv,10/20/25,5.42,ChiCTR2300068650 TrialTroveID-460826,3/3/23,3/3/23
+0,,10/16/23,12/15/22,,,30.0,1.97,Anticipated,Anticipated,451102,2.99,Anticipated,Anticipated,,Anticipated,Anticipated,Ii,12/15/23,10.03,CTRI/2022/12/047965 TrialTroveID-451102,11/30/23,11/30/23
+0,,4/16/22,10/19/21,,,75.0,2.5,Anticipated,Anticipated,412810,12.76,Anticipated,Anticipated,,Anticipated,Actual,Ii,7/1/22,5.88,032-2017 NCT05031351 NIALS TrialTroveID-412810,12/2/21,6/9/22
+0,,1/31/21,6/1/20,,,144.0,11.0,Anticipated,Anticipated,397296,1.8,Anticipated,Anticipated,,Anticipated,Actual,Ii,12/31/21,8.02,CTR20202518 D2020076 NCT04950933 TrialTroveID-397296 Z-HLSJ-GR-2020-KCYY-01,8/31/23,8/31/23
+1,,7/1/22,10/1/20,,,60.0,3.0,Anticipated,Anticipated,383507,2.86,Anticipated,Anticipated,,Anticipated,Actual,Iv,9/30/22,20.96,ChiCTR2000037353 TrialTroveID-383507,4/29/21,2/22/22
+0,0.0,6/12/20,6/12/20,0.0,,30.0,0.0,Actual,Actual,379874,,Actual,Actual,,,Actual,Ii,6/12/20,0.0,CTR20192373 CTR20200929 TrialTroveID-379874 Z-HLSJ-GR-2019-KCYY-01,10/27/21,2/22/22
+0,,1/1/21,1/1/21,,,10.0,8.0,Anticipated,Anticipated,266962,,Anticipated,Anticipated,,,Anticipated,I,9/1/21,0.0,0015-14-CMC ALS-PHL NCT02588807 TrialTroveID-266962,8/10/22,8/10/22
+0,,,12/30/14,,,60.0,,,,255509,,Anticipated,,,,Anticipated,Ii,12/30/17,,ChiCTR-IOR-14005674 TrialTroveID-255509,3/26/19,3/27/19
+0,,,1/1/08,,,40.0,12.0,Actual,,97484,,,,,,Actual,Ii,,,NCT00753571 PUTH-1 TrialTroveID-097484,1/17/13,1/17/13
+0,,,,4.0,11/30/06,,,,,80362,,,,Actual,,,Ii,,,TrialTroveID-080362,12/11/07,10/21/10
+0,,,5/29/23,,,66.0,,,,471337,,,,,,Anticipated,I,,,ACTRN12623000476639 CL-4746-23-01 TrialTroveID-471337,4/3/24,4/3/24
+1,,,,,,,,,,148984,,,,,,,Ii/Iii,,,TrialTroveID-148984,7/11/13,7/11/13
+1,,,5/1/24,,,60.0,,,,514860,,Anticipated,,,,Anticipated,Ii/Iii,12/1/25,,HX-A-2023027 NATURAL NCT06391645,,4/30/24
+0,,,12/1/21,,,,,,,373815,,,,,,Anticipated,Ii,,,TrialTroveID-373815,9/25/23,9/25/23
+0,,,9/6/17,,,135.0,,,,308450,,Anticipated,,,,Actual,Other,7/31/19,,2017-A00416-47 C16-87 ECOCAPTURE NCT03272230,,3/22/19
+0,100.0,2/15/16,3/1/13,8.0,9/12/17,8.0,2.5,Actual,Actual,245133,0.23,Actual,Actual,Actual,Actual,Actual,I,5/1/16,35.54,CHR12-09098 NCT01835665 TrialTroveID-245133,,4/25/23
+0,,2/1/22,7/1/20,,,150.0,5.91,Anticipated,Anticipated,408143,7.87,Anticipated,Anticipated,,Anticipated,Actual,Ii,7/31/22,19.06,D2020109 NCT04950647 TrialTroveID-408143,7/8/21,2/22/22
+0,,,4/16/24,1.0,,,,,,514876,,Anticipated,,,,Actual,Iii,4/1/25,,23-011476 NCT06392126,,4/30/24
+0,,,12/1/21,,,,,,,355173,,,,,,Anticipated,I,,,TrialTroveID-355173,4/18/24,4/18/24
+0,,10/8/16,12/1/15,,,30.0,1.75,Actual,Anticipated,254932,,Anticipated,Anticipated,,,Anticipated,I,12/1/16,10.25,TrialTroveID-254932,5/25/16,11/17/20
+0,25.0,4/1/21,9/9/19,3.0,7/6/23,12.0,,,Anticipated,358557,0.16,Actual,Anticipated,Actual,Anticipated,Actual,Ii,2/26/20,18.74,A18-305 NCT04115384 TrialTroveID-358557,7/7/23,7/10/23
+0,,,,,,,,,,264899,,,,,,,Ii,,,TrialTroveID-264899,6/6/18,3/27/20
+1,,,,,,,,,,260821,,,,,,,Iii,,,TrialTroveID-260821,6/26/18,6/26/18
+0,115.0,6/13/17,8/1/16,138.0,3/1/18,120.0,6.0,Actual,Actual,176786,0.6,Actual,Actual,Anticipated,Actual,Actual,Ii,12/12/17,10.38,20160522 NCT02794857 NP001-10-003 TrialTroveID-176786,1/8/18,6/8/22
+0,130.0,3/2/12,2/1/11,136.0,10/29/12,105.0,6.0,Actual,Actual,141255,0.62,Actual,Actual,Actual,Actual,Actual,Ii,9/1/12,13.0,NCT01281631 NP001-10-002 TrialTroveID-141255,12/12/13,4/13/23
+0,57.0,8/24/10,7/1/10,32.0,11/30/10,56.0,0.25,Actual,Actual,124600,6.1,Actual,Actual,Actual,Actual,Actual,I,9/1/10,1.75,NCT01091142 NP001 Single Dose - ALS TrialTroveID-124600,10/5/10,1/16/15
+0,,,12/1/22,,,,,,,432126,,,,,,Anticipated,I,,,TrialTroveID-432126,3/1/24,3/5/24
+0,,,,,,,,,,365379,,,,,,,I,,,TrialTroveID-365379,9/28/22,10/1/22
+0,88.0,9/11/19,5/5/19,49.0,3/28/23,56.0,0.69,Actual,Actual,349330,11.56,Actual,Actual,Actual,Actual,Actual,I,10/2/19,4.24,NCT03954600 NPT520-34-001 TrialTroveID-349330,1/14/20,4/29/23
+0,80.0,6/17/22,11/4/21,64.0,1/26/23,80.0,2.07,Actual,Actual,419841,8.65,Actual,Actual,Actual,Actual,Actual,I,8/19/22,7.4,NCT05143463 NS101_P1_01 TrialTroveID-419841,9/12/22,2/1/23
+1,,,,,,,,,,371996,,,,,,,Iii,,,TrialTroveID-371996,12/29/22,12/29/22
+0,,,12/1/15,,,,,,,254064,,,,,,Anticipated,Ii,,,TrialTroveID-254064,7/2/21,2/18/22
+0,83.0,8/1/14,8/27/13,15.0,3/12/15,18.0,6.0,Actual,Anticipated,180626,0.45,Anticipated,Anticipated,Actual,Anticipated,Actual,Ii,1/31/15,11.1,NCT01730716 NS2012-3 TrialTroveID-180626,7/11/17,2/2/22
+0,,2/21/16,12/1/14,,,,5.98,Anticipated,Anticipated,168164,,Anticipated,Anticipated,,,Anticipated,Iii,8/21/16,14.69,TrialTroveID-168164,3/5/20,11/17/20
+0,100.0,8/2/12,1/1/10,18.0,4/29/13,18.0,6.0,Actual,Actual,102165,0.58,Actual,Actual,Actual,Actual,Actual,I,2/1/13,31.0,NCT01348451 NS2008-1 Study No.: 00020318 TrialTroveID-102165,7/12/17,2/1/22
+1,,7/30/20,10/1/17,,,110.0,12.0,Anticipated,Anticipated,400683,3.24,Anticipated,Anticipated,,Anticipated,Actual,Iv,7/30/21,33.94,0120-293/2019/8/1 NCT04825119 TrialTroveID-400683,4/11/24,4/11/24
+1,,10/30/25,5/1/24,,,392.0,18.0,Anticipated,Anticipated,506213,0.95,Anticipated,Anticipated,,Anticipated,Anticipated,Iv,5/1/27,17.98,LIPCAL-ALS II 1.1 NCT06280079 TrialTroveID-506213,3/9/24,3/26/24
+0,93.0,10/1/12,12/1/09,28.0,12/6/13,30.0,5.0,Actual,Actual,116123,0.06,Actual,Actual,Actual,Actual,Actual,Ii,3/2/13,34.0,2009-P-001132 MDA136152 NCT00983983 TrialTroveID-116123,7/4/13,2/1/22
+1,,3/2/17,2/1/15,201.0,12/17/19,,18.0,Actual,Actual,365911,0.67,Actual,Actual,Actual,Actual,Actual,Iv,9/1/18,24.97,LIPCAL-ALS study TrialTroveID-365911,1/24/20,2/24/22
+0,,12/2/25,9/1/24,,,80.0,2.0,Anticipated,Anticipated,512705,5.33,Anticipated,Anticipated,,Anticipated,Anticipated,Ii,2/1/26,15.02,AXO-CLI-210c-03 EUCT number: 2023-508895-13-00 NCT06365216 SEALS TrialtroveID-512705,4/16/24,4/17/24
+1,100.0,6/1/12,3/1/09,40.0,,40.0,1.0,Actual,Actual,106947,1.02,Actual,Actual,,Actual,Actual,Ii/Iii,7/1/12,39.05,NCT00876772 OLN-ALS01 TrialTroveID-106947,5/17/13,2/15/24
+1,77.0,9/20/11,10/20/10,271.0,12/4/14,350.0,15.0,Actual,Actual,141399,1.64,Actual,Actual,Actual,Actual,Actual,Ii/Iii,4/19/12,11.0,DeNDRoN 035ext EudraCT Number: 2010-021179-10 NCT01285583 TrialTroveID-141399 TRO19622 CL E Q 1425-1 TRO19622 OLE TRO19622CLEQ1425 UKCRN ID: 10407 WN29852,5/11/17,2/15/22
+0,,,,36.0,12/7/06,,,,,122013,,,,Actual,,,I,,,TrialTroveID-122013,2/9/10,2/25/22
+1,102.0,3/17/10,4/30/09,512.0,12/13/11,500.0,18.0,Actual,Actual,80568,3.24,Actual,Actual,Actual,Actual,Actual,Ii/Iii,9/15/11,10.55,DeNDRoN 035 DeNDRoN 035 (Trophos CL E Q 1015-1) EudraCT Number: 2008-007320-25 MITOTARGET MREC N° : 09/H0706/47 NCT00868166 TrialTroveID-080568 TRO19622 CL E Q 1015-1 Trophos CL E Q 1015-1 UKCRN ID: 6706 WN29853,1/24/14,8/16/22
+0,,,12/15/04,48.0,1/31/06,,0.5,Actual,,80017,,,,Actual,,Actual,I,,,TrialTroveID-080017,4/14/16,2/24/22
+0,,2/1/09,12/1/06,11.0,4/2/15,,0.92,Actual,Actual,237122,0.42,Actual,Actual,Actual,Actual,Actual,I,3/1/09,26.07,NCT00410566 SPHINGO00605 TrialTroveID-237122,5/15/23,7/12/23
+0,107.0,1/14/04,9/30/03,591.0,2/11/05,553.0,11.0,Actual,Actual,79099,4.02,Actual,Actual,Actual,Actual,Actual,Ii,12/14/04,3.5,CTCH346A2211 NCT00072709 TCH346A2211 TrialTroveID-079099,2/26/09,4/13/23
+0,70.0,,11/29/04,350.0,7/11/06,500.0,,,,78690,,Actual,,Actual,,Actual,Ii,2/11/05,,CTCH346A2211E1 EudraCT Number: 2004-002855-15 NCT00230074 TCH346A2211E1 TrialTroveID-078690,12/26/07,2/7/22
+0,20.0,1/29/14,2/1/12,18.0,,90.0,1.0,Actual,Actual,163934,0.06,Actual,Actual,,Actual,Actual,Ii,3/1/14,23.92,2010.607/11 ALS-TOX NCT01551940 TrialTroveID-163934,8/17/15,8/17/15
+1,,,,26.0,9/11/11,,,,,152703,,,,Actual,,,Iv,,,TrialTroveID-152703,9/12/11,3/7/24
+1,,,,15.0,1/3/11,,2.0,Actual,,140851,,,,Actual,,,Iv,,,TrialTroveID-140851,1/15/11,2/1/22
+1,,,,10.0,2/14/06,,,,,79862,,,,Actual,,,Iv,,,TrialTroveID-079862,11/26/07,11/20/10
+1,65.0,,1/8/08,26.0,12/27/15,40.0,2.53,Actual,,169479,,,,Actual,,Actual,Iv,,,132998 EudraCT Number: 2007-003017-14 TrialTroveID-169479,6/23/17,9/27/22
+0,65.0,1/26/05,11/14/03,325.0,3/8/06,500.0,,,Actual,336561,,Actual,Actual,Actual,,Actual,Ii,1/26/05,14.42,EudraCT Number: 2004-002912-27 ONO-2506PO E011 TrialTroveID-336561,1/28/19,4/7/22
+0,4.0,10/24/08,6/13/08,15.0,5/29/09,420.0,,,Actual,91503,0.14,Actual,Actual,Actual,Actual,Actual,Ii,10/24/08,4.37,EudraCT Number: 2007-004723-37 NCT00694941 ONO-2506POE015 TrialTroveID-091503,10/21/10,2/15/22
+0,,,2/1/02,,8/10/05,,12.0,Actual,,79013,,,,Actual,,Actual,Ii,,,2506PO/EU0106 N0059122206 TrialTroveID-079013,12/10/07,2/7/22
+0,107.0,1/22/08,11/28/06,420.0,6/25/09,392.0,12.0,Actual,Actual,78967,1.17,Actual,Actual,Actual,Actual,Actual,Ii,1/22/09,13.8,EudraCT Number: 2006-002660-26 NCT00403104 NL15677.041.06 ONO-2506POE014 SIRONA TrialTroveID-078967,12/15/08,2/15/22
+0,96.0,9/30/20,6/1/16,46.0,8/12/22,48.0,6.0,Anticipated,Anticipated,279278,0.44,Anticipated,Anticipated,Actual,Anticipated,Actual,Ii,3/31/21,51.98,TrialTroveID-279278 UMIN000022050,12/21/21,8/19/22
+0,100.0,,7/8/11,15.0,12/11/18,15.0,,,,149387,,Actual,,Actual,,Actual,I,8/7/14,,JPRN-UMIN000007062 TrialTroveID-149387 UMIN000007062,5/25/16,12/18/18
+1,,10/15/24,2/4/20,,,40.0,2.0,Anticipated,Anticipated,336701,0.71,Anticipated,Anticipated,,Anticipated,Actual,Iii,12/15/24,56.38,ACTRN12618001807246 TrialTroveID-336701 U1111-1218-4356,9/23/22,9/26/22
+0,72.0,12/5/17,9/12/13,52.0,9/22/20,72.0,0.5,Actual,Actual,231106,1.02,Actual,Actual,Actual,Actual,Actual,Ii,12/21/17,50.76,FTDOXY13EF IEMO NCT01937013 R-13-270 TrialTroveID-231106,8/9/18,12/11/20
+0,,3/16/23,1/31/18,,,112.0,3.48,Actual,Actual,307719,0.17,Actual,Actual,,Actual,Actual,Ii,6/30/23,61.47,FOXY FTDOXY17EF NCT03260920 TrialTroveID-307719,10/6/23,12/18/23
+0,,,,,,52.0,0.92,Anticipated,,473607,,,,,,,Ii,,,EudraCT Number: 2018-000143-12 ORBIS-DE-UNIBO001 TrialTroveID-473607,6/13/23,6/27/23
+0,96.0,9/15/13,6/1/11,23.0,5/22/14,24.0,0.5,Actual,Actual,226952,0.84,Actual,Actual,Actual,Actual,Actual,I,10/1/13,27.5,17783 FTDOXY10EF NCT01386333 R-11-232 TrialTroveID-226952,11/13/17,11/14/17
+0,103.0,2/21/14,12/20/12,304.0,9/15/15,294.0,11.0,Actual,Actual,159001,0.64,Actual,Actual,Actual,Actual,Actual,Ii,1/22/15,14.06,112 264 112264 DeNDRoN 083 GSK EudraCT Number: 2012-003349-13 JapicCTI-132047 NCT01753076 NL42366.041.12 NOG112264 TrialTroveID-159001 UKCRN ID: 12921,8/11/15,2/15/22
+0,100.0,5/7/11,5/13/09,76.0,7/25/12,76.0,4.0,Actual,Actual,106808,0.27,Actual,Actual,Actual,Actual,Actual,Iii,9/6/11,23.79,111330 DeNDRoN 036 EudraCT Number: 2008-005040-16 FTIH NOG111330 MREC N°: 09/H0804/1 NCT00875446 NOG111330 NOGO-A NOGO111330 TrialTroveID-106808 UKCRN ID: 6600,5/30/16,2/15/22
+0,,,9/14/21,,,15.0,,,,374688,,Anticipated,,,,Actual,Iii,8/1/24,,EudraCT Number: 2020-004499-17 FTD-GRN NCT04747431 PBFT02-001 TrialTroveID-374688 upliFT-D,3/4/24,4/19/24
+0,,,10/1/10,,,,,,,298030,,Actual,,,,Actual,(N/A),12/1/12,,LCKY2016-58 NCT03085706,,2/7/18
+0,100.0,6/30/22,6/1/19,50.0,,50.0,6.0,Actual,Actual,380926,0.68,Actual,Actual,,Actual,Actual,Ii,12/30/22,36.98,NCT04489017 PEA-FTD SPE.107 TrialTroveID-380926,11/3/23,11/6/23
+0,100.0,5/27/22,9/30/20,249.0,5/25/23,250.0,10.12,Actual,Actual,386281,0.21,Actual,Actual,Actual,Actual,Actual,Ii,3/31/23,19.86,APL2-ALS-206 EudraCT Number: 2019-003797-10 jRCT2031230170 MERIDIAN NCT04579666 NL74696.041.20 TrialTroveID-386281,8/8/23,2/15/24
+0,,,10/15/02,400.0,5/16/05,,18.0,Actual,,79170,,,,Actual,,Actual,Ii,,,N0059115937 TrialTroveID-079170,11/29/07,2/7/22
+0,30.0,12/17/19,12/1/19,6.0,,20.0,5.5,Actual,Actual,314973,11.32,Actual,Actual,,Actual,Actual,Ii,6/1/20,0.53,IM.JS.03 NCT03377309 TrialTroveID-314973,9/9/21,2/2/22
+0,,,3/2/17,,,15.0,11.0,Actual,,297732,,,,,,Actual,I,,,TrialTroveID-297732 UMIN000026221,3/14/19,3/14/19
+1,20.0,1/31/23,1/12/17,12.0,,60.0,0.0,Actual,Actual,294165,0.17,Actual,Actual,,Actual,Actual,Iv,1/31/23,72.65,Eisai-01 NCT03020797 TrialTroveID-294165,5/8/23,5/8/23
+0,110.0,1/24/20,4/24/17,66.0,6/30/21,60.0,11.0,Actual,Actual,294056,0.17,Actual,Actual,Actual,Actual,Actual,Ii,12/23/20,33.02,A2016-J000-001 NCT03019419 TrialTroveID-294056 UMIN000025614,12/29/20,2/22/22
+0,92.0,8/1/20,12/4/18,22.0,,24.0,0.01,Actual,Actual,340225,1.1,Actual,Actual,,Actual,Actual,I,8/1/20,19.91,17-002396 NCT03793868 TrialTroveID-340225,9/30/20,11/10/21
+0,,1/1/24,11/8/22,,,10.0,12.0,Anticipated,Anticipated,459178,0.73,Anticipated,Anticipated,,Anticipated,Actual,Ii,12/31/24,13.77,202208170 NCT05725759 TrialTroveID-459178,11/27/23,2/23/24
+1,,4/16/25,1/26/23,,,75.0,1.5,Anticipated,Anticipated,431238,2.81,Anticipated,Anticipated,,Anticipated,Actual,Iv,6/1/25,26.66,212028 NCT05357612 TrialTroveID-431238,10/16/23,4/30/24
+1,105.0,3/6/22,5/21/18,784.0,7/18/23,750.0,2.0,Actual,Actual,327273,0.17,Actual,Actual,Actual,Actual,Actual,Iii,5/6/22,45.5,ACP-103-046 EudraCT Number: 2017-003536-36 NCT03575052 PMC 3069-2 Study 046 TrialTroveID-327273,6/8/22,5/2/24
+1,109.0,1/15/19,8/31/17,392.0,12/4/19,360.0,6.5,Actual,Actual,301631,0.29,Actual,Actual,Actual,Actual,Actual,Iii,7/31/19,16.49,ACP-103-045 EudraCT Number: 2017-002227-13 HARMONY NCT03325556 TrialTroveID-301631,9/10/19,1/3/24
+1,79.0,4/5/22,7/17/18,595.0,,750.0,13.0,Actual,Actual,330120,0.15,Actual,Actual,,Actual,Actual,Iii,5/5/23,44.64,ACP-103-047 EudraCT Number: 2017-004439-36 NCT03623321 TrialTroveID-330120,2/6/24,4/15/24
+0,,6/17/20,10/27/17,,,100.0,6.5,Anticipated,Anticipated,308441,0.35,Anticipated,Anticipated,,Anticipated,Actual,Ii,12/31/20,31.67,NCT03272503 Pimozide2 Pimozide2_ALS-002 TrialTroveID-308441,1/5/22,2/18/22
+0,,5/27/16,4/8/15,,,25.0,2.14,Actual,Actual,259065,1.83,Actual,Actual,,Actual,Actual,Ii,8/1/16,13.63,NCT02463825 PIMOZIDE_ALS-001 REB14-0617 TrialTroveID-259065,5/31/19,5/19/23
+0,100.0,8/14/09,5/29/08,219.0,2/23/12,220.0,,,Actual,91599,1.01,Anticipated,Actual,Actual,Actual,Actual,Ii,1/1/11,14.5,EudraCT Number: 2006-005410-13 FARM7MFFEB GERP ALS NCT00690118 TrialTroveID-091599,2/10/11,2/15/22
+0,45.0,12/31/15,12/22/14,225.0,,500.0,3.0,Actual,Actual,313547,,Actual,Actual,,,Actual,Ii,4/1/16,12.29,TrialTroveID-313547 UMIN000016008,11/29/17,11/30/17
+0,,10/1/20,9/5/18,,2/1/23,40.0,12.0,Actual,Actual,464630,1.61,Actual,Actual,Anticipated,Actual,Actual,I,10/1/21,24.88,CA-18-08 ISRCTN13974483 TrialTroveID-464630,12/26/23,12/26/23
+0,,,,,,40.0,12.0,Actual,,217137,,,,,,,Ii,,,APOCT-001 EudraCT Number: 2012-002099-15 TrialTroveID-217137,11/17/16,2/15/22
+0,,,,,,,,,,211260,,,,,,,I,,,TrialTroveID-211260,2/24/17,11/17/20
+0,,8/1/22,10/1/21,64.0,,,3.0,Actual,Actual,482616,1.6,Actual,Actual,,Actual,Actual,Ii,10/31/22,9.99,NCT06005506 NM102_SPATIALS3 sPATIALS3 TrialTroveID-482616,8/24/23,11/15/23
+0,103.0,10/1/14,10/1/13,31.0,5/12/17,30.0,12.0,Actual,Actual,188964,0.86,Actual,Actual,Actual,Actual,Actual,Ii,10/1/15,11.99,2013P000981 NCT01884571 NIP-ALS-2013 NIPALS2013 TrialTroveID-188964,8/1/17,2/18/22
+1,,,12/1/24,,,,,,,513721,,,,,,Anticipated,Iii,,,TrialTroveID-513721,4/22/24,4/23/24
+1,,,10/6/23,,,200.0,,,,487837,,,,,,Actual,Iv,,,EAP 2 NCT06069934 PL101-ALS501 TrialTroveID-487837,10/9/23,11/20/23
+1,102.0,1/5/22,12/18/20,163.0,2/23/23,160.0,6.25,Actual,Actual,388613,0.24,Actual,Actual,Actual,Actual,Actual,Ii/Iii,7/14/22,12.58,2019P003518D HEALEY ALS Platform Trial - Regimen D NCT04615923 TrialTroveID-388613,9/9/22,3/29/24
+1,,12/30/24,7/14/20,,,1500.0,6.0,Anticipated,Anticipated,358229,0.36,Anticipated,Anticipated,,Anticipated,Actual,Ii/Iii,7/1/25,53.58,2019P003518 CCR-20-43 Healey ALS Platform Trial NCT04297683 TrialTroveID-358229,10/5/22,4/26/24
+0,,8/31/22,5/1/22,,,100.0,15.97,Anticipated,Anticipated,430014,24.94,Anticipated,Anticipated,,Anticipated,Anticipated,Ii,12/30/23,4.01,ChiCTR2200058224 TrialTroveID-430014,4/19/22,4/19/22
+0,,6/30/21,5/1/21,,,30.0,19.06,Anticipated,Anticipated,402290,15.23,Anticipated,Anticipated,,Anticipated,Actual,Ii,1/31/23,1.97,ChiCTR2100045741 TrialTroveID-402290,12/28/21,2/24/22
+0,,3/20/22,2/26/22,,,32.0,1.38,Anticipated,Anticipated,427532,44.44,Anticipated,Anticipated,,Anticipated,Actual,I,5/1/22,0.72,5027513 NCT05279755 PRO-101 TrialTroveID-427532,4/2/24,4/2/24
+0,,8/2/26,1/1/24,,,150.0,6.0,Anticipated,Anticipated,486787,4.83,Anticipated,Anticipated,,Anticipated,Anticipated,Ii,2/1/27,31.03,2024-11453 NCT06051123 PROBIO_HA114 TrialTroveID-486787,9/25/23,2/23/24
+1,33.0,12/26/18,6/1/17,5.0,,15.0,6.0,Actual,Actual,311856,0.27,Actual,Actual,,Actual,Actual,Iv,6/26/19,18.83,AIHG-2017.004-ALS NCT03324399 TrialTroveID-311856,9/18/19,2/18/22
+0,,,5/1/24,,,20.0,,,,487672,,Anticipated,,,,Anticipated,I,10/1/26,,2097152 NCT06066710,,2/29/24
+0,,,,,,,,,,79599,,,,,,,Ii,,,TrialTroveID-079599,4/9/14,4/9/14
+0,,,,,7/30/07,,,,,79588,,,,Actual,,,I,,,TrialTroveID-079588,12/12/07,2/23/22
+0,80.0,3/2/14,6/1/09,32.0,3/4/16,40.0,9.0,Actual,Actual,123945,0.11,Actual,Actual,Actual,Actual,Actual,Iii,12/1/14,57.0,0903010259 EudraCT Number: 2011-004798-99 NCT01083667 TrialTroveID-123945,6/20/17,11/7/19
+0,,,,7.0,11/3/08,,4.5,Actual,,87390,,,,Actual,,,Ii,,,TrialTroveID-087390,4/10/08,2/18/22
+0,,,,,,5.0,,,,80417,,,,,,,Ii,,,740 TrialTroveID-080417,4/10/12,4/10/12
+0,,,,,,24.0,,,,501748,,,,,,,I,,,QRL-101-02 TrialTroveID-501748,1/30/24,4/1/24
+0,69.0,12/17/23,12/22/22,88.0,,128.0,0.33,Actual,Actual,394416,7.44,Actual,Actual,,Actual,Actual,I,12/27/23,11.83,EudraCT Number: 2022-002484-30 NCT05667779 QRL-101-01 TrialTroveID-394416,4/20/24,4/22/24
+0,,8/26/24,12/16/22,,,64.0,8.31,Anticipated,Anticipated,414440,0.29,Anticipated,Anticipated,,Anticipated,Actual,I,5/6/25,20.35,ANQUR NCT05633459 QRL-201-01 TrialTroveID-414440,3/1/24,4/2/24
+0,100.0,3/1/08,7/1/07,10.0,,10.0,6.0,Actual,Actual,82481,1.25,Actual,Actual,,Actual,Actual,Iii,9/1/08,8.0,13023 NCT00600873 TrialTroveID-082481,9/17/10,2/7/22
+0,100.0,,3/1/06,30.0,4/19/07,30.0,,,,82468,,,,Actual,,Actual,Iii,,,12316 NCT00596115 TrialTroveID-082468,8/28/09,2/15/22
+0,150.0,9/1/05,8/1/05,30.0,4/19/07,20.0,6.0,Actual,Actual,78793,15.0,Actual,Actual,Actual,Actual,Actual,Iii,3/1/06,1.0,11736 Futility Study NCT00140218 TrialTroveID-078793,12/4/07,2/7/22
+0,,,1/1/06,11.0,11/3/08,,9.0,Actual,,121605,,,,Actual,,Actual,Ii,,,TrialTroveID-121605,10/4/19,10/4/19
+0,,9/1/23,5/22/23,,,6.0,5.91,Anticipated,Anticipated,473953,1.79,Anticipated,Anticipated,,Anticipated,Actual,I,2/28/24,3.35,HX-A-2023004 NCT05903690 TrialTroveID-473953,6/16/23,2/28/24
+0,88.0,7/17/10,9/2/09,70.0,,80.0,6.5,Actual,Actual,113404,6.67,Actual,Actual,,Actual,Actual,I,2/1/11,10.5,A031-02 NCT00952887 TrialTroveID-113404,3/24/11,9/8/22
+0,100.0,,10/20/08,48.0,9/10/09,48.0,,,,99252,,Actual,,Actual,,Actual,I,7/1/09,,A031-01 NCT00755638 TrialTroveID-099252,12/14/09,7/5/23
+0,,7/2/19,6/11/18,,,20.0,3.0,Anticipated,Anticipated,320844,1.58,Anticipated,Anticipated,,Anticipated,Actual,Ii,10/1/19,12.68,NCT03472950 STUDY00141491 TrialTroveID-320844,7/20/21,5/13/22
+0,,,,,,,,,,495926,,,,,,,Ii,,,NCT06169176 RAPA-501-ALS Expanded Access TrialTroveID-495926,4/12/24,4/12/24
+1,,11/15/24,12/15/20,,,41.0,7.5,Anticipated,Anticipated,364979,0.09,Anticipated,Anticipated,,Anticipated,Actual,Ii/Iii,7/1/25,47.04,NCT04220190 RAPA-501-ALS TrialTroveID-364979,4/21/24,4/21/24
+0,101.0,10/28/14,6/1/13,252.0,11/7/17,250.0,18.0,Actual,Actual,188612,0.99,Actual,Actual,Actual,Actual,Actual,Ii,4/28/16,16.89,Eudract Number: 2011-004482-32 NCT01879241 RAS-ALS TrialTroveID-188612,10/26/16,3/1/24
+0,100.0,7/28/15,9/1/12,80.0,11/26/18,80.0,12.0,Actual,Actual,181697,0.23,Actual,Actual,Actual,Actual,Actual,Ii,7/27/16,34.83,12312 NCT01786603 TrialTroveID-181697,5/17/19,1/2/24
+0,120.0,5/1/12,12/1/11,36.0,12/7/13,30.0,12.0,Actual,Actual,137311,0.72,Actual,Actual,Actual,Actual,Actual,Ii,5/1/13,5.0,11922 NCT01232738 TrialTroveID-137311,12/4/13,2/8/22
+1,108.0,9/4/20,3/30/20,382.0,8/20/21,354.0,16.93,Anticipated,Anticipated,365466,0.77,Anticipated,Anticipated,Actual,Anticipated,Actual,Iii,2/1/22,5.19,145660 ALXN1210-ALS-308 CHAMPION-ALS EudraCT Number: 2019-004619-30 JapicCTI-205395 jRCT2080225299 MOH_2020-11-09_009024 NCT04248465 NL72466.056.20 SNCTP000004075 TrialTroveID-365466,8/23/21,4/27/24
+0,,,12/1/19,,,,,,,330489,,,,,,Anticipated,Ii,,,TrialTroveID-330489,6/26/20,11/17/20
+0,,,,,,,,,,215210,,Actual,,,,,I,3/1/14,,TrialTroveID-215210,8/23/14,2/25/22
+0,100.0,1/1/14,12/1/13,15.0,,15.0,1.0,Actual,Actual,199562,15.0,Actual,Actual,,Actual,Actual,I,2/1/14,1.0,EudraCT Number: 2013-003335-29 NCT02016742 RDC5-1-01 TrialTroveID-199562,3/13/14,2/24/22
+1,18.0,3/31/23,7/25/22,72.0,,400.0,0.0,Actual,Actual,436214,0.21,Actual,Actual,,Actual,Actual,Iii,3/31/23,8.19,COURAGE OLE COURAGE-ALS OLE CY 5032 CY5032 EudraCT Number: 2021-004727-33 NCT05442775 TrialTroveID-436214,4/20/23,2/26/24
+1,88.0,3/31/23,10/1/21,487.0,,555.0,0.0,Actual,Actual,369035,0.32,Actual,Actual,,Actual,Actual,Iii,3/31/23,17.95,CCR-20-145 COURAGE-ALS CY 5031 CY5031 EudraCT Number: 2020-004040-29 NCT04944784 NL77133.041.21 SNCTP000004651 TrialTroveID-369035,4/4/23,3/7/24
+0,102.0,11/27/18,7/24/17,458.0,5/5/19,450.0,3.29,Actual,Actual,296218,0.44,Actual,Actual,Actual,Actual,Actual,Ii,3/7/19,16.13,CY 5022 EudraCT Number: 2018-000586-37 FORTITUDE-ALS NCT03160898 NL65920.041.18 TrialTroveID-296218,5/6/19,9/20/23
+0,150.0,7/13/22,11/20/21,90.0,,60.0,4.0,Actual,Actual,390990,11.64,Actual,Actual,,Actual,Actual,Ii,11/12/22,7.73,EudraCT Number: 2020-005143-23 NCT04654689 TrialTroveID-390990 UCV/2020-2021/018,3/16/23,11/2/23
+0,,,,,,,,,,107545,,,,,,,I,,,TrialTroveID-107545,7/31/10,11/17/20
+0,,,1/15/21,54.0,,,,,,400359,,Actual,,,,Actual,I,3/14/21,,BASEC2020-01406 NCT04819438 SNCTP000004338 TrialTroveID-400359 Z7251J01,3/30/21,8/9/22
+1,,,,128.0,4/14/20,,1.0,Actual,,374406,,,,Actual,,,Iv,,,TrialTroveID-374406,5/13/20,2/22/22
+1,,,,9.0,12/5/14,,12.0,Actual,,220907,,,,Actual,,,Iv,,,TrialTroveID-220907,11/19/14,2/18/22
+1,,,,37.0,6/4/12,,3.0,Actual,,171267,,,,Actual,,,Iv,,,TrialTroveID-171267,7/19/12,2/2/22
+1,,,,26.0,4/14/10,,,,,125254,,,,Actual,,,Iv,,,TrialTroveID-125254,4/7/10,12/1/10
+0,,,,10.0,12/1/07,,3.0,Actual,,122005,,,,Actual,,,Other,,,TrialTroveID-122005,2/3/10,2/3/10
+1,100.0,,1/23/01,414.0,7/31/06,414.0,,,,78766,,,,Actual,,Actual,Iv,,,CARE NCT00542412 RIL_CA1_401 RP54274/CA1.401 TrialTroveID-078766,2/4/08,2/15/22
+1,,3/26/22,8/19/20,,,150.0,5.25,Anticipated,Anticipated,382354,7.82,Anticipated,Anticipated,,Anticipated,Actual,Iv,9/1/22,19.19,2020-375 NCT04518540 TrialTroveID-382354,8/20/20,2/22/22
+0,,4/2/23,4/1/22,,,76.0,6.0,Anticipated,Anticipated,400961,6.32,Anticipated,Anticipated,,Anticipated,Actual,Ii,10/1/23,12.03,KETO-ALS KETO-ALS V 1.41 NCT04820478 TrialTroveID-400961,3/29/23,3/29/23
+0,100.0,8/29/21,4/10/19,54.0,,54.0,7.5,Actual,Actual,333946,0.21,Actual,Actual,,Actual,Actual,Ii,4/14/22,28.67,Co-ALS EudraCT Number: 2017-004459-21 NCT03693781 TrialTroveID-333946,9/12/22,3/2/23
+1,,,,12.0,1/5/07,,0.12,Actual,,133693,,,,Actual,,,Iii,,,TrialTroveID-133693,9/3/10,3/7/24
+1,,,1/1/10,226.0,11/8/16,,6.0,Actual,,294459,,,,Actual,,Actual,Iv,,,TrialTroveID-294459,1/19/17,2/2/22
+0,,,6/11/21,,,100.0,9.0,Anticipated,,408677,,,,,,Actual,Ii,,,EudraCT Number: 2021-001989-38 IMCRELA TrialTroveID-408677,12/28/23,12/28/23
+0,100.0,5/29/22,2/20/19,120.0,,120.0,6.08,Actual,Actual,340147,0.2,Actual,Actual,,Actual,Actual,Ii,11/30/22,39.25,00013948 01742 BASEC2018-02001 DRKS00013948 EudraCT Number: 2017-003676-31 NCT03792490 ROCK-ALS SNCTP000003245 TrialTroveID-340147,6/6/23,12/1/23
+1,115.0,12/15/18,3/16/17,23.0,1/4/21,20.0,3.0,Anticipated,Anticipated,308554,1.09,Anticipated,Anticipated,Actual,Anticipated,Actual,Ii/Iii,3/16/19,21.01,IRCT20190324043105N1 Isfahan ALS Registery NCT03272802 TrialTroveID-308554,2/20/20,12/14/23
+1,,11/30/14,1/1/14,50.0,,,6.0,Actual,Actual,270826,4.57,Actual,Actual,,Actual,Actual,Iii,6/1/15,10.94,3314 NCT02645461 TrialTroveID-270826,1/5/16,2/18/22
+0,100.0,12/1/16,11/1/15,18.0,11/7/17,18.0,0.12,Actual,Actual,263701,1.38,Actual,Actual,Actual,Actual,Actual,I,12/4/16,13.01,CHDR1417 EudraCT Number: 2015-001431-20 NL53042.056.15 NTR6278 TrialTroveID-263701,4/28/17,3/15/22
+0,,,1/1/10,36.0,11/26/18,,,,,205567,,Actual,,Actual,,Actual,Ii,3/1/17,,TrialTroveID-205567,1/10/18,11/3/21
+1,,,,,,226.0,18.0,Actual,Actual,110113,1.79,,,,Actual,,Iii,,6.0,EudraCT Number: 2008-006722-34 SLA_Litio TrialTroveID-110113,5/21/14,2/15/22
+0,,,1/8/19,,,50.0,6.0,Anticipated,,364650,,,,,,Actual,Ii,,,HP_MECASIN-02 KCT0003792 TrialTroveID-364650,11/5/20,11/5/20
+0,83.0,5/2/18,8/1/16,30.0,5/29/23,36.0,4.0,Actual,Actual,288935,0.71,Actual,Actual,Actual,Actual,Actual,Ii,9/1/18,21.01,2016/5-1 KCT0001984 TrialTroveID-288935,9/11/23,2/28/24
+0,,7/1/17,5/1/16,20.0,,,22.0,Actual,Actual,378475,1.43,Actual,Actual,,Actual,Actual,I,5/1/19,14.0,NCT04454840 PUTH2017118 TrialTroveID-378475,7/3/20,2/22/22
+0,30.0,9/26/18,4/4/18,9.0,12/20/18,30.0,0.0,Actual,Actual,333447,1.57,Actual,Actual,Actual,Actual,Actual,Ii,9/26/18,5.75,17MO1R-0012 NCT03679975 TrialTroveID-333447,1/23/19,3/8/23
+0,,,3/1/18,,,25.0,3.0,Anticipated,,320012,,,,,,Anticipated,Ii,,,17MO1R-0016 NCT03457753 TrialTroveID-320012,9/24/18,7/21/20
+1,13.0,,5/9/18,33.0,11/8/19,250.0,,,,325007,,,,Actual,,Actual,Iii,,,BHV0223-401 NCT03537807 TrialTroveID-325007,8/1/19,12/28/19
+0,110.0,8/8/18,2/2/18,22.0,,20.0,2.0,Actual,Actual,323953,0.72,Actual,Actual,,Actual,Actual,I,10/8/18,6.14,BHV0223-103 NCT03520517 TrialTroveID-323953,11/26/18,3/22/22
+0,,,11/6/17,138.0,1/9/18,,,,,273966,,,,Actual,,Actual,I,,,TrialTroveID-273966,2/1/18,2/25/22
+0,,,8/27/15,,11/19/15,,,,,254299,,,,Actual,,Actual,I,,,BHV223-101 TrialTroveID-254299,10/8/15,2/25/22
+0,100.0,,4/11/23,72.0,,72.0,,,,461741,,Actual,,,,Actual,I,5/23/23,,CTR20230637 LLZ-BE-202301 TrialTroveID-461741,6/3/23,6/3/23
+0,100.0,11/5/21,10/12/21,66.0,,66.0,0.39,Actual,Actual,419924,83.54,Actual,Actual,,Actual,Actual,I,11/17/21,0.79,BT-XYL-T-BE01 CTR20212516 TrialTroveID-419924,3/14/22,4/13/22
+0,,,,,,,,,,294455,,,,,,,Ii,,,TrialTroveID-294455,1/19/17,5/9/23
+1,,,,,4/14/20,,,,,374396,,,,Actual,,,Iv,,,TrialTroveID-374396,5/13/20,2/3/22
+1,,,,16.0,5/3/07,,1.0,Actual,,80389,,,,Actual,,,Iv,,,TrialTroveID-080389,8/23/10,2/1/22
+1,100.0,6/1/07,7/1/03,20.0,12/3/07,20.0,2.0,Actual,Actual,78863,0.21,Actual,Actual,Actual,Actual,Actual,Ii/Iii,8/1/07,47.02,BB-IND 11090 NCT00125203 TrialTroveID-078863,11/1/10,12/2/19
+0,,,,28.0,9/13/09,,3.0,Actual,,115413,,,,Actual,,,Ii,,,TrialTroveID-115413,9/16/09,2/1/22
+0,,1/8/26,9/1/23,,4/1/28,52.0,19.75,Anticipated,Anticipated,488284,0.92,Anticipated,Anticipated,Anticipated,Anticipated,Anticipated,Ii,9/1/27,28.27,ABCD DRKS00030948 EUCT Number: 2022-502743-35-00 RituxALS01 TrialTroveID-488284,10/12/23,1/28/24
+0,104.0,5/25/20,5/30/17,147.0,10/14/22,142.0,6.0,Actual,Actual,297026,0.18,Actual,Actual,Actual,Actual,Actual,Ii,11/23/20,35.86,EudraCT Number: 2016-002382-62 NCT03456882 RNS60 RNS60-ALS TrialTroveID-297026,10/6/20,11/7/23
+0,,5/2/26,10/1/24,,,140.0,6.02,Anticipated,Anticipated,292121,,Anticipated,Anticipated,,,Anticipated,Ii,11/1/26,19.0,06.2.1.H6 NCT02988297 TrialTroveID-292121,9/19/23,3/3/24
+0,,,3/31/19,52.0,,,,,,423266,,,,,,Actual,Ii,,,TrialTroveID-423266,1/24/24,1/24/24
+0,100.0,12/21/16,10/1/15,18.0,11/30/18,18.0,6.0,Actual,Actual,263140,1.23,Actual,Actual,Actual,Actual,Actual,I,6/21/17,14.69,NCT02525471 RNS60-01 TrialTroveID-263140,1/17/18,6/3/23
+0,105.0,6/1/20,12/5/18,21.0,5/20/21,20.0,7.26,Anticipated,Anticipated,339079,1.18,Actual,Anticipated,Actual,Anticipated,Actual,Iii,7/1/20,17.87,JMA-IIA00397 jRCT2091220397 ROPALS trial TrialTroveID-339079 UMIN000034954,5/19/22,7/12/23
+0,100.0,9/30/22,6/3/21,75.0,10/30/23,75.0,6.0,Actual,Actual,407255,2.36,Actual,Actual,Actual,Actual,Actual,Ii,4/1/23,15.91,EudraCT Number: 2019-002997-30 NCT04937452 TrialTroveID-407255,11/9/23,11/15/23
+0,,,,30.0,,,12.0,Actual,,120002,,,,,,,Ii,,,TrialTroveID-120002,12/15/09,2/18/22
+0,,,,113.0,,,14.0,Actual,,119994,,,,,,,Ii,,,TrialTroveID-119994,12/14/09,2/8/22
+0,,12/30/24,9/1/24,,,36.0,6.0,Anticipated,Anticipated,469676,9.14,Anticipated,Anticipated,,Anticipated,Anticipated,Ii,7/1/25,3.94,APHP190724 EUCT number: 2022-501624-14-00 NCT05860244 TrialTroveID-469676 WALKALS,5/18/23,4/25/24
+0,,,12/1/25,,,,,,,507499,,,,,,Anticipated,I,,,TrialTroveID-507499,3/12/24,3/12/24
+0,,4/11/09,8/6/08,,,152.0,0.5,Actual,Anticipated,104996,18.54,Anticipated,Anticipated,,Anticipated,Actual,I,4/27/09,8.2,EudraCT Number: 2008-001627-65 NL23897.056.08 TrialTroveID-104996,9/16/13,2/6/23
+0,113.0,7/2/09,9/3/08,45.0,,40.0,11.0,Actual,Actual,80566,0.76,Actual,Actual,,Actual,Actual,Ii,6/1/10,9.92,NCT00748501 SB-509-0801 SB-509-801 TrialTroveID-080566,3/30/12,2/7/22
+0,,,12/1/22,,,,,,,389934,,,,,,Anticipated,Ii,,,TrialTroveID-389934,2/7/24,2/7/24
+0,,,1/22/20,,,40.0,,,,365692,,,,,,Actual,I,,,TrialTroveID-365692,11/23/20,11/3/22
+1,,,10/1/08,133.0,12/6/14,,,,,220908,,Actual,,Actual,,Actual,Iv,3/1/14,,TrialTroveID-220908,11/19/14,8/18/22
+0,,12/8/13,11/6/13,,,12.0,0.3,Actual,Actual,199178,11.43,Actual,Actual,,Actual,Actual,I,12/17/13,1.05,TrialTroveID-199178 UMIN000012570,5/25/16,2/24/22
+1,,3/9/16,9/2/13,,9/19/17,10.0,0.69,Actual,Actual,193085,0.11,Actual,Actual,Actual,Actual,Actual,Iv,3/31/16,30.19,SCOPOLA-D TrialTroveID-193085 UMIN000011494,8/17/16,10/16/17
+0,,,2/28/23,,,15.0,,,,460208,,Anticipated,,,,Actual,Iii,3/31/23,,jRCT2031210612 TrialTroveID-460208,12/1/23,12/1/23
+0,,12/8/23,9/30/22,,,26.0,2.75,Anticipated,Anticipated,410978,0.61,Anticipated,Anticipated,,Anticipated,Actual,Iii,3/1/24,14.27,AAAT0610 NCT04998305 TrialTroveID-410978,7/20/23,2/4/24
+0,100.0,7/31/20,9/19/17,63.0,8/17/23,63.0,4.5,Actual,Actual,313795,0.23,Actual,Actual,Actual,Actual,Actual,Ii,12/15/20,34.37,EudraCT Number: 2016-002399-28 NCT03359538 RAP-ALS TrialTroveID-313795,8/3/21,12/10/23
+0,,,9/22/23,,,,,,,501284,,,,,,Actual,I,,,TrialTroveID-501284,1/24/24,1/24/24
+0,100.0,6/1/06,4/1/05,40.0,4/1/09,40.0,5.0,Actual,Actual,78808,0.36,Actual,Actual,Actual,Actual,Actual,Iii,11/1/06,14.0,0015 NCT00107770 TrialTroveID-078808,12/14/07,2/8/22
+0,,,,30.0,3/4/24,,,,,507036,,,,Actual,,,I,,,TrialTroveID-507036,3/8/24,3/9/24
+0,,,,,,,,,,505764,,Anticipated,,,,,I,12/31/24,,PMR 4346-7 TrialTroveID-505764,4/23/24,4/23/24
+1,,1/30/24,12/29/22,,,600.0,25.0,Anticipated,Anticipated,448068,1.0,Anticipated,Anticipated,,Anticipated,Actual,Iii,3/1/26,13.05,A35-011 EudraCT Number:2022-002348-33 NCT05619783 PHOENIX TrialTroveID-448068,8/22/23,4/23/24
+1,,,3/9/22,,,,,,,427740,,Actual,,,,Actual,Iv,10/14/22,,A35-006 NCT05286372 TrialTroveID-427740,10/27/22,5/1/23
+0,79.0,4/1/22,8/5/21,11.0,3/4/24,14.0,1.31,Actual,Actual,410485,1.4,Actual,Actual,Actual,Actual,Actual,Iii,5/11/22,7.86,A35-005 NCT04987671 TrialTroveID-410485,8/5/22,3/29/24
+1,111.0,2/1/23,10/28/21,664.0,3/8/24,600.0,8.97,Anticipated,Actual,401791,0.64,Anticipated,Actual,Actual,Actual,Actual,Iii,11/1/23,15.15,A35- 004 PHOENIX A35-004 EudraCT Number: 2021-000250-26 NCT05021536 NL78255.100.21 PHOENIX TrialTroveID-401791,3/11/24,5/2/24
+1,,12/30/21,11/22/20,28.0,,,12.0,Actual,Actual,382605,0.42,Actual,Actual,,Actual,Actual,Ii/Iii,12/30/22,13.25,A35-003 NCT04516096 TrialTroveID-382605,4/10/23,4/15/23
+0,72.0,8/31/18,3/29/18,95.0,,132.0,30.0,Actual,Actual,321850,9.33,Actual,Actual,,Actual,Actual,Ii,3/1/21,5.09,AMX-3500-OLE CENTAUR-OLE NCT03488524 TrialTroveID-321850,7/22/21,4/13/23
+1,104.0,3/4/19,6/22/17,137.0,12/17/19,132.0,6.0,Actual,Actual,282879,0.27,Actual,Actual,Actual,Actual,Actual,Ii/Iii,9/2/19,20.37,AMX-3500 CENTAUR CENTAUR ALS NCT03127514 TrialTroveID-282879,11/8/19,1/24/24
+0,,,,,,,,,,90292,,,,,,,I,,,TrialTroveID-090292,1/22/09,2/24/23
+0,,1/31/24,8/17/21,,,120.0,15.94,Anticipated,Anticipated,369700,1.02,Anticipated,Anticipated,,Anticipated,Actual,Ii,5/30/25,29.49,ACTRN12620000236998 SEL002 TrialTroveID-369700 U1111-1248-2724,2/19/24,2/19/24
+0,80.0,11/13/19,8/24/17,12.0,,15.0,13.8,Actual,Actual,314139,0.45,Actual,Actual,,Actual,Actual,Iii,1/6/21,26.65,ACTRN12617001218381 SEL001 TrialTroveID-314139,2/20/20,5/29/22
+1,92.0,1/1/06,4/1/05,165.0,12/1/07,180.0,12.0,Actual,Actual,79100,,Actual,Actual,Actual,,Actual,Iii,1/1/07,9.0,04/182-0 NCT00136110 TrialTroveID-079100,4/9/09,2/7/22
+0,,,,,,,,,,480959,,,,,,,I,,,TrialTroveID-480959,4/3/24,4/3/24
+0,113.0,7/1/09,3/1/07,45.0,2/2/11,40.0,12.0,Actual,Actual,86066,0.8,Actual,Actual,Actual,Actual,Actual,Ii,7/1/10,28.0,FARM53XBKT NCT00635960 SLA_GH_1 TrialTroveID-086066,3/31/11,8/23/11
+0,,1/1/25,12/30/19,,,56.0,2.79,Anticipated,Anticipated,355943,0.1,Anticipated,Anticipated,,Anticipated,Actual,Ii,3/27/25,60.12,CBLZ945C12201 EudraCT Number: 2019-000826-22 NCT04066244 TrialTroveID-355943,2/13/24,4/26/24
+0,,,,26.0,1/15/15,,6.0,Actual,,315798,,,,Actual,,,Ii,,,TrialTroveID-315798,1/4/18,1/5/18
+0,,,,,,,,,,184617,,,,,,,I,,,TrialTroveID-184617,8/21/18,11/17/20
+1,,,10/1/12,16.0,,,,,,225247,,Actual,,,,Actual,Iii,10/1/14,,AOM 07225 DOSERAL NCT01160263 P080402,,5/13/15
+0,,3/2/24,7/3/23,,,112.0,1.97,Anticipated,Anticipated,405962,3.5,Anticipated,Anticipated,,Anticipated,Actual,I,5/1/24,7.99,NCT05882695 SPG302-ALS-001 TrialTroveID-405962,9/15/23,4/22/24
+0,,,,,,,,,,495558,,,,,,,I,,,TrialTroveID-495558,12/11/23,12/11/23
+0,,,12/1/08,,,,,,,231463,,Actual,,,,Anticipated,Ii,8/1/13,,NCT01984814 NGBSI-04,,10/23/18
+1,,,,78.0,3/8/13,,,,,182938,,,,Actual,,,Iv,,,TrialTroveID-182938,3/11/13,2/22/22
+0,,,12/1/17,,,,,,,283348,,,,,,Anticipated,I,,,TrialTroveID-283348,7/24/18,2/25/22
+0,100.0,4/8/10,5/1/09,446.0,,446.0,0.0,Actual,Actual,115972,,Actual,Actual,,,Actual,Ii,4/8/10,11.24,ALS-TAL-201-OL ALSTAR OL NCT00982150 TrialTroveID-115972,5/20/10,2/8/22
+0,,12/19/09,10/1/09,,,135.0,0.5,Actual,Actual,114416,51.92,Actual,Actual,,Actual,Actual,I,1/1/10,2.6,NCT00964730 R09-0539 TAL-TQT-101 TrialTroveID-114416,3/31/10,2/24/22
+0,,8/26/09,5/1/09,,,10.0,0.5,Actual,Anticipated,106544,20.0,Actual,Anticipated,,Anticipated,Actual,I,9/15/09,0.5,NCT00868361 TAL-MB-100 TrialTroveID-106544,11/13/09,2/24/22
+0,104.0,4/8/09,9/29/08,559.0,5/17/10,540.0,12.0,Actual,Actual,80706,3.56,Actual,Actual,Actual,Actual,Actual,Ii,4/8/10,6.28,AL-STAR201 ALS-TAL-201 ALS-TAL-201 (ALSTAR) ALSTAR EudraCT Number: 2008-002062-62 NCT00696332 TrialTroveID-080706,7/29/10,2/7/22
+0,,,,60.0,8/5/09,,9.0,Actual,,80705,,,,Actual,,,Ii,,,TrialTroveID-080705,1/5/10,4/12/23
+0,,,,,,,,,,405146,,,,,,,I,,,TrialTroveID-405146,7/29/23,7/29/23
+0,,12/17/22,12/7/21,,,22.0,31.5,Anticipated,Anticipated,387494,1.78,Anticipated,Anticipated,,Anticipated,Actual,I,8/1/25,12.33,BASEC2021-01141 NCT04976127 NEON SNCTP000004631 TLN/PD/1 TrialTroveID-387494,11/14/23,3/30/24
+0,60.0,1/2/03,1/1/01,60.0,12/8/05,100.0,24.0,Actual,Actual,79072,2.5,Actual,Actual,Actual,Actual,Actual,Ii,1/1/05,24.0,2000-486 NCT00214110 TrialTroveID-079072,12/13/07,2/18/22
+0,100.0,3/2/12,3/1/11,60.0,12/7/13,60.0,9.0,Actual,Actual,139062,0.5,Actual,Actual,Actual,Actual,Actual,Ii,12/1/12,12.1,NCT01257581 SDALS-001 TrialTroveID-139062,12/4/13,4/25/24
+0,,,,,,20.0,,,,260538,,,,,,,Ii,,,201306028 TrialTroveID-260538,1/28/20,2/18/22
+0,100.0,9/17/18,4/1/14,20.0,5/29/20,20.0,12.0,Actual,Actual,211170,0.37,Actual,Actual,Actual,Actual,Actual,Iii,9/17/19,53.55,201307022 NCT02166944 TrialTroveID-211170,9/20/19,2/22/22
+1,,9/30/23,10/25/21,,,184.0,18.0,Anticipated,Anticipated,460915,0.35,Anticipated,Anticipated,,Anticipated,Actual,Iii,3/31/25,23.18,H2020/755094/2017/OLE NCT05753852 TrialTroveID-460915 TUDCA-ALS OLE,10/30/23,10/30/23
+1,77.0,7/1/22,2/22/19,337.0,,440.0,18.01,Anticipated,Anticipated,327506,0.33,Anticipated,Anticipated,,Anticipated,Actual,Iii,12/31/23,40.27,EudraCT Number: 2018-002722-22 H2020/755094/2017/IT-01 NCT03800524 NL69414.041.19 TrialTroveID-327506 TUDCA-ALS,7/6/23,1/12/24
+0,113.0,7/1/10,10/8/08,34.0,8/5/14,30.0,12.0,Actual,Actual,107044,1.64,Actual,Actual,Actual,Actual,Actual,Ii,7/1/11,20.73,EudraCT Number: 2007-001592-10 NCT00877604 TrialTroveID-107044 TUDCA 20071 TUDCA-ALS TUDCA200701,12/3/14,9/23/23
+1,,2/28/22,9/1/21,,,204.0,58.05,Anticipated,Anticipated,421812,2.3,Anticipated,Anticipated,,Anticipated,Anticipated,Iv,12/31/26,5.91,ChiCTR2100054894 TrialTroveID-421812,1/3/22,1/5/22
+0,,,1/1/02,,,,,,,224775,,Actual,,,,Actual,Ii,10/1/02,,CTCH346 0102 NCT00036413,,11/22/11
+0,,,8/30/21,,,20.0,,,,435690,,Anticipated,,,,Actual,Other,12/30/25,,2103570362 NCT04920318 PPA,,10/2/23
+0,100.0,11/7/21,10/16/20,54.0,5/31/22,54.0,4.5,Actual,Actual,370517,0.33,Actual,Actual,Actual,Actual,Actual,Ii,3/24/22,12.72,AT-1501-A201 NCT04322149 TrialTroveID-370517,6/4/22,6/30/23
+0,400.0,,11/28/18,32.0,6/4/21,8.0,,,,321213,,Actual,,Actual,,Actual,I,11/18/19,,TrialTroveID-321213,1/23/20,1/20/23
+0,61.0,10/28/15,1/1/15,11.0,,18.0,24.0,Actual,Actual,219300,0.56,Actual,Actual,,Actual,Actual,I,10/28/15,9.86,EudraCT Number: 2012-005034-11 NCT02269436 NL51030.041.14 sNN0029-004 TrialTroveID-219300,1/28/16,1/28/16
+0,83.0,10/28/15,1/15/15,15.0,12/1/16,18.0,3.0,Actual,Actual,182767,0.8,Actual,Actual,Anticipated,Actual,Actual,Iii,10/28/15,9.4,EudraCT Number: 2012-001026-10 NCT01999803 NL45580.041.13 sNN0029-003 TrialTroveID-182767,11/6/15,1/29/16
+0,83.0,,6/1/09,15.0,,18.0,,,,148779,,Actual,,,,Actual,Iii,10/28/15,,NCT01384162 sNN0029-002 TrialTroveID-148779,1/28/16,2/1/22
+1,,,12/1/15,,12/1/16,,,,,119257,,,,Anticipated,,Anticipated,Ii/Iii,,,TrialTroveID-119257,11/6/15,2/15/22
+0,100.0,3/1/11,12/1/08,18.0,12/5/14,18.0,3.0,Actual,Actual,101532,0.67,Actual,Actual,Actual,Actual,Actual,Iii,6/1/11,27.0,NCT00800501 sNN0029-001 TrialTroveID-101532,11/19/14,2/1/22
+0,,9/30/23,8/2/21,,8/2/24,50.0,6.0,Anticipated,Anticipated,422412,1.93,Anticipated,Anticipated,Anticipated,Anticipated,Actual,I,3/31/24,25.94,15775 301752 CPMS 51286 EudraCT number: 2021-003345-38 ISRCTN45028842 PID 15775 TrialTroveID-422412 TRUST,8/29/23,12/26/23
+0,,,10/1/92,,,,,,,224330,,,,,,Actual,Ii,,,199/11792 NCT00004771 OSU-92H0325,,6/23/05
+0,,4/22/22,10/16/20,,10/2/23,150.0,5.82,Anticipated,Anticipated,388768,0.83,Anticipated,Anticipated,Actual,Anticipated,Actual,Ii,10/16/22,18.18,ChiCTR2000039689 TrialTroveID-388768,4/26/23,10/4/23
+0,96.0,11/1/07,2/1/05,23.0,11/3/08,24.0,9.0,Actual,Actual,78850,0.7,Actual,Actual,Actual,Actual,Actual,Ii,8/1/08,33.0,ALS-001 NCT00140452 TrialTroveID-078850,12/8/07,2/7/22
+0,93.0,,12/1/05,37.0,9/14/07,40.0,,,,78683,,,,Actual,,Actual,Ii,,,NCT00231140 THL-ALS01 TrialTroveID-078683,7/1/08,5/28/10
+0,,,12/1/25,,,98.0,3.5,Anticipated,,417476,,,,,,Anticipated,Ii,,,NCT05105958 TIDALS TIDALS_01 TrialTroveID-417476,11/22/21,6/21/23
+0,93.0,10/12/10,3/19/10,67.0,12/13/10,72.0,,,Anticipated,122346,0.66,Actual,Anticipated,Actual,Anticipated,Actual,Ii,11/1/10,6.8,CY 4021 NCT01089010 TrialTroveID-122346,5/18/12,11/20/23
+0,100.0,,11/9/09,24.0,1/27/10,24.0,0.25,Actual,,118382,,,,Actual,,Actual,I,,,CY 4012 TrialTroveID-118382,3/2/10,2/24/22
+0,,,6/18/09,69.0,1/11/10,,0.12,Actual,,108007,,,,Actual,,Actual,I,,,CY 4011 TrialTroveID-108007,12/7/10,6/3/22
+1,80.0,9/28/18,10/17/16,280.0,3/5/20,350.0,0.92,Actual,Actual,284709,0.17,Actual,Actual,Actual,Actual,Actual,Iii,10/26/18,23.36,20160683 CY 4033 EudraCT Number: 2016-002629-13 F17004 NCT02936635 NL59871.041.17 TrialTroveID-284709 VIGOR-ALS VITALITY-ALS- EXT,12/21/18,5/1/24
+1,124.0,8/17/16,7/14/15,744.0,11/21/17,600.0,6.7,Actual,Actual,261308,0.72,Actual,Actual,Actual,Actual,Actual,Iii,3/9/17,13.14,20150619 CY 4031 EudraCT Number: 2014-005413-23 NCT02496767 NL54137.041.15 REec-2016-2095 TrialTroveID-261308 VITALITY-ALS,12/6/17,1/23/24
+0,105.0,12/20/13,10/23/12,711.0,4/25/14,680.0,3.0,Actual,Actual,166541,0.68,Actual,Actual,Actual,Actual,Actual,Ii,3/21/14,13.9,BENEFIT-ALS C_FN_Cyto 4026 CY 4026 CY4026 DeNDRoN 098 EudraCT Number: 2012-004987-23 NCT01709149 NL42947.041.12 TrialTroveID-166541 UKCRN ID: 13984,1/27/15,2/18/24
+0,113.0,1/31/12,11/29/11,27.0,4/25/12,24.0,1.0,Actual,Actual,155650,1.19,Actual,Actual,Actual,Actual,Actual,Ii,3/1/12,2.07,CY 4025 NCT01486849 TrialTroveID-155650,5/31/16,2/1/22
+0,,,4/18/11,,10/27/11,,,,,142278,,,,Actual,,Actual,I,,,CY 4013 TrialTroveID-142278,10/31/11,2/24/22
+0,102.0,2/7/12,6/21/11,49.0,4/25/12,48.0,0.75,Actual,Actual,139315,0.64,Actual,Actual,Actual,Actual,Actual,Ii,3/1/12,7.6,CY 4024 NCT01378676 TrialTroveID-139315,3/15/12,2/18/22
+0,100.0,,11/6/23,48.0,,48.0,,,,496378,,Actual,,,,Actual,I,12/6/23,,CTR20233326 DUXACT-2310019 TrialTroveID-496378,3/17/24,3/17/24
+0,100.0,,7/21/23,66.0,,66.0,,,,442676,,Actual,,,,Actual,I,9/17/23,,CTR20231984 DUXACT-2305053 TrialTroveID-442676,3/12/24,3/12/24
+0,92.0,3/12/18,11/1/15,22.0,12/18/19,24.0,4.0,Actual,Actual,221108,0.16,Actual,Actual,Actual,Actual,Actual,Ii,7/11/18,28.32,2015TCZALS-001 NCT02469896 TCZALS-001 TrialTroveID-221108,8/3/18,4/26/24
+1,,,,10.0,11/15/23,,,,,501003,,,,Actual,,,Iv,,,TrialTroveID-501003,1/23/24,2/10/24
+1,,,,,,,,,,409676,,,,,,,Iii,,,233AS001 NCT04972487 TrialTroveID-409676,6/2/23,11/27/23
+1,,8/7/25,5/7/21,,12/31/27,150.0,24.0,Anticipated,Anticipated,339454,0.1,Anticipated,Anticipated,Anticipated,Anticipated,Actual,Ii/Iii,8/7/27,51.05,233AS303 ATLAS EudraCT Number: 2020-004590-51 jRCT2071210032 NCT04856982 PMR 4436-1 TrialTroveID-339454,3/4/24,3/6/24
+0,40.0,5/1/21,12/20/18,8.0,,20.0,1.31,Actual,Actual,338255,0.14,Actual,Actual,,Actual,Actual,I,6/10/21,28.35,233HV101 NCT03764488 TrialTroveID-338255,7/20/21,6/23/23
+1,75.0,6/14/17,4/14/17,138.0,,183.0,84.0,Anticipated,Anticipated,296928,2.3,Anticipated,Anticipated,,Anticipated,Actual,Iii,6/13/24,2.0,233AS102 EudraCT Number: 2016-003225-41 JapicCTI-205111 jRCT2080225019 NCT03070119 TrialTroveID-296928 VALOR OLE,2/26/24,3/27/24
+1,97.0,9/30/20,12/11/15,178.0,10/17/21,183.0,9.47,Actual,Actual,269503,0.08,Actual,Actual,Actual,Actual,Actual,Iii,7/15/21,57.69,233AS101 EudraCT Number: 2015-004098-33 JapicCTI-194777 jRCT2080224702 NCT02623699 Pro00021877 TrialTroveID-269503 VALOR,7/27/21,3/27/24
+0,69.0,12/1/11,3/5/10,22.0,4/25/12,32.0,0.25,Actual,Actual,105508,0.26,Actual,Actual,Actual,Actual,Actual,I,12/9/11,20.9,ISIS 333611 SOD1 ISIS 333611- CS1 NCT01041222 TrialTroveID-105508,4/5/13,8/2/23
+0,93.0,9/9/14,7/1/11,28.0,6/2/21,30.0,0.75,Actual,Actual,238799,0.37,Actual,Actual,Actual,Actual,Actual,Ii,10/1/14,38.31,AAAF4151 NCT00604591 TrialTroveID-238799,9/19/18,5/31/21
+0,,,12/1/22,,,,,,,433813,,,,,,Anticipated,Ii,,,TrialTroveID-433813,1/4/24,1/4/24
+0,115.0,,12/8/21,78.0,6/2/22,68.0,,,,411005,,,,Actual,,Actual,I,,,TrialTroveID-411005,6/4/22,6/4/22
+0,77.0,4/28/23,4/2/20,23.0,,30.0,0.0,Actual,Actual,370642,0.12,Actual,Actual,,Actual,Actual,Iii,4/28/23,36.85,CT1SNR1611ALS1 KCT0004911 NCT04326283 TrialTroveID-370642,6/16/23,8/2/23
+0,,,9/1/14,,,20.0,12.0,Actual,,192426,,,,,,Anticipated,Iii,,,TrialTroveID-192426,5/6/15,2/2/22
+0,,3/2/23,12/1/21,,,30.0,9.0,Anticipated,Anticipated,197470,0.5,Anticipated,Anticipated,,Anticipated,Anticipated,Iii,12/1/23,14.98,ALTA-BOLT NCT02478450 QALS-101 TrialTroveID-197470,4/15/23,4/15/23
+1,,4/22/24,3/30/23,,,70.0,6.0,Anticipated,Actual,446326,0.32,Anticipated,Actual,,Actual,Actual,Iv,10/22/24,12.79,NCT05597436 SLS-005-EAP TrialTroveID-446326,4/25/24,4/25/24
+0,,,4/4/23,,,70.0,6.0,Anticipated,,444199,,,,,,Actual,I,,,TrialTroveID-444199,1/20/24,1/20/24
+0,,9/1/22,7/18/22,,7/1/23,18.0,0.95,Anticipated,Anticipated,426932,6.08,Anticipated,Anticipated,Anticipated,Anticipated,Actual,Ii,9/30/22,1.48,ACTRN12621001755820 SLS-005-204 TrialTroveID-426932,4/4/24,4/4/24
+1,101.0,2/13/23,2/21/22,161.0,,160.0,6.34,Actual,Actual,381547,0.26,Actual,Actual,,Actual,Actual,Ii/Iii,8/25/23,11.74,2019P003518E HEALEY ALS - Regimen E NCT05136885 TrialTroveID-381547,11/18/23,4/21/24
+0,63.0,,6/1/08,19.0,12/8/09,30.0,,,,93634,,Actual,,Actual,,Actual,Iii,11/1/09,,20071808 NCT00919555 PNA TrialTroveID-093634,3/13/12,11/11/19
+0,100.0,12/30/16,1/1/16,10.0,11/7/17,10.0,4.0,Actual,Actual,275427,0.84,Actual,Actual,Actual,Actual,Actual,Ii,5/1/17,11.96,1307014081 NCT02716662 TrialTroveID-275427,1/9/18,8/22/18
+0,,,,30.0,,,,,,512076,,,,,,,I,,,BHV4157-108 TrialTroveID-512076,4/13/24,4/15/24
+0,,,,8.0,,,,,,512073,,,,,,,I,,,BHV4157- 103 TrialTroveID-512073,4/13/24,4/15/24
+0,,,,58.0,,,,,,512071,,,,,,,I,,,BHV4157-101 TrialTroveID-512071,4/13/24,4/15/24
+0,,,,16.0,3/7/24,,,,,512045,,,,Actual,,,I,,,BHV4157-104 TrialTroveID-512045,4/10/24,4/23/24
+0,150.0,9/26/18,6/21/18,15.0,12/24/19,10.0,6.0,Actual,Actual,323085,4.7,Actual,Actual,Actual,Actual,Actual,Iii,3/28/19,3.19,NCT03506425 PALS Pro00092250 TrialTroveID-323085,4/12/19,4/26/24
+0,58.0,1/22/23,6/29/21,21.0,,36.0,4.0,Actual,Actual,386811,0.37,Actual,Actual,,Actual,Actual,Ii,5/24/23,18.8,ACTRN12620000945921 EudraCT Number: 2020-005018-17 MetFlex MetFlex-003 NCT04788745 NL75615.041.20 TrialTroveID-386811,7/23/23,7/23/23
+0,,,,,,,,,,490028,,,,,,,I,,,TrialTroveID-490028,10/26/23,10/26/23
+1,,1/12/25,6/14/21,,,95.0,16.59,Anticipated,Anticipated,389024,0.12,Anticipated,Anticipated,,Anticipated,Actual,Iii,6/1/26,43.0,BASEC2023-01222 EudraCT Number: 2020-005522-28 FUS-ALS ION363-CS1 NCT04768972 NL78827.000.22 SNCTP000005657 TrialTroveID-389024,4/17/24,4/17/24
+1,86.0,7/31/11,8/10/06,513.0,10/23/13,600.0,12.0,Actual,,79062,,Actual,Actual,Actual,,Actual,Iii,7/30/12,,CEF-ALS -2006 CEF-ALS-2006 NCT00349622 NINDS NINDS CRC TrialTroveID-079062,12/12/13,11/26/22
+1,,6/1/07,1/1/06,131.0,8/1/08,,3.0,Actual,Actual,121975,,Actual,Actual,Actual,,Actual,Iv,9/1/07,17.0,TrialTroveID-121975,2/5/10,2/5/10
+0,,7/1/04,11/1/02,,,100.0,9.0,Actual,Actual,80604,0.83,Actual,Actual,,Actual,Actual,Ii,4/1/05,20.0,TrialTroveID-080604,12/10/07,2/15/22
+0,,,1/1/02,26.0,4/16/08,,,,,87393,,,,Actual,,Actual,Ii,,,TrialTroveID-087393,10/21/10,2/15/22
+1,5.0,2/28/19,7/21/15,2.0,,40.0,3.0,Actual,Actual,283695,0.05,Actual,Actual,,Actual,Actual,Iv,5/30/19,43.3,22974 NCT02851914 TrialTroveID-283695,1/14/20,1/17/20
+1,100.0,3/12/18,6/7/16,97.0,,97.0,6.0,Actual,Actual,278122,4.59,Actual,Actual,,Actual,Actual,Iv,9/10/18,21.13,9632 NCT02756104 TrialTroveID-278122 VITALS,6/1/20,2/25/22
+0,100.0,,,18.0,1/1/10,18.0,1.0,Actual,,119185,,,,Actual,,,Ii,,,TrialTroveID-119185,11/26/09,8/30/12
+1,,11/30/06,3/1/05,80.0,8/23/11,,7.0,Actual,Actual,121977,1.27,Actual,Actual,Actual,Actual,Actual,Iii,7/1/07,21.0,TrialTroveID-121977,1/31/10,5/19/23
+0,,3/31/24,10/27/23,,,24.0,3.0,Anticipated,Anticipated,480510,0.58,Anticipated,Anticipated,,Anticipated,Actual,Ii,6/30/24,5.13,CTRI/2023/10/058660 NCT05981040 TrialTroveID-480510 ZYIL1.23.003,11/1/23,1/3/24
+0,,1/31/24,5/15/22,,,258.0,6.0,Anticipated,Anticipated,418007,0.23,Anticipated,Anticipated,,Anticipated,Actual,Ii,7/31/24,20.58,CardinALS EudraCT Number: 2021-006511-29 jRCT2011230040 jRCT2011230043 NCT05349721 NL81540.041.22 PTC857-CNS-001-ALS TrialTroveID-418007,3/18/24,4/26/24
+1,,,,18.0,10/1/13,,9.0,Actual,,252287,,,,Actual,,,Iv,,,TrialTroveID-252287,2/18/15,2/15/22
+1,130.0,11/1/12,8/1/10,208.0,12/7/13,160.0,12.0,Actual,Actual,198292,0.31,Actual,Actual,Actual,Actual,Actual,Iii,11/1/13,27.04,EPO200901 EPOS TRIAL EudraCT Number: 2009-016066-91 TrialTroveID-198292,12/4/13,2/15/22
+0,,,,60.0,11/3/08,,3.0,Actual,,121485,,,,Actual,,,Ii,,,TrialTroveID-121485,1/21/10,5/10/16
+0,,,,23.0,5/29/09,,24.0,Actual,,109807,,,,Actual,,,Ii,,,TrialTroveID-109807,6/4/09,11/19/10
+0,,,,26.0,11/30/06,,,,,80342,,,,Actual,,,Ii,,,TrialTroveID-080342,12/10/07,2/7/22
+0,,,,10.0,12/1/07,,24.0,Actual,,121506,,,,Actual,,,Ii,,,TrialTroveID-121506,5/31/16,11/16/23
+0,,12/29/25,4/14/22,,,64.0,6.0,Anticipated,Anticipated,422602,0.29,Anticipated,Anticipated,,Anticipated,Actual,I,6/30/26,44.54,21-35516 NCT05184569 TrialTroveID-422602 Veri-T-001,4/20/23,1/4/24
+1,104.0,11/15/21,7/28/20,167.0,6/12/23,160.0,4.9,Actual,Actual,377434,0.21,Actual,Actual,Actual,Actual,Actual,Ii/Iii,4/13/22,15.61,2019P003518B HEALEY ALS Platform Trial - Regimen B NCT04436510 TrialTroveID-377434,7/6/22,6/22/23
+0,,2/7/24,10/11/23,,,78.0,5.25,Anticipated,Anticipated,501625,19.95,Anticipated,Anticipated,,Anticipated,Actual,I,7/16/24,3.91,NCT06226064 Ph1/VES001 SORT-IN-1 TrialTroveID-501625,4/13/24,4/13/24
+0,,,,3.0,12/8/05,,0.25,Actual,,80132,,,,Actual,,,Ii,,,TrialTroveID-080132,12/10/07,2/18/22
+1,,10/1/24,9/1/23,,,248.0,2.01,Anticipated,Anticipated,487477,19.05,Anticipated,Anticipated,,Anticipated,Anticipated,Iv,12/1/24,13.02,ChiCTR2300075878 TrialTroveID-487477,10/2/23,2/8/24
+1,100.0,7/1/10,12/1/06,32.0,,32.0,1.0,Actual,Anticipated,79052,0.74,Anticipated,Anticipated,,Anticipated,Actual,Iii,8/1/10,43.0,ALSClin-001 NCT00372879 R-06-451 TrialTroveID-079052,3/7/16,3/7/16
+0,,12/1/22,4/5/22,,,60.0,12.0,Anticipated,Anticipated,366405,7.6,Anticipated,Anticipated,,Anticipated,Actual,Ii,12/1/23,7.89,19-094 MICABO-ALS NCT04244630 TrialTroveID-366405,4/11/22,4/11/22
+0,,10/2/19,6/17/19,,,20.0,6.0,Anticipated,Anticipated,332308,5.68,Anticipated,Anticipated,,Anticipated,Actual,Ii,4/1/20,3.52,2018613-6392 42595 NCT04140136 NMRR-18-1592-42595 T3-ALS-01 TrialTroveID-332308,4/8/21,5/19/23
+0,80.0,9/13/16,4/25/14,12.0,,15.0,3.0,Actual,Actual,232576,0.42,Actual,Actual,,Actual,Actual,Iii,12/13/16,28.67,14-CH-0102 140102 NCT02124083 TrialTroveID-232576,,5/16/23
+0,,,,,,,,,,48557,,,,,,,Ii,,,TrialTroveID-048557,10/29/09,5/21/10
+0,100.0,,2/3/05,24.0,7/5/05,24.0,,,,23032,,,,Actual,,Actual,I,,,TrialTroveID-023032,5/6/05,2/23/22
+0,,10/31/24,1/15/24,,,50.0,19.0,Anticipated,Anticipated,501026,2.62,Anticipated,Anticipated,,Anticipated,Actual,I,6/1/26,9.53,EudraCT Number: 2023-506509-21 NCT06215755 TrialTroveID-501026 VGCS-50635-002,4/13/24,4/29/24
+0,,9/20/23,9/23/22,,10/20/24,93.0,0.36,Anticipated,Anticipated,408472,7.82,Anticipated,Anticipated,Anticipated,Anticipated,Actual,I,10/1/23,11.9,CHDR2219 EudraCT Number: 2022-002747-22 ISRCTN14792372 TrialTroveID-408472,1/16/24,1/18/24
+0,,,,,,,,,,350224,,,,,,,I,,,TrialTroveID-350224,12/12/23,12/12/23
+0,100.0,12/7/21,12/2/20,20.0,,20.0,3.0,Actual,Actual,390891,1.64,Actual,Actual,,Actual,Actual,Iii,3/8/22,12.16,ALSTEM EudraCT Number: 2018-004171-12 NCT04651855 TrialTroveID-390891,5/5/22,1/5/24
+0,,10/22/14,9/10/14,,,24.0,0.12,Actual,Actual,216205,,Actual,Actual,,,Actual,I,10/26/14,1.38,TrialTroveID-216205 UMIN000015054,4/21/15,2/24/22
+0,,5/23/23,12/14/22,,,42.0,0.0,Actual,Actual,445376,0.89,Actual,Actual,,Actual,Actual,Iii,5/23/23,5.26,EudraCT Number: 2022-002267-29 NCT05683860 NL81832.000.22 TrialTroveID-445376 WVE-004-002,5/24/23,8/2/23
+0,70.0,2/2/23,6/28/21,35.0,,50.0,3.62,Anticipated,Anticipated,319020,0.11,Actual,Anticipated,,Anticipated,Actual,Iii,5/23/23,19.2,EudraCT Number: 2020-005193-94 FOCUS-C9 NCT04931862 NL76122.000.21 TrialTroveID-319020 WVE-004-001,6/13/23,10/25/23
+1,,,1/1/98,11.0,6/30/03,,,,,88863,,,,Actual,,Actual,Iii,,,97.039P TrialTroveID-088863,4/4/11,4/5/11
+0,,6/1/10,4/1/09,,,25.0,6.0,Actual,Anticipated,107667,1.79,Anticipated,Anticipated,,Anticipated,Actual,Ii,12/1/10,14.0,JapicCTI-090746 jRCT2080220719 NCT00886977 TrialTroveID-107667 YAM80-01,11/7/11,7/7/23
+1,101.0,10/12/21,7/29/20,162.0,7/25/23,160.0,6.0,Actual,Actual,377436,0.22,Actual,Actual,Actual,Actual,Actual,Ii/Iii,4/13/22,14.46,2019P003518A HEALEY ALS Platform Trial - Regimen A NCT04436497 TrialTroveID-377436,7/7/22,7/26/23
+0,,,,,,,0.12,Actual,,157730,,,,,,,I,,,TrialTroveID-157730,4/15/16,11/17/20
+1,,,,,5/15/13,114.0,,,,148595,,,,Actual,,,Ii/Iii,,,TrialTroveID-148595,5/28/13,2/8/22
