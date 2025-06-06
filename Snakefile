@@ -3,7 +3,7 @@
 import os
 
 # Configuration
-DATA_PATH = "/users/PAS2598/duarte63/GitHub/clinical-trial-als-deepl/db/comprehensive_merged_trial_data.csv"
+DATA_PATH = "db/comprehensive_merged_trial_data.csv"
 OUTPUT_DIR = "results"
 SCRIPTS_DIR = "scripts"
 
@@ -25,17 +25,28 @@ rule load_data:
     script:
         f"{SCRIPTS_DIR}/config_and_data.py"
 
-# Rule 2: Feature extraction
-rule extract_features:
+# Rule 2: Validate data
+rule validate_data:
     input:
         raw_data=f"{OUTPUT_DIR}/raw_data.pkl",
         config=f"{OUTPUT_DIR}/config.pkl"
+    output:
+        validation_report=f"{OUTPUT_DIR}/data_validation.txt"
+    script:
+        f"{SCRIPTS_DIR}/validate_data.py"
+
+# Rule 3: Feature extraction
+rule extract_features:
+    input:
+        raw_data=f"{OUTPUT_DIR}/raw_data.pkl",
+        config=f"{OUTPUT_DIR}/config.pkl",
+        validation_report=f"{OUTPUT_DIR}/data_validation.txt"  # Add this line
     output:
         features=f"{OUTPUT_DIR}/extracted_features.pkl"
     script:
         f"{SCRIPTS_DIR}/feature_extraction.py"
 
-# Rule 3: Data preprocessing
+# Rule 4: Data preprocessing
 rule preprocess_data:
     input:
         features=f"{OUTPUT_DIR}/extracted_features.pkl",
@@ -47,7 +58,7 @@ rule preprocess_data:
     script:
         f"{SCRIPTS_DIR}/preprocessing.py"
 
-# Rule 4: Define model architecture
+# Rule 5: Define model architecture
 rule setup_model:
     input:
         config=f"{OUTPUT_DIR}/config.pkl"
@@ -56,7 +67,7 @@ rule setup_model:
     script:
         f"{SCRIPTS_DIR}/model_architecture.py"
 
-# Rule 5: Training and evaluation functions
+# Rule 6: Training and evaluation functions
 rule setup_training:
     input:
         config=f"{OUTPUT_DIR}/config.pkl",
@@ -66,16 +77,15 @@ rule setup_training:
     script:
         f"{SCRIPTS_DIR}/training_functions.py"
 
-# Rule 6: Cross-validation setup
+# Rule 7: Cross-validation setup
 rule setup_cv:
     input:
-        config=f"{OUTPUT_DIR}/config.pkl"
+        config=f"{OUTPUT_DIR}/config.pkl",
+        model_classes=f"{OUTPUT_DIR}/model_classes.pkl"  # Add this
     output:
         cv_functions=f"{OUTPUT_DIR}/cv_functions.pkl"
-    script:
-        f"{SCRIPTS_DIR}/crossval_functions.py"
 
-# Rule 7: Run complete analysis
+# Rule 8: Run complete analysis
 rule run_analysis:
     input:
         processed_data=f"{OUTPUT_DIR}/processed_data.pkl",
@@ -90,7 +100,7 @@ rule run_analysis:
     script:
         f"{SCRIPTS_DIR}/run_analysis.py"
 
-# Rule 8: Generate final report and visualizations
+# Rule 9: Generate final report and visualizations
 rule generate_report:
     input:
         results=f"{OUTPUT_DIR}/cv_results.pkl",
@@ -104,10 +114,21 @@ rule generate_report:
     script:
         f"{SCRIPTS_DIR}/final_report.py"
 
-# Helper rule to clean outputs
+# Helper rule to clean outputs (with confirmation)
 rule clean:
     shell:
-        "rm -rf {OUTPUT_DIR}/*"
+        """
+        echo "⚠️  This will delete ALL results in {OUTPUT_DIR}/"
+        echo "Continue? (y/N)"
+        read -r response
+        if [[ "$response" =~ ^[Yy]$ ]]; then
+            echo "🗑️  Cleaning {OUTPUT_DIR}..."
+            rm -rf {OUTPUT_DIR}/*
+            echo "✓ Clean complete"
+        else
+            echo "❌ Clean cancelled"
+        fi
+        """
 
 # Helper rule to setup directory structure
 rule setup:

@@ -74,7 +74,7 @@ def main():
     """Main execution function"""
     
     print("=" * 60)
-    print("ALS CLINICAL TRIALS PREDICTION PIPELINE")
+    print("CLINICAL TRIAL PREDICTION PIPELINE")
     print("=" * 60)
     
     # Setup
