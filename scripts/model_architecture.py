@@ -7,6 +7,7 @@ import torch as tc
 import torch.nn as nn
 import pickle
 import copy
+from config_and_data import ModelConfig
 
 
 class LRP_Linear(nn.Module):
@@ -292,36 +293,55 @@ def test_model_architecture(n_features, config):
 
 
 def validate_model_components():
-    """Validate all model components work correctly"""
+    """Validate all model components and LRP functionality"""
     print("🔍 Validating model components...")
     
-    # Test individual layers
-    test_input = tc.randn(5, 10)
+    # Test LRP Linear layer
+    inp_size = 10
+    out_size = 5
+    batch_size = 2
     
-    # Test LRP_Linear
-    linear = LRP_Linear(10, 5)
+    # Create test input with gradients
+    x = tc.randn(batch_size, inp_size, requires_grad=True)
+    R = tc.ones(batch_size, out_size)
+    
+    # Create and test linear layer
+    linear = LRP_Linear(inp_size, out_size)
     linear.iteration = 0
-    linear.eval()
-    with tc.no_grad():
-        out = linear(test_input)
-        R = tc.ones_like(out)
+    linear.eval()  # Important: set to eval mode for testing
+    
+    # Forward pass
+    y = linear(x)
+    
+    # Test LRP
+    try:
         rel = linear.relprop(R)
-        print(f"✓ LRP_Linear: {test_input.shape} -> {out.shape} -> {rel.shape}")
+        print("✓ LRP Linear layer validated")
+    except Exception as e:
+        print(f"❌ LRP Linear layer failed: {str(e)}")
+        raise
     
-    # Test LRP_ReLU
+    # Test ReLU
     relu = LRP_ReLU()
-    out = relu(test_input)
-    rel = relu.relprop(tc.ones_like(out))
-    print(f"✓ LRP_ReLU: {test_input.shape} -> {out.shape} -> {rel.shape}")
+    try:
+        y_relu = relu(x)
+        R_relu = relu.relprop(R)
+        print("✓ LRP ReLU layer validated")
+    except Exception as e:
+        print(f"❌ LRP ReLU layer failed: {str(e)}")
+        raise
     
-    # Test LRP_DropOut
-    dropout = LRP_DropOut(0.1)
-    dropout.eval()  # Important: set to eval mode for consistent testing
-    out = dropout(test_input)
-    rel = dropout.relprop(tc.ones_like(out))
-    print(f"✓ LRP_DropOut: {test_input.shape} -> {out.shape} -> {rel.shape}")
+    # Test Dropout
+    dropout = LRP_DropOut(0.5)
+    try:
+        y_drop = dropout(x)
+        R_drop = dropout.relprop(R)
+        print("✓ LRP Dropout layer validated")
+    except Exception as e:
+        print(f"❌ LRP Dropout layer failed: {str(e)}")
+        raise
     
-    print("✓ All model components validated")
+    print("✓ All model components validated successfully")
 
 
 if __name__ == "__main__":

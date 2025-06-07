@@ -7,6 +7,8 @@ import pandas as pd
 import numpy as np
 import pickle
 from collections import Counter
+from pathlib import Path
+from config_and_data import ModelConfig
 
 
 def extract_keywords_features(df):

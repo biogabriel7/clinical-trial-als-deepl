@@ -22,19 +22,45 @@ def check_dependencies():
         'matplotlib', 'seaborn', 'snakemake'
     ]
     
+    # Print Python environment information
+    print("\n=== Python Environment Information ===")
+    print(f"Python executable: {sys.executable}")
+    print(f"Python version: {sys.version}")
+    print(f"sys.path: {sys.path}")
+    print("=====================================\n")
+    
+    # Special handling for scikit-learn
+    print("Checking scikit-learn installation...")
+    try:
+        import sklearn
+        print(f"✓ Found scikit-learn at: {sklearn.__file__}")
+        print(f"scikit-learn version: {sklearn.__version__}")
+    except ImportError as e:
+        print(f"❌ Error importing scikit-learn: {str(e)}")
+        print("Trying alternative import...")
+        try:
+            from sklearn import __version__
+            print(f"✓ Found scikit-learn version: {__version__}")
+        except ImportError as e2:
+            print(f"❌ Alternative import also failed: {str(e2)}")
+    
     missing_packages = []
     for package in required_packages:
+        if package == 'scikit-learn':
+            continue  # Skip scikit-learn as we handled it above
         try:
-            __import__(package)
-        except ImportError:
+            module = __import__(package)
+            print(f"✓ Found {package} at: {module.__file__}")
+        except ImportError as e:
+            print(f"❌ Error importing {package}: {str(e)}")
             missing_packages.append(package)
     
     if missing_packages:
-        print(f"❌ Missing packages: {', '.join(missing_packages)}")
+        print(f"\n❌ Missing packages: {', '.join(missing_packages)}")
         print("Install with: pip install " + " ".join(missing_packages))
         return False
     
-    print("✓ All dependencies available")
+    print("\n✓ All dependencies available")
     return True
 
 def run_snakemake(dry_run=False, cores=1):

@@ -8,6 +8,7 @@ import pandas as pd
 import numpy as np
 import pickle
 from pathlib import Path
+from config_and_data import ModelConfig
 
 
 def validate_target_column(df, target_column):
@@ -187,7 +188,7 @@ def validate_numerical_ranges(df):
                 'mean': float(df[col].mean()),
                 'negative_values': int((df[col] < 0).sum()),
                 'zero_values': int((df[col] == 0).sum()),
-                'outliers': int(np.abs((df[col] - df[col].mean()) / df[col].std()) > 3).sum() if df[col].std() > 0 else 0
+                'outliers': int(((df[col] - df[col].mean()).abs() / df[col].std() > 3).sum()) if df[col].std() > 0 else 0
             }
             
             # Check for suspicious values
