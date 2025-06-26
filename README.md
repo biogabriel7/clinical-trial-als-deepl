@@ -1,261 +1,305 @@
-# Clinical Trial Success Prediction Model
+# ALS Clinical Trial Success Prediction Model
 
-A machine learning model that predicts the probability of clinical trials reaching Phase 3+ based on design-time features, achieving **87.4% ROC-AUC** through advanced feature engineering.
+A machine learning model to predict the success of ALS (Amyotrophic Lateral Sclerosis) clinical trials based on comprehensive trial characteristics. This model helps researchers and pharmaceutical companies optimize trial design and resource allocation.
 
 ## 🎯 Overview
 
-This model helps predict clinical trial success at the **design stage**, the data was compiled using Citeline. It's specifically designed to:
+This project implements a Gradient Boosting classifier that predicts whether an ALS clinical trial will reach Phase 3 or beyond. The model achieves:
 
-- ✅ **Avoid data leakage** - Only uses features available at trial design time
-- 🔧 **Extract hidden value** - Advanced feature engineering from high-cardinality categorical data
-- 📊 **Provide actionable insights** - Identifies key success factors for trial optimization
-- 🚀 **Ready for production** - Includes deployment utilities and batch prediction
+- **ROC-AUC**: 0.849 (excellent discrimination)
+- **Recall**: 89% at optimal threshold (catches most successful trials)
+- **Precision**: 37% at optimal threshold (worth investigating ~3 trials to find 1 success)
 
-## 📋 Quick Start
+## 📊 Key Features
 
-### 1. Installation
+- **Comprehensive data leakage prevention** - Removes 36+ features that could cause overfitting
+- **Advanced feature engineering** - Creates 37 sophisticated features across 6 categories
+- **Class balancing with SMOTE** - Handles imbalanced dataset (22.8% positive class)
+- **Optimized decision threshold** - Maximizes recall for clinical applications
+- **Actionable recommendations** - Provides specific guidance for trial design
+
+## 🚀 Quick Start
+
+### Installation
 
 ```bash
-# Install required packages
-pip install pandas numpy matplotlib seaborn scikit-learn
+# Clone the repository
+git clone https://github.com/yourusername/clinical-trial-als-deepl.git
+cd clinical-trial-als-deepl
 
-# Optional: For advanced features
-pip install category-encoders scipy
+# Install dependencies
+pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn joblib
 ```
 
-### 2. Prepare Your Data
-
-Your CSV file should contain clinical trial data with the following structure:
+### Basic Usage
 
 ```python
-# Required columns for the model to work
-required_columns = [
-    'reached_phase_3_plus',  # Target variable (0/1)
-    'Target Accrual',        # Planned number of patients
-    'Disease',               # Disease area(s)
-    'Study Keywords',        # Trial keywords
-    'Associated CRO',        # Contract Research Organization
-    'Trial Tag/Attribute',   # Trial attributes
-    'Patient Segment',       # Patient population focus
-    # ... plus other design-time features
-]
-```
+from als_trial_success_model import ALSTrialSuccessPredictor
 
-### 3. Run the Model
+# Initialize and train model
+predictor = ALSTrialSuccessPredictor(random_state=42)
 
-```python
-# Update the data path in the script
-df = pd.read_csv('your_data_file.csv')
+# Load your data
+df = pd.read_csv('comprehensive_merged_trial_data.csv')
+X, y = predictor.prepare_features(df, 'reached_phase_3_plus')
 
-# Run the complete model
-python complete_enhanced_model.py
-```
+# Train model
+metrics = predictor.train(X, y)
+print(f"ROC-AUC: {metrics['roc_auc']:.3f}")
 
-## 📊 Data Structure Requirements
-
-### Target Variable
-- **`reached_phase_3_plus`**: Binary (0/1) indicating if trial reached Phase 3 or beyond
-
-### Core Predictive Features
-
-| Feature Category | Example Columns | Description |
-|-----------------|----------------|-------------|
-| **Trial Design** | `Target Accrual`, `Enrollment Duration (Mos.)` | Basic trial parameters |
-| **Endpoints** | `endpoint_survival`, `endpoint_safety`, `endpoint_efficacy` | Endpoint strategy |
-| **Sponsor Info** | `sponsor_is_academic`, `sponsor_trial_count` | Sponsor characteristics |
-| **Disease** | `Disease` | Disease area(s) - will be processed into categories |
-| **Keywords** | `Study Keywords` | Trial keywords - will be processed for high-value terms |
-| **CRO** | `Associated CRO` | Contract Research Organization |
-| **Attributes** | `Trial Tag/Attribute` | Trial tags and attributes |
-| **Patient Focus** | `Patient Segment` | Patient population focus |
-
-### Features to EXCLUDE (Data Leakage)
-❌ **Do NOT include these in your dataset:**
-- Trial phase information (`Trial Phase_III`, `Trial Phase_IV`, etc.)
-- Trial status (`Trial Status_Completed`, `Trial Status_Terminated`, etc.)
-- Outcome information (`outcome_positive`, `outcome_negative`, etc.)
-- Post-completion dates (`Primary Endpoints Reported Date`, etc.)
-- Actual enrollment numbers (`Actual Accrual`, etc.)
-
-## 🔧 Feature Engineering
-
-The model automatically creates enhanced features from your raw data:
-
-### 1. Smart Disease Grouping
-```python
-# From: Disease = "CNS: Alzheimer's Disease; CNS: Dementia"
-# Creates: disease_is_alzheimer_dementia = 1
-```
-
-### 2. High-Value Keywords
-```python
-# From: Study Keywords = "double blind; placebo; efficacy"
-# Creates: keyword_double_blind = 1, keyword_placebo = 1, keyword_efficacy = 1
-```
-
-### 3. CRO Quality Indicators
-```python
-# From: Associated CRO = "IQVIA"
-# Creates: cro_is_high_performing = 1
-```
-
-### 4. Trial Attributes
-```python
-# From: Trial Tag/Attribute = "Registration; Biomarker/Efficacy"
-# Creates: attr_has_registration = 1, attr_has_biomarker = 1
-```
-
-### 5. Patient Segment Focus
-```python
-# From: Patient Segment = "Symptom relief"
-# Creates: segment_symptom_relief = 1
-```
-
-## 🚀 Usage Examples
-
-### Basic Prediction
-```python
-# Load and run the model
-python complete_enhanced_model.py
-
-# The script will automatically:
-# 1. Load your data
-# 2. Engineer features
-# 3. Train multiple models
-# 4. Show performance metrics
-# 5. Provide feature importance
-# 6. Create visualizations
-```
-
-### Predict New Trial
-```python
-# Example high-potential trial
-new_trial = {
-    'Target Accrual': 200,           # Larger trial
-    'attr_has_registration': 1,      # Registration trial
-    'segment_symptom_relief': 1,     # Symptom relief focus
-    'keyword_efficacy': 1,           # Efficacy keyword
-    'keyword_placebo': 1,            # Placebo keyword
-    'cro_is_high_performing': 1,     # High-performing CRO
-    'endpoint_survival': 1,          # Survival endpoint
-    'sponsor_is_academic': 1         # Academic sponsor
-}
-
-# Predict success probability
-success_prob = predict_trial_success(new_trial)
-print(f"Success probability: {success_prob:.1%}")
-# Expected output: ~85-90% success probability
-```
-
-### Batch Predictions
-```python
-# For multiple trials
-results = batch_predict_trials(your_trials_df, model_package)
-print(results[['Trial_ID', 'predicted_success_probability', 'predicted_success_category']])
+# Make predictions
+probability = predictor.predict_proba(new_trial_data)
+prediction = predictor.predict(new_trial_data)
 ```
 
 ## 📁 File Structure
 
 ```
-clinical-trial-model/
-├── complete_enhanced_model.py    # Main model implementation
-├── model_extensions.py           # Advanced utilities
-├── README.md                     # This file
-├── requirements.txt              # Python dependencies
-└── data/
-    └── your_trial_data.csv       # Your clinical trial dataset
+clinical-trial-als-deepl/
+├── als_trial_success_model.py    # Main model implementation
+├── predict_trial_success.py      # CLI for predictions
+├── example_usage.ipynb          # Jupyter notebook with examples
+├── README.md                    # This documentation
+└── .gitignore                   # Git ignore file
 ```
 
-## 🔍 Model Outputs
+## 🔧 Command Line Interface
 
-### 1. Performance Metrics
-- ROC-AUC scores for all models
-- Precision, recall, F1-score
-- Confusion matrices
-- Cross-validation results
+### Interactive Mode
+Analyze a single trial with guided input:
+```bash
+python predict_trial_success.py --interactive
+```
 
-### 2. Visualizations
-- ROC curves
-- Precision-recall curves
-- Feature importance plots
-- Model comparison charts
-- Correlation heatmaps
+Example session:
+```
+Interactive Trial Analysis
+==================================================
+Enter trial characteristics (press Enter to skip):
+Target patient enrollment (e.g., 100): 150
+Planned enrollment duration in months (e.g., 18): 18
+Treatment duration in months (e.g., 12): 12
+Does trial include survival endpoints? (1=yes, 0=no): 1
+Number of efficacy endpoints (e.g., 3): 3
+...
 
-### 3. Feature Importance
-- Top 20 most important features
-- Engineered vs original feature breakdown
-- Business interpretation of key factors
+ANALYSIS RESULTS
+==================================================
+Success Probability: 72.3%
+Prediction: Success
+Confidence: High
+```
 
-### 4. Predictions
-- Individual trial success probabilities
-- Risk categories (Low/Medium/High)
-- Confidence intervals
+### Batch Predictions
+Process multiple trials from a CSV file:
+```bash
+python predict_trial_success.py --input trials.csv --output predictions.csv
+```
 
-## ⚙️ Advanced Features
+### Using Pre-trained Model
+```bash
+python predict_trial_success.py --model saved_model.pkl --input data.csv --output results.csv
+```
 
-### Hyperparameter Optimization
+## 📈 Model Performance
+
+### Top 10 Predictive Features
+
+1. **Target Accrual** (0.173) - Larger trials (>100 patients) have more statistical power
+2. **Population Specificity** (0.039) - Specific patient populations improve success
+3. **Success Indicator Score** (0.032) - Composite score effectively captures patterns
+4. **Survival Endpoints** (0.030) - Trials with survival metrics are 3x more likely to succeed
+5. **Trial Quality Index** (0.030) - Overall trial design sophistication
+6. **Biomarker Endpoints** (0.029) - Biomarker usage improves patient stratification
+7. **Enrollment Duration** (0.023) - Adequate time (12-18 months) for recruitment
+8. **Safety Endpoints** (0.023) - Comprehensive safety monitoring
+9. **Sponsor Experience** (0.021) - Experienced sponsors have higher success rates
+10. **Documentation Quality** (0.017) - Better documentation correlates with success
+
+### Confusion Matrix at Optimal Threshold (0.125)
+
+```
+                 Predicted Failed  Predicted Successful
+Actually Failed        56%                44%
+Actually Successful    11%                89%
+```
+
+## 💡 Key Recommendations for Trial Success
+
+1. **PRIORITIZE SURVIVAL ENDPOINTS**: Trials with clear survival metrics are 3x more likely to succeed
+2. **PLAN ADEQUATE ENROLLMENT TIME**: Allow at least 12-18 months for patient recruitment
+3. **TARGET 100-300 PATIENTS**: This range balances statistical power with feasibility
+4. **INVEST IN DOCUMENTATION**: Trials with >10 supporting documents show 2x success rate
+5. **PARTNER WITH EXPERIENCED SPONSORS**: First-time sponsors have <10% success rate
+6. **DEFINE CLEAR PATIENT POPULATIONS**: Detailed inclusion/exclusion criteria improve outcomes
+7. **CONSIDER BIOMARKERS**: Trials with prognostic biomarkers show better stratification
+
+## 🛠️ Advanced Usage
+
+### Custom Feature Engineering
+
 ```python
-# Optimize model performance
-optimized_model = optimize_best_model(X_train, y_train, 'Random Forest')
+# Add your own features to the model
+def create_custom_features(df):
+    features = pd.DataFrame(index=df.index)
+    features['my_custom_feature'] = df['column1'] * df['column2']
+    return features
+
+# Extend the predictor
+class CustomALSPredictor(ALSTrialSuccessPredictor):
+    def engineer_features(self, df):
+        base_features = super().engineer_features(df)
+        custom_features = create_custom_features(df)
+        return pd.concat([base_features, custom_features], axis=1)
 ```
 
-### Feature Interaction Analysis
+### Model Persistence
+
 ```python
-# Analyze feature correlations
-analyze_feature_interactions(model, X_train, y_train)
+# Save trained model
+predictor.save_model('als_model_v1.pkl')
+
+# Load model later
+new_predictor = ALSTrialSuccessPredictor()
+new_predictor.load_model('als_model_v1.pkl')
 ```
 
-### Model Deployment
+### Feature Importance Analysis
+
 ```python
-# Save model for production
-save_complete_model(model, scaler, feature_columns, model_name)
+# Get detailed feature importance
+importance_df = predictor.get_feature_importance(top_n=20)
 
-# Load saved model
-model_package = load_complete_model('clinical_trial_model.pkl')
+# Visualize
+import matplotlib.pyplot as plt
+plt.barh(importance_df['Feature'], importance_df['Importance'])
+plt.xlabel('Importance Score')
+plt.title('Feature Importance for ALS Trial Success')
+plt.show()
 ```
 
-## 🔧 Troubleshooting
+## 📊 Data Requirements
 
-### Common Issues
+The model expects a CSV file with the following key columns:
 
-**1. Missing Columns Error**
+### Required Columns
+- `reached_phase_3_plus` (target variable): Binary indicator of trial success
+- `Target Accrual`: Planned number of patients
+- `Enrollment Duration (Mos.)`: Planned enrollment duration
+- `Treatment Duration (Mos.)`: Treatment period length
+
+### Recommended Columns
+- Endpoint indicators: `endpoint_survival`, `endpoint_efficacy`, `endpoint_safety`
+- Sponsor information: `sponsor_trial_count`, `sponsor_is_major_pharma`
+- Biomarker usage: `biomarker_total_uses`, `biomarker_prognostic`
+- Trial documentation: `supporting_url_count`, `population_description_length`
+- Criteria lengths: `inclusion_criteria_length`, `exclusion_criteria_length`
+
+### Features Automatically Removed (Data Leakage Prevention)
+The model automatically removes these features to prevent overfitting:
+- Trial phase information (e.g., `Trial Phase_III`)
+- Trial status (e.g., `Trial Status_Completed`)
+- Outcome features (e.g., `outcome_positive`)
+- Post-completion dates
+- Actual enrollment numbers
+
+## 🔬 Technical Details
+
+### Feature Engineering Categories
+
+1. **Sponsor Sophistication** (4 features)
+   - Experience score, risk profiles
+
+2. **Trial Complexity** (10 features)
+   - Design sophistication, endpoint strategies, accrual appropriateness
+
+3. **Biomarker Usage** (6 features)
+   - Strategy sophistication, neurological/genetic biomarker counts
+
+4. **Temporal Features** (6 features)
+   - Duration appropriateness, enrollment efficiency
+
+5. **Patient Population** (7 features)
+   - Age/gender strategies, criteria balance
+
+6. **Composite Indicators** (4 features)
+   - Success indicator score, trial quality index, preparedness score
+
+### Model Architecture
+
+- **Algorithm**: Gradient Boosting Classifier
+- **Parameters**:
+  - n_estimators: 100
+  - learning_rate: 0.1
+  - max_depth: 4
+  - min_samples_split: 30
+  - min_samples_leaf: 15
+  - subsample: 0.8
+- **Class Balancing**: SMOTE with 0.5 sampling strategy
+- **Optimal Threshold**: 0.125 (optimized for F2 score)
+
+## 📝 Example: Complete Analysis Workflow
+
 ```python
-# Solution: Ensure your CSV has the required columns
-required_cols = ['reached_phase_3_plus', 'Target Accrual', 'Disease', ...]
-missing_cols = [col for col in required_cols if col not in df.columns]
-print(f"Missing columns: {missing_cols}")
+import pandas as pd
+from als_trial_success_model import ALSTrialSuccessPredictor
+
+# 1. Load and prepare data
+df = pd.read_csv('als_trials.csv')
+predictor = ALSTrialSuccessPredictor()
+X, y = predictor.prepare_features(df, 'reached_phase_3_plus')
+
+# 2. Train model
+metrics = predictor.train(X, y)
+print(f"Model Performance: ROC-AUC = {metrics['roc_auc']:.3f}")
+
+# 3. Analyze a new trial
+new_trial = pd.DataFrame({
+    'Target Accrual': [200],
+    'Enrollment Duration (Mos.)': [18],
+    'endpoint_survival': [1],
+    'sponsor_trial_count': [15],
+    # ... other features
+})
+
+# Fill missing features
+for feature in predictor.feature_names:
+    if feature not in new_trial.columns:
+        new_trial[feature] = 0
+
+# 4. Get prediction
+prob = predictor.predict_proba(new_trial)[0, 1]
+pred = predictor.predict(new_trial)[0]
+
+print(f"\nTrial Analysis:")
+print(f"Success Probability: {prob:.1%}")
+print(f"Recommendation: {'Proceed with trial' if pred else 'Reconsider design'}")
+
+# 5. Get insights
+importance = predictor.get_feature_importance()
+print(f"\nTop Success Factors:")
+for _, row in importance.head(5).iterrows():
+    print(f"- {row['Feature']}: {row['Importance']:.3f}")
 ```
 
-**3. Feature Engineering Errors**
-```python
-# Verify high-cardinality columns exist
-high_card_cols = ['Disease', 'Study Keywords', 'Associated CRO', 'Trial Tag/Attribute', 'Patient Segment']
-existing_cols = [col for col in high_card_cols if col in df.columns]
-print(f"Available for feature engineering: {existing_cols}")
-```
+## 🤝 Contributing
 
-## 📞 Support
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-gabriel.duarte@osumc.edu
+## 📜 License
 
-### Model Validation Checklist
-- [ ] Target variable is binary (0/1)
-- [ ] No data leakage features included
-- [ ] High-cardinality categorical features present
-- [ ] Reasonable success rate (10-50%)
-- [ ] Sufficient sample size (>200 trials recommended)
+This project is licensed under the MIT License.
 
-### Getting Help
-1. **Check data structure** against requirements above
-2. **Verify feature engineering** is working correctly
-3. **Review performance metrics** for reasonableness
-4. **Examine feature importance** for business logic
+## 🙏 Acknowledgments
 
-## 📄 License
+- Data source: Comprehensive merged trial data from Citeline database
+- Inspired by the urgent need to accelerate ALS drug development
+- Thanks to all researchers working to find treatments for ALS
 
-This model is provided under MIT license.
+## 📧 Contact
+
+For questions or collaborations, please contact: gabriel.duarte@osumc.edu
 
 ---
 
-**Ready to predict clinical trial success? Start with `complete_enhanced_model.py`!** 
-
+**Note**: This model is for research purposes only and should not be used as the sole basis for clinical trial decisions. Always consult with clinical experts and regulatory guidelines.
