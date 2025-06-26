@@ -3,3 +3,22 @@ logs/
 results/
 scripts/__pycache__/
 notebooks/
+
+# Ignore all files in db directory
+db/
+
+# Ignore environment files
+environment.yml
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore the original development notebook
+trying-new-stuff.ipynb
+
+# Keep only the ALS model files
+# The following files should NOT be ignored:
+# - als_trial_success_model.py
+# - predict_trial_success.py
+# - example_usage.ipynb
+# - README_ALS_MODEL.md
